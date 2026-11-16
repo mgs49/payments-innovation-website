@@ -85,6 +85,12 @@
 .alt .news-list .news-date { font-weight: 600; font-variant-numeric: tabular-nums; }
 .alt .prose ul.news-list, .alt .prose ul.logo-wall { list-style: none; }
 
+/* YouTube play button */
+.alt .yt-play { background: var(--gold); border-radius: 0; box-shadow: none; }
+.alt .yt-play::after { border-left-color: var(--navy); }
+.alt .yt a:hover .yt-play, .alt .yt a:focus-visible .yt-play { box-shadow: 0 0 0 3px #fff; }
+.alt .prose .yt a:hover { background: #000; }
+
 /* Client logos */
 .alt .logo-wall li { border-radius: 0; border-color: var(--line); }
 .alt .logo-wall li:hover { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }

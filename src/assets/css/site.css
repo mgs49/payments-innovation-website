@@ -215,3 +215,16 @@ strong, b { font-weight: 600; }
 .look-switch button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer;
   text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 0.2em; }
 .look-switch button:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+
+/* YouTube videos: still picture with a play button; the player loads on click (script in base.njk) */
+.yt a { position: absolute; inset: 0; display: block; background: #000; }
+.yt a:hover { background: #000; }
+.yt img { width: 100%; height: 100%; object-fit: contain; display: block; border-radius: 0; }
+.yt-play { position: absolute; left: 50%; top: 50%; width: 4.6rem; height: 3.2rem; margin: -1.6rem 0 0 -2.3rem; border-radius: 0.6rem;
+  background: var(--ink); overflow: hidden; text-indent: -999rem; box-shadow: 0 0 0 2px rgba(255, 255, 255, 0.85); }
+.yt-play::after { content: ""; position: absolute; left: 50%; top: 50%; margin: -0.65rem 0 0 -0.4rem;
+  border-style: solid; border-width: 0.65rem 0 0.65rem 1.1rem; border-color: transparent transparent transparent #fff; }
+.yt a:hover .yt-play, .yt a:focus-visible .yt-play { box-shadow: 0 0 0 3px var(--accent); }
+.yt-note { position: absolute; left: 0; bottom: 0; padding: 0.25rem 0.7rem; background: rgba(15, 33, 71, 0.85); color: #fff; font-size: 0.85rem; }
+.prose .clips { clear: both; margin-bottom: 1.2rem; }
+.clips .video { margin-bottom: 0; }

@@ -39,7 +39,7 @@ On the lectures and publications pages a heading that is just a year (`## 2027`)
 
 [Eleventy](https://www.11ty.dev/) turns `src/` into the finished site in `_site/`. On every push to `main` the workflow in `.github/workflows/deploy.yml` builds the site, checks every internal link and picture, and publishes to the `gh-pages` branch, which GitHub Pages serves.
 
-The site sets no cookies and uses no trackers. Its own videos are stored in the repository. The only outside content is four YouTube videos (three on the lectures page, one on the events page), loaded through YouTube's no-cookie address.
+The site sets no cookies and uses no trackers. Its own videos are stored in the repository. The only outside content is YouTube videos on the media, lectures and events pages. Each shows a still picture stored in `src/assets/video/yt/`; the YouTube player (no-cookie address) is loaded only when the visitor presses play.
 
 Links to the personal site are written as `https://www.salmony.co.uk/...`. While that site is still a preview they are pointed at the preview automatically; set `personalUrl` in `src/_data/site.json` to `https://www.salmony.co.uk` when it goes live.
 

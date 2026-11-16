@@ -20,7 +20,7 @@ This site is hosted by GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kell
 
 ## Videos
 
-Some pages show videos provided by YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland). They are embedded through YouTube's privacy-enhanced address (youtube-nocookie.com). Your browser nevertheless connects to YouTube's servers when such a page is displayed, and YouTube receives your IP address; when you start a video, YouTube may store data on your device and process usage data under its own responsibility. See [Google's privacy policy](https://policies.google.com/privacy). Other videos are stored on this site itself and involve no third party.
+Some pages show videos provided by YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland). Until you press play, only a still picture stored on this site is shown and no connection to YouTube is made. When you press play, the video is loaded through YouTube's privacy-enhanced address (youtube-nocookie.com): your browser then connects to YouTube's servers, YouTube receives your IP address, and YouTube may store data on your device and process usage data under its own responsibility. See [Google's privacy policy](https://policies.google.com/privacy). Other videos are stored on this site itself and involve no third party.
 
 ## Links to other websites
 

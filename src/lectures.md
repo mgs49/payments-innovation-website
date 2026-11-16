@@ -1260,11 +1260,11 @@ at New Scientist Live – [The World’s Greatest Science Festival](https://live
 much [tweeted](https://twitter.com/newscilive/status/1141269486936514560/photo/1) about (since wrongly tagged with \#crypto) and much [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6548851381497839616), [tweeted](https://twitter.com/eW_eu/status/1150738675627679746?s=20) with video, etc  
 [<img src="/assets/uploads/2019/07/nsltweet-298x300.png" class="left" loading="lazy" width="298" height="300">](/assets/uploads/2019/07/nsltweet.png)[<img src="/assets/uploads/2019/06/NSL-tweet-283x300.png" class="left" loading="lazy" width="283" height="300">](/assets/uploads/2019/06/NSL-tweet.png)
 
-<iframe allowfullscreen loading="lazy" src="https://www.youtube-nocookie.com/embed/kdsgxCZefnU" title="NSL End of Money w titles"></iframe>
-
-<iframe allowfullscreen loading="lazy" src="https://www.youtube-nocookie.com/embed/ZznZE2yaqDg" title="NSL Knife technology"></iframe>
-
-<iframe allowfullscreen loading="lazy" src="https://www.youtube-nocookie.com/embed/_-38Q_FAN0Q" title="Michael Salmony at NSL 2019 - The End of Money"></iframe>
+<div class="clips">
+<div class="video yt"><a href="https://www.youtube.com/watch?v=kdsgxCZefnU" data-yt="kdsgxCZefnU" title="NSL End of Money w titles"><img src="/assets/video/yt/nsl-2019-end-of-money-teaser.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: NSL End of Money w titles</span><span class="yt-note">Plays from YouTube</span></a></div>
+<div class="video yt"><a href="https://www.youtube.com/watch?v=ZznZE2yaqDg" data-yt="ZznZE2yaqDg" title="NSL Knife technology"><img src="/assets/video/yt/nsl-2019-payment-technology.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: NSL Knife technology</span><span class="yt-note">Plays from YouTube</span></a></div>
+<div class="video yt"><a href="https://www.youtube.com/watch?v=_-38Q_FAN0Q" data-yt="_-38Q_FAN0Q" title="Michael Salmony at NSL 2019 - The End of Money"><img src="/assets/video/yt/nsl-2019-end-of-money-talk.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Michael Salmony at NSL 2019 - The End of Money</span><span class="yt-note">Plays from YouTube</span></a></div>
+</div>
 
 **29.10.19**
 

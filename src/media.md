@@ -13,15 +13,31 @@ Appearances in T.V, Radio, Podcasts and other media, This section is not includi
 
 <video class="video-own" controls preload="none" poster="/assets/video/portrait-michael-salmony.jpg" width="1280" height="720"><source src="/assets/video/portrait-michael-salmony.mp4" type="video/mp4"></video>
 
+### Interview at Saïd Business School, Oxford, 2024
+
+Interviewed at Saïd Business School, University of Oxford, on Open Banking, Open Finance and AI
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=fAfjzIb-D_M" data-yt="fAfjzIb-D_M" title="Interview at Saïd Business School, Oxford, 2024"><img src="/assets/video/yt/said-oxford-interview-2024.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Interview at Saïd Business School, Oxford, 2024</span><span class="yt-note">Plays from YouTube</span></a></div>
+
 ### European Parliament hearing, March 2016
 
 Salmony as Chair of Public Hearing on “How can we make the most of the opportunities presented by innovation?” for the European Commission’s Green Paper on Retail Financial Services with Lord Hill and 500 invited members at European Parliament March 2016
 
-<video class="video-own" controls preload="none" poster="/assets/video/european-parliament-hearing-2016.jpg" width="640" height="360"><source src="/assets/video/european-parliament-hearing-2016.mp4" type="video/mp4"></video>
+<div class="video yt"><a href="https://www.youtube.com/watch?v=AE0BXH5KdOM" data-yt="AE0BXH5KdOM" title="European Parliament hearing, March 2016"><img src="/assets/video/european-parliament-hearing-2016.jpg" alt="" loading="lazy" width="640" height="360"><span class="yt-play">Play: European Parliament hearing, March 2016</span><span class="yt-note">Plays from YouTube</span></a></div>
 
 ### Salmony at ECB Conference 2017
 
-<video class="video-own" controls preload="none" poster="/assets/video/salmony-ecb-conference-2017.jpg" width="960" height="540"><source src="/assets/video/salmony-ecb-conference-2017.mp4" type="video/mp4"></video>
+<div class="video yt"><a href="https://www.youtube.com/watch?v=bh9RFnCpVNE" data-yt="bh9RFnCpVNE" title="Salmony at ECB Conference 2017"><img src="/assets/video/salmony-ecb-conference-2017.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Salmony at ECB Conference 2017</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### Technology panel at the EPC 20th Anniversary event, June 2022
+
+Chair of executive banking panel on “Technology - a threat and an opportunity?” with Google, Nexi, Banco Santander and BEUC at the European Payments Council’s 20th Anniversary event, Brussels
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=CvpcvQlUF6s" data-yt="CvpcvQlUF6s" title="Technology panel at the EPC 20th Anniversary event, June 2022"><img src="/assets/video/yt/epc-20th-anniversary-panel-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Technology panel at the EPC 20th Anniversary event, June 2022</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### Fireside chat on Open Banking, Mastercard LAC Innovation Forum, 2021
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=_DoOGix1m94" data-yt="_DoOGix1m94" title="Fireside chat on Open Banking, Mastercard LAC Innovation Forum, 2021"><img src="/assets/video/yt/mastercard-open-banking-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: Fireside chat on Open Banking, Mastercard LAC Innovation Forum, 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
 
 ### Interview on PSD2, Amsterdam 2017
 
@@ -32,7 +48,6 @@ Salmony as Chair of Public Hearing on “How can we make the most of the opportu
 <div class="clips">
 <figure><video class="video-own" controls preload="none" poster="/assets/video/end-of-money-new-scientist-live-2019.jpg" width="640" height="480"><source src="/assets/video/end-of-money-new-scientist-live-2019.mp4" type="video/mp4"></video><figcaption>“The End of Money”, teaser for New Scientist Live 2019</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/open-finance-game-changer-mena-2022.jpg" width="1280" height="720"><source src="/assets/video/open-finance-game-changer-mena-2022.mp4" type="video/mp4"></video><figcaption>“Open finance – a game-changer for the financial services industry”, MENA Open Finance Innovation Forum 2022</figcaption></figure>
-<figure><video class="video-own" controls preload="none" poster="/assets/video/ai-and-payments-said-2024.jpg" width="640" height="360"><source src="/assets/video/ai-and-payments-said-2024.mp4" type="video/mp4"></video><figcaption>AI and payments, Saïd Business School, Oxford 2024</figcaption></figure>
 </div>
 
 ------------------------------------------------------------------------
