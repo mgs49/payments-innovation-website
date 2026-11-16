@@ -22,3 +22,12 @@ This is the professional website of Dr Michael Salmony (payments-innovation.com)
 - After any change run `npm run build` and `npm run check`; both must pass. Look at the changed page before saying it is done.
 - Commit to `main` with a plain-English message and push. Publishing is automatic. Never push to `gh-pages` yourself except to repair a failed publish.
 - When an address changes, add a line to `src/_data/redirects.json`.
+
+## Two looks (temporary)
+
+- The site has two looks while he decides: the clean one (`site.css`, the default) and an alternative (`alt.css`) with more payments and fintech character: navy bands, a ribbon of engraved banknote lines that turns into tokens, and dated lists drawn as a chain of blocks. Only the look differs; pages and texts are shared. Still the serious site: no jokes in either look.
+- A link in the footer switches, as does adding `?look=alt` or `?look=clean` to any address. The choice is kept in the visitor's browser only (no cookie, nothing sent anywhere).
+- The ribbon is drawn by `python3 tools/make-ribbon.py`, which writes `src/_includes/ribbon.svg` (home page) and `src/assets/img/ribbon-strip.svg` (page titles). Change the script, not the two files.
+- When changing the design, check both looks: view the page with and without `?look=alt`.
+- Once he has chosen, remove the other look and the switch (the two blocks marked in `src/_includes/base.njk`). The switch must be gone before the site goes live on payments-innovation.com.
+

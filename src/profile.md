@@ -6,6 +6,7 @@ description: "Dr Michael Salmony FRSA - board-level adviser, keynote speaker and
 templateEngineOverride: md
 ---
 
+<div class="band">
 <div class="wrap profile-head">
 <div>
 
@@ -17,6 +18,7 @@ templateEngineOverride: md
 
 </div>
 <figure><img src="/assets/work/michael-salmony.jpg" alt="Portrait of Michael Salmony" width="700" height="700"></figure>
+</div>
 </div>
 
 <div class="wrap page">

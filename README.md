@@ -46,3 +46,8 @@ Links to the personal site are written as `https://www.salmony.co.uk/...`. While
 ## Switching the real domain to this site
 
 Add a file `src/CNAME` containing `payments-innovation.com`, point the domain's DNS at GitHub Pages (leaving the e-mail records untouched) and switch on HTTPS in the repository's Pages settings. The site then stops using the `/payments-innovation-website/` preview prefix by itself.
+
+## Two looks
+
+While Michael decides, the site can be seen in two looks: the clean one and an alternative with more payments and fintech character. Use the link at the bottom of any page to switch, or add `?look=alt` to the address. Details are in CLAUDE.md.
+

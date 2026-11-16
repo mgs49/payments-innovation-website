@@ -204,3 +204,14 @@ strong, b { font-weight: 600; }
 .video { margin-bottom: 1.2rem; }
 .clips { display: grid; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); gap: 1.5rem; max-width: 100% !important; }
 .clips figure { margin: 0; }
+
+/* Home page top and page titles (the alternative look in alt.css turns these into navy bands) */
+.hero { padding-top: 3rem; }
+.hero h1, .page-head h1, .page-head .crumb, .page-head .lede { max-width: min(100%, var(--measure)); }
+.home-body { padding-top: 0; }
+@media (max-width: 40rem) { .hero { padding-top: 2rem; } .home-body { padding-top: 0; } }
+/* Parts that only the alternative look shows */
+.alt-only { display: none; }
+.look-switch button { font: inherit; color: inherit; background: none; border: 0; padding: 0; cursor: pointer;
+  text-decoration: underline; text-decoration-color: var(--accent); text-underline-offset: 0.2em; }
+.look-switch button:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
