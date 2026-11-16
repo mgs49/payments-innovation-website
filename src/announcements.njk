@@ -1,0 +1,17 @@
+---
+title: Public announcements
+layout: page.njk
+permalink: /announcements/
+lede: Some selected awards and nominations.
+description: "Awards, nominations and announcements concerning Dr Michael Salmony and Payments Innovation Consulting."
+---
+<ul class="news-list">
+{%- for a in announcements %}
+  <li>
+    <p class="news-date">{{ a.date }}</p>
+    <h2>{{ a.title }}</h2>
+    {%- if a.text %}<p>{{ a.text }}</p>{% endif %}
+    {%- if a.image %}<p><img src="{{ a.image }}" alt="{{ a.imageAlt }}" loading="lazy"></p>{% endif %}
+  </li>
+{%- endfor %}
+</ul>

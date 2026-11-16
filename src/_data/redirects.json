@@ -1,0 +1,7 @@
+[
+  { "from": "/ceo-profile/", "to": "/profile/" },
+  { "from": "/references/", "to": "/clients/" },
+  { "from": "/b2b-events/", "to": "/events/" },
+  { "from": "/open-banking/", "to": "/events/#masterclass" },
+  { "from": "/consulting/", "to": "/" }
+]

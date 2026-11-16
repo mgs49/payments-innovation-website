@@ -1,0 +1,12 @@
+{
+  "links": [
+    { "label": "Profile", "url": "/profile/" },
+    { "label": "Clients", "url": "/clients/" },
+    { "label": "Boards", "url": "/boards/" },
+    { "label": "Lectures", "url": "/lectures/" },
+    { "label": "Publications", "url": "/publications/" },
+    { "label": "Media", "url": "/media/" },
+    { "label": "Events", "url": "/events/" },
+    { "label": "Contact", "url": "/contact/" }
+  ]
+}

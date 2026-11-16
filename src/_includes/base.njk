@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% if title and title != site.title %}{{ title }} - {% endif %}{{ site.title }}</title>
+{% if description %}<meta name="description" content="{{ description }}">{% endif %}
+{% if noindex %}<meta name="robots" content="noindex">{% endif %}
+{% if redirect %}<meta http-equiv="refresh" content="0; url={{ redirect }}"><link rel="canonical" href="{{ redirect }}">{% endif %}
+<link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/css/site.css">
+</head>
+<body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/">
+      <span class="brand-name">Payments Innovation Consulting</span>
+      <span class="brand-tag">Dr Michael Salmony</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+      {%- for item in nav.links %}
+        <li><a href="{{ item.url }}"{% if page.url | startsWith(item.url) %} aria-current="page"{% endif %}>{{ item.label }}</a></li>
+      {%- endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+{{ content | safe }}
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <p>Payments Innovation Consulting</p>
+    <ul>
+      <li><a href="{{ site.linkedin }}" rel="me">LinkedIn</a></li>
+      <li><a href="/contact/">Contact</a></li>
+      <li><a href="/impressum/">Impressum</a></li>
+      <li><a href="/privacy-policy/">Privacy policy</a></li>
+    </ul>
+  </div>
+</footer>
+</body>
+</html>
