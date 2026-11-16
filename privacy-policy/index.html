@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy policy - Payments Innovation Consulting</title>
+
+
+
+<link rel="icon" href="/payments-innovation-website/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/payments-innovation-website/assets/css/site.css">
+<link rel="stylesheet" href="/payments-innovation-website/assets/css/alt.css">
+<script>
+/* Two looks while Michael decides: "clean" (default) and "alt". Adding ?look=alt or ?look=clean
+   to any address switches; the choice is remembered in this browser only. Remove before go-live. */
+(function () { try {
+  var q = new URLSearchParams(location.search).get("look");
+  if (q === "alt" || q === "clean") localStorage.setItem("pic-look", q);
+  if (localStorage.getItem("pic-look") === "alt") document.documentElement.classList.add("alt");
+} catch (e) {} })();
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/payments-innovation-website/">
+      <span class="brand-name">Payments Innovation Consulting</span>
+      <span class="brand-tag">Dr Michael Salmony</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="/payments-innovation-website/profile/">Profile</a></li>
+        <li><a href="/payments-innovation-website/clients/">Clients</a></li>
+        <li><a href="/payments-innovation-website/boards/">Boards</a></li>
+        <li><a href="/payments-innovation-website/lectures/">Lectures</a></li>
+        <li><a href="/payments-innovation-website/publications/">Publications</a></li>
+        <li><a href="/payments-innovation-website/media/">Media</a></li>
+        <li><a href="/payments-innovation-website/events/">Events</a></li>
+        <li><a href="/payments-innovation-website/contact/">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<article class="page has-head">
+  <header class="page-head">
+    <div class="wrap">
+      <h1>Privacy policy</h1>
+    </div>
+  </header>
+  <div class="wrap">
+    <div class="prose">
+<p><em>Last updated: 16th November 2026</em></p>
+<h2>Who is responsible</h2>
+<p>The controller within the meaning of the General Data Protection Regulation (GDPR) is Dr Michael Salmony, Payments Innovation Consulting. Contact details are given in the <a href="/payments-innovation-website/impressum/">Impressum</a>.</p>
+<h2>What this site does not do</h2>
+<p>This site sets no cookies, uses no analytics or tracking tools, shows no advertising, has no contact form and no newsletter, and loads its fonts from its own server. No visitor profiles are created.</p>
+<h2>Hosting and server logs</h2>
+<p>This site is hosted by GitHub Pages, a service of GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. When you open a page, GitHub's servers process technical data that your browser sends automatically, in particular your IP address, the date and time, the page requested and the type of browser. This is necessary to deliver the site and to keep it secure (legitimate interest, Art. 6(1)(f) GDPR). We have no access to these logs. Data may be processed in the United States; GitHub relies on the EU-US Data Privacy Framework and standard contractual clauses for such transfers. See the <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a>.</p>
+<h2>Videos</h2>
+<p>Some pages show videos provided by YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland). Until you press play, only a still picture stored on this site is shown and no connection to YouTube is made. When you press play, the video is loaded through YouTube's privacy-enhanced address (youtube-nocookie.com): your browser then connects to YouTube's servers, YouTube receives your IP address, and YouTube may store data on your device and process usage data under its own responsibility. See <a href="https://policies.google.com/privacy">Google's privacy policy</a>. Other videos are stored on this site itself and involve no third party.</p>
+<h2>Links to other websites</h2>
+<p>This site links to other websites, including LinkedIn. Data is only transferred to those sites when you follow a link. Their operators are responsible for their own data processing.</p>
+<h2>If you contact us</h2>
+<p>If you write to us by e-mail or through LinkedIn, we use the information you provide only to answer your enquiry and for any follow-up (Art. 6(1)(b) and (f) GDPR), and delete it when it is no longer needed, unless legal retention duties apply.</p>
+<h2>Your rights</h2>
+<p>You have the right to obtain information about your personal data held by us, to have it corrected or erased, to restrict its processing, to object to processing, and to data portability, within the limits of the law. You also have the right to lodge a complaint with a data protection supervisory authority; for Baden-Württemberg this is the Landesbeauftragte für den Datenschutz und die Informationsfreiheit Baden-Württemberg, Stuttgart.</p>
+
+    </div>
+  </div>
+</article>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <p>Payments Innovation Consulting</p>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/salmony" rel="me">LinkedIn</a></li>
+      <li><a href="/payments-innovation-website/contact/">Contact</a></li>
+      <li><a href="/payments-innovation-website/impressum/">Impressum</a></li>
+      <li><a href="/payments-innovation-website/privacy-policy/">Privacy policy</a></li>
+      <li class="look-switch" hidden=""><button type="button" id="look-switch"></button></li>
+    </ul>
+  </div>
+</footer>
+<script>
+/* YouTube videos: a still picture until the visitor presses play; only then is the player loaded. */
+document.addEventListener("click", function (e) {
+  var a = e.target.closest && e.target.closest("a[data-yt]"); if (!a) return;
+  e.preventDefault();
+  var f = document.createElement("iframe");
+  f.src = "https://www.youtube-nocookie.com/embed/" + a.getAttribute("data-yt") + "?autoplay=1";
+  f.title = a.getAttribute("title") || "Video";
+  f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+  f.allowFullscreen = true;
+  a.parentNode.replaceChild(f, a);
+});
+</script>
+<script>
+(function () {
+  var b = document.getElementById("look-switch"); if (!b) return;
+  var root = document.documentElement;
+  function label() { b.textContent = root.classList.contains("alt") ? "Switch to the clean look" : "Switch to the alternative look"; }
+  b.addEventListener("click", function () {
+    var alt = root.classList.toggle("alt");
+    try { localStorage.setItem("pic-look", alt ? "alt" : "clean"); } catch (e) {}
+    label();
+  });
+  label(); b.parentNode.hidden = false;
+})();
+</script>
+</body>
+</html>

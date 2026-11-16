@@ -1,0 +1,109 @@
+/* payments-innovation.com - the alternative look.
+   Idea: money turning digital. Navy bands carry a ribbon of engraved banknote lines
+   (a guilloche) that breaks up into discrete tokens; dated lists become a chain of blocks.
+   Same PIC navy, gold and typeface as the clean look.
+   Nothing here applies unless the page carries class="alt" on <html> (see base.njk).
+   The ribbon is drawn by tools/make-ribbon.py. To drop this look, delete this file
+   and its two mentions in src/_includes/base.njk. */
+
+.alt {
+  --navy: #0f2147;
+  --gold: #ffc000;
+  --gold-ink: #d99e00;       /* gold dark enough for small marks on white */
+  --mist: #eef2f8;
+  --line: #d3dbea;
+  --on-navy-soft: #c3cde2;
+}
+.alt .alt-only { display: block; }
+
+/* ---------- Header ---------- */
+.alt .site-header { background: var(--navy); border-bottom: 0; }
+.alt .brand, .alt .site-nav a { color: #fff; }
+.alt .brand-tag { color: var(--on-navy-soft); }
+.alt .site-nav a:hover { border-bottom-color: rgba(255, 255, 255, 0.45); }
+.alt .site-nav a[aria-current="page"] { border-bottom-color: var(--gold); }
+
+/* ---------- Home: the band with the ribbon ---------- */
+.alt .hero { background: var(--navy); color: #fff; padding-top: 1.6rem; border-bottom: 3px solid var(--gold); }
+.alt .hero-logo { margin: 0 0 1.6rem; }
+.alt .hero-logo img { display: block; width: 11.5rem; filter: invert(1); mix-blend-mode: screen; }
+.alt .hero h1 { color: #fff; font-size: clamp(2.4rem, 6.2vw, 4.6rem); line-height: 1.08; max-width: 19ch; margin: 0; }
+.alt .hero-art { color: var(--gold); margin-top: 1.2rem; }
+.alt .hero-art svg { display: block; width: 100%; height: clamp(7.5rem, 17vw, 15rem); }
+@media (prefers-reduced-motion: reduce) { .alt .rb-pulse { display: none; } }
+.alt .home-body { padding-top: 3rem; }
+
+/* ---------- Page titles: a navy band with a strip of the ribbon ---------- */
+.alt .page.has-head { padding-top: 0; }
+.alt .page-head { background: var(--navy) url("../img/ribbon-strip.svg") center bottom 0.5rem / auto 4.4rem no-repeat;
+  color: #fff; padding: 2.4rem 0 6.4rem; border-bottom: 3px solid var(--gold); margin-bottom: 2.8rem; }
+.alt .page-head h1 { color: #fff; margin: 0; }
+.alt .page-head .crumb a { color: var(--on-navy-soft); }
+.alt .page-head .lede { color: #dde4f2; margin: 1rem 0 0; }
+
+/* Profile: the same band behind name and portrait */
+.alt .band { background: var(--navy) url("../img/ribbon-strip.svg") center bottom 0.5rem / auto 4.4rem no-repeat; color: #fff;
+  border-bottom: 3px solid var(--gold); padding-bottom: 6.6rem; }
+.alt .band .profile-head { padding-top: 2.6rem; }
+.alt .band h1 { color: #fff; }
+.alt .band .lede { color: #e6ebf6; }
+.alt .band img { display: block; outline: 2px solid var(--gold); outline-offset: 0.45rem; }
+.alt .band .button.quiet { color: #fff; box-shadow: inset 0 0 0 1.5px rgba(255, 255, 255, 0.85); }
+.alt .band .button.quiet:hover { background: rgba(255, 255, 255, 0.12); }
+
+/* ---------- Text ---------- */
+.alt .button { background: var(--gold); color: var(--navy); font-weight: 600; border-radius: 0; }
+.alt .button:hover { background: #ffd34f; }
+.alt .button.quiet { background: transparent; color: var(--navy); font-weight: 400; box-shadow: inset 0 0 0 1.5px var(--navy); }
+.alt .button.quiet:hover { background: var(--mist); }
+.alt .prose a:hover { background: #fff1bf; }
+.alt .prose .button:hover { background: #ffd34f; }
+.alt .prose .button.quiet:hover { background: var(--mist); }
+.alt .prose h2:not(.year) { font-weight: 400; padding-top: 1.3rem;
+  background: linear-gradient(to right, var(--gold) 0 0.55rem, transparent 0.55rem 0.8rem, rgba(255, 192, 0, 0.6) 0.8rem 1.35rem,
+    transparent 1.35rem 1.6rem, rgba(255, 192, 0, 0.3) 1.6rem 2.15rem, transparent 2.15rem) no-repeat left top / 2.2rem 0.55rem; }
+.alt .prose ul { list-style: square; }
+.alt .prose ul > li::marker { color: var(--gold-ink); }
+.alt .prose blockquote { border-left-color: var(--gold); }
+
+/* ---------- Dated lists (lectures, publications): a chain of blocks, one per year ---------- */
+.alt .years { border: 0; padding: 0; gap: 0.4rem; margin-bottom: 1rem; }
+.alt .years a { padding: 0.15rem 0.6rem; background: var(--mist); }
+.alt .years a:hover { background: var(--gold); text-decoration: none; }
+.alt .prose h2.year, .alt .prose h3.year { display: block; position: relative; margin: 0 0 0 0.45rem; padding: 2.8rem 0 0.9rem 2rem;
+  border-top: 0; border-left: 2px solid var(--line); font-size: 2.3rem; font-weight: 600; font-variant-numeric: tabular-nums; }
+.alt .prose .year::before { content: ""; position: absolute; left: calc(-0.45rem - 1px); bottom: 1.5rem; width: 0.9rem; height: 0.9rem;
+  background: var(--gold); box-shadow: 0 0 0 0.3rem #fff; }
+.alt .prose .year ~ *:not(hr):not(.year) { margin: 0 0 0 0.45rem; padding: 0 0 1.2rem 2rem; border-left: 2px solid var(--line); }
+.alt .prose .year ~ ul, .alt .prose .year ~ ol { padding-left: 3.4rem; }
+
+/* Announcements: the same chain */
+.alt .news-list li, .alt .news-list li:first-child { position: relative; margin: 0 0 0 0.45rem; padding: 0 0 1.8rem 2rem; border-top: 0; border-left: 2px solid var(--line); }
+.alt .news-list li::before { content: ""; position: absolute; left: calc(-0.45rem - 1px); top: 0.35rem; width: 0.9rem; height: 0.9rem;
+  background: var(--gold); box-shadow: 0 0 0 0.3rem #fff; }
+.alt .prose .news-list h2 { background: none; padding-top: 0; }
+.alt .news-list .news-date { font-weight: 600; font-variant-numeric: tabular-nums; }
+.alt .prose ul.news-list, .alt .prose ul.logo-wall { list-style: none; }
+
+/* YouTube play button */
+.alt .yt-play { background: var(--gold); border-radius: 0; box-shadow: none; }
+.alt .yt-play::after { border-left-color: var(--navy); }
+.alt .yt a:hover .yt-play, .alt .yt a:focus-visible .yt-play { box-shadow: 0 0 0 3px #fff; }
+.alt .prose .yt a:hover { background: #000; }
+
+/* Client logos */
+.alt .logo-wall li { border-radius: 0; border-color: var(--line); }
+.alt .logo-wall li:hover { border-color: var(--gold); box-shadow: 0 0 0 1px var(--gold); }
+
+/* ---------- Footer ---------- */
+.alt .site-footer { background: var(--navy); color: var(--on-navy-soft); border-top: 3px solid var(--gold); margin-top: 4rem; }
+.alt .site-footer a, .alt .look-switch button { color: #fff; }
+
+@media (max-width: 40rem) {
+  .alt .page-head { padding: 1.8rem 0 5.6rem; background-size: auto 3.6rem; margin-bottom: 2rem; }
+  .alt .hero h1 { max-width: none; }
+  .alt .prose h2.year, .alt .prose h3.year { padding-left: 1.4rem; }
+  .alt .prose .year ~ *:not(hr):not(.year), .alt .news-list li, .alt .news-list li:first-child { padding-left: 1.4rem; }
+  .alt .prose .year ~ ul, .alt .prose .year ~ ol { padding-left: 2.8rem; }
+}
+@media print { .alt .site-header, .alt .hero, .alt .page-head, .alt .band, .alt .site-footer { background: none; color: inherit; } .alt .hero-art { display: none; } }

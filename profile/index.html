@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dr Michael Salmony - Payments Innovation Consulting</title>
+<meta name="description" content="Dr Michael Salmony FRSA - board-level adviser, keynote speaker and trainer on Payments, FinTech, Tokenised Money/Stablecoins/CBDC and Open Finance.">
+
+
+<link rel="icon" href="/payments-innovation-website/assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/payments-innovation-website/assets/css/site.css">
+<link rel="stylesheet" href="/payments-innovation-website/assets/css/alt.css">
+<script>
+/* Two looks while Michael decides: "clean" (default) and "alt". Adding ?look=alt or ?look=clean
+   to any address switches; the choice is remembered in this browser only. Remove before go-live. */
+(function () { try {
+  var q = new URLSearchParams(location.search).get("look");
+  if (q === "alt" || q === "clean") localStorage.setItem("pic-look", q);
+  if (localStorage.getItem("pic-look") === "alt") document.documentElement.classList.add("alt");
+} catch (e) {} })();
+</script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/payments-innovation-website/">
+      <span class="brand-name">Payments Innovation Consulting</span>
+      <span class="brand-tag">Dr Michael Salmony</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="/payments-innovation-website/profile/" aria-current="page">Profile</a></li>
+        <li><a href="/payments-innovation-website/clients/">Clients</a></li>
+        <li><a href="/payments-innovation-website/boards/">Boards</a></li>
+        <li><a href="/payments-innovation-website/lectures/">Lectures</a></li>
+        <li><a href="/payments-innovation-website/publications/">Publications</a></li>
+        <li><a href="/payments-innovation-website/media/">Media</a></li>
+        <li><a href="/payments-innovation-website/events/">Events</a></li>
+        <li><a href="/payments-innovation-website/contact/">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<div class="band">
+<div class="wrap profile-head">
+<div>
+<h1>Dr Michael Salmony</h1>
+<p class="lede">An internationally recognised leader on strategy of business innovations in digital and financial services with a particular focus on Payments, FinTech, Tokenised Money/Stablecoins/CBDC and Open Finance.</p>
+<p class="button-row"><a class="button" href="/payments-innovation-website/contact/">Get in touch</a> <a class="button quiet" href="https://www.linkedin.com/in/salmony/">Connect on LinkedIn</a></p>
+</div>
+<figure><img src="/payments-innovation-website/assets/work/michael-salmony.jpg" alt="Portrait of Michael Salmony" width="700" height="700"></figure>
+</div>
+</div>
+<div class="wrap page">
+<div class="prose">
+<p>He is board-level advisor to major international banks, industry associations, regulators, global consultancies, service providers and investors across the world. He regularly helps shape future directions in key decision-making bodies (e.g. European Commission/European Parliament/ECB/Think-Tanks in Europe, and central banks from Japan to Uruguay and Kazakhstan). For 10 years he served as Executive Adviser to the Board of Worldline Financial Services, helping to bring them from a local player to become the world’s 4th largest financial processor of transactional services, which handles over 17 trillion Euro per year.</p>
+<p>He also works with multiple regions where financial innovations are currently emerging - for example with the World Bank in Central Asia, as Board Member of Fintech Africa, as Advisory Board Member to Mastercard in Latin America, as strategic partner to FinTech Istanbul.</p>
+<p>His views are much in demand as keynote <a href="/payments-innovation-website/lectures/">speaker</a> at international events and he appears on TV/Radio/online <a href="/payments-innovation-website/media/">media</a> on advances in finance and is quoted extensively (e.g. Financial Times, Harvard Business Manager, New Scientist, The Economist and governments from Ghana to Malaysia). He teaches at the Oxford Business School on “AI in Fintech and Open Banking” and at their Bank Governance Programme on “Tokenised Finance”. He also teaches at further universities such as in Japan, Australia, Turkey, Germany and top industry fora such as the EBA European Banking Academy.</p>
+<p>He has <a href="/payments-innovation-website/publications/">published</a> much own original work which has been translated into many languages including German, Italian, Dutch, Finnish, Polish, Danish, Turkish, Russian, Chinese and Japanese and is cited in hundreds of publications around the world. He is extensively networked into the new financial services space and hosts the popular “The Payments Trilogue” podcast. He co-edited the handbook “The Tokenisation of Money – from Fiat to Stablecoins”, published by Springer in July 2026.</p>
+<p>He is a Freeman of the Worshipful Company of International Bankers, Freeman of the City of London and a Fellow of the Royal Society for Arts, Manufactures and Commerce FRSA.</p>
+<p>Previous positions include Director Business Development of leading national central bank (Bank of the Year, Best Innovator Award). Before entering the world of finance, he helped transform companies and business models in many industries as IBM’s Director of Market Development Media and Communications Technologies.</p>
+<p>He studied at the University of Cambridge UK and is married, with two millennial children.</p>
+<p><a href="/payments-innovation-website/boards/">Boards and committees</a> | <a href="/payments-innovation-website/clients/">Clients and references</a> | <a href="/payments-innovation-website/announcements/">Awards and announcements</a></p>
+</div>
+</div>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <p>Payments Innovation Consulting</p>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/salmony" rel="me">LinkedIn</a></li>
+      <li><a href="/payments-innovation-website/contact/">Contact</a></li>
+      <li><a href="/payments-innovation-website/impressum/">Impressum</a></li>
+      <li><a href="/payments-innovation-website/privacy-policy/">Privacy policy</a></li>
+      <li class="look-switch" hidden=""><button type="button" id="look-switch"></button></li>
+    </ul>
+  </div>
+</footer>
+<script>
+/* YouTube videos: a still picture until the visitor presses play; only then is the player loaded. */
+document.addEventListener("click", function (e) {
+  var a = e.target.closest && e.target.closest("a[data-yt]"); if (!a) return;
+  e.preventDefault();
+  var f = document.createElement("iframe");
+  f.src = "https://www.youtube-nocookie.com/embed/" + a.getAttribute("data-yt") + "?autoplay=1";
+  f.title = a.getAttribute("title") || "Video";
+  f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+  f.allowFullscreen = true;
+  a.parentNode.replaceChild(f, a);
+});
+</script>
+<script>
+(function () {
+  var b = document.getElementById("look-switch"); if (!b) return;
+  var root = document.documentElement;
+  function label() { b.textContent = root.classList.contains("alt") ? "Switch to the clean look" : "Switch to the alternative look"; }
+  b.addEventListener("click", function () {
+    var alt = root.classList.toggle("alt");
+    try { localStorage.setItem("pic-look", alt ? "alt" : "clean"); } catch (e) {}
+    label();
+  });
+  label(); b.parentNode.hidden = false;
+})();
+</script>
+</body>
+</html>
