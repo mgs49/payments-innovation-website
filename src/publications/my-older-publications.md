@@ -307,7 +307,7 @@ Hrsg. Prof. Müller, Institut für Informatik und Gesellschaft, Uni Freiburg
 [“Multimedia: Chancen und Illusionen – Eine kritische Betrachtung”  
 Einleitende Einführung in: “Internet- und Multimediarecht (Cyberlaw)”  
 Hrsg. Prof. M. Lehmann, Max-Planck-Institut, München  
-Handelsblatt und Schäffer-Poeschel (Holtzbrinck) Verlag, 1997](http://www.intellecprop.mpg.de/Enhanced/English/Arbeitsgruppen/Lehmann-CyberLaw.htm)
+Handelsblatt und Schäffer-Poeschel (Holtzbrinck) Verlag, 1997](https://web.archive.org/web/20060103014334/http://www.intellecprop.mpg.de:80/Enhanced/English/Arbeitsgruppen/Lehmann-CyberLaw.htm)
 
 M. Salmony  
 “Multimedia in der Wirtschaft – Traum oder Wirklichkeit ?”  

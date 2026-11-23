@@ -138,7 +138,7 @@ at 21st Annual Conference of GI (German Informatics Society), Darmstadt
 
 ## 1992
 
-**04.03.92** [“New Trends in Communication over Broadband Networks”](http://www.uni-stuttgart.de/External/gi-rg-s/altveran.html)  
+**04.03.92** [“New Trends in Communication over Broadband Networks”](https://web.archive.org/web/20030429183540/http://www.uni-stuttgart.de:80/External/gi-rg-s/altveran.html)  
 at GI (German Informatics Soc.) and German Chapter of the ACM, Stuttgart
 
 ## 1994
@@ -228,7 +228,7 @@ Heidelberg
 
 **11.12.95** [“Elektronische Medien – von offline zu online”](/assets/uploads/2019/01/iig.pdf)  
 Ringvorlesung “Auf der Infobahn in die Informationsgesellschaft”  
-[Institut für Informatik und Gesellschaft, Universität Freiburg](http://www.telematik.uni-freiburg.de/ring_archiv.php)  
+[Institut für Informatik und Gesellschaft, Universität Freiburg](https://web.archive.org/web/20060905034715/http://www.telematik.uni-freiburg.de:80/ring_archiv.php)  
 (nach Helmut Schmidt, Burda, Hultzsch, Harms, Lamberti, Hanning (Präsident BND), Kahin (Harvard), Lahnstein et al.)
 
 **13.12.95** “Multimedia wird kommen, aber anders, als wir es uns jetzt denken”  
@@ -323,8 +323,8 @@ Gastvortrag, Uni Frankfurt, Wirtschaftswissenschaftl. Fakultät
 **27.1.99** “Megatrends der Informationstechnologie”  
 vor Top Kunden der DG BANK, London
 
-**22.9.99** [“Die Entwicklung Neuer Medien – und daraus folgende Rechtsfragen”](http://www.euroforum.de/themen/dokus/p11065/)  
-[Seminar “E-Commerce nach aktuellen EU- und Deutschem Recht”, Freising](http://www.euroforum.de/themen/dokus/p11065/)
+**22.9.99** [“Die Entwicklung Neuer Medien – und daraus folgende Rechtsfragen”](https://web.archive.org/web/20010227231609/http://www.euroforum.de:80/themen/dokus/p11065)  
+[Seminar “E-Commerce nach aktuellen EU- und Deutschem Recht”, Freising](https://web.archive.org/web/20010227231609/http://www.euroforum.de:80/themen/dokus/p11065)
 
 **5.10.99** „Neue Technologien verändern die Bank – IT als strategischer Wettbewerbsfaktor”  
 Informationstechnologie für Banken, plenum, Frankfurt
@@ -343,7 +343,7 @@ Jahreskongreß BANKtrendTAGE2000 Visionen und Strategien, Bad Homburg
 
 **2.10.00** “Identifying and Evaluating e-Business Threats”  
 Giga Conference “Transforming your Business to e-Business: Aligning People, Process and IT”, Nice, France  
-zitiert in [Computerwoche](http://www1.computerwoche.de/index.cfm?pageid=254&artid=17721)
+zitiert in Computerwoche
 
 **9.10.00** “Veränderungen der Strukturen der Wirtschaft durch E-Commerce”  
 Eröffnungsvortrag bei „E-Commerce – aktuelle Rechtsfragen in Europa”  
@@ -377,7 +377,7 @@ Keynote nach Lamberti auf “Zukunftsforum B@nk”, Financial Times, Frankfurt a
 **8.10.01** “Die Veränderungen von Banken vom Produktanbieter zum e-Commerce Dienstleister”  
 Eröffnungs-Vortrag des “New Economy Circle” der Gesellschaft für Versicherungswissenschaftliche Forschung, Leipzig
 
-**9.10.01**[Best Practice Vortrag zu Banken und Versicherungen und Round-Table Leitung im “IT meets Business” Kongreß von Manager Magazin und Computerwoche. Schirmherrschaft Dr. Müller, Bundesminister für Wirtschaft und Technologie. Weitere Referenten: Lamberti, Späth, Mosdorf.](http://www1.computerwoche.de/index.cfm?pageid=259&artid=27395&category=47)
+**9.10.01**[Best Practice Vortrag zu Banken und Versicherungen und Round-Table Leitung im “IT meets Business” Kongreß von Manager Magazin und Computerwoche. Schirmherrschaft Dr. Müller, Bundesminister für Wirtschaft und Technologie. Weitere Referenten: Lamberti, Späth, Mosdorf.](https://web.archive.org/web/20030903172549/http://www.computerwoche.de:80/index.cfm?pageid=259&artid=27395&category=47)
 
 **10.10.01** “Veränderungen der Strukturen der Wirtschaft durch E-Commerce”  
 Einführung der Tagung “E-Commerce in Europa” (Prof. Lehmann, MPI), München
@@ -388,8 +388,8 @@ at CIBI 2001 Second International Conference on Innovation in the Banking Indust
 **12.11.01** “Collaborative Commerce im Dienstleistungssektor”  
 E-Business Summit: “Von der New Economy zur True Economy”, Montreux
 
-**14.11.01** [Plenar Panel “Dienste-Infrastruktur für UMTS: Schlüssel für innovative Anwendungen” + Pressekonferenz](http://www.muenchner-kreis.de/deut/011114/Vortraege.htm)  
-[auf Münchner Kreis UMTS Konferenz “Märkte und Anwendungen für UMTS -Erfolgsfaktoren für eine Europäische Innovationsführerschaft”, München](http://www.muenchner-kreis.de/deut/011114/Vortraege.htm)
+**14.11.01** [Plenar Panel “Dienste-Infrastruktur für UMTS: Schlüssel für innovative Anwendungen” + Pressekonferenz](https://web.archive.org/web/20041031141540/http://www.muenchner-kreis.de:80/deut/011114/Vortraege.htm)  
+[auf Münchner Kreis UMTS Konferenz “Märkte und Anwendungen für UMTS -Erfolgsfaktoren für eine Europäische Innovationsführerschaft”, München](https://web.archive.org/web/20041031141540/http://www.muenchner-kreis.de:80/deut/011114/Vortraege.htm)
 
 **3.12.01** (D. Voigtländer) “IT Readiness für die Bank der Zukunft”  
 auf  7. Handelsblatt-Jahrestagung Banken-Technologie zu “Die Neue Rolle des CIO”, Frankfurt
@@ -501,23 +501,23 @@ Leitung und Moderation des Workshops “Neue Herausforderungen durch e-Commerce�
 **13.9.07** Moderation of the Equens Client-User Workshop on eInvoicing, Helsinki
 
 **6.11.07** [The Quest for Payment-based Innovations: E-Invoicing](http://digitaldebateblogs.typepad.com/digital_money/2007/08/international-e.html#more)[  
-with Lady Maitland at “International E-Finance Intensive” Payments Law and Policy Conference, London](http://www.e-comlaw.com/iefi/index.asp?section=intro)
+with Lady Maitland at “International E-Finance Intensive” Payments Law and Policy Conference, London](https://web.archive.org/web/20101101112441/http://www.e-comlaw.com:80/iefi/index.asp?section=intro)
 
 **9.11.07** “European Economic Developments in Payment Systems”  
-by invitation  from the Chief Economist of Rabobank at the Monetary Panel of the European League for Economic Cooperation ([E.L.E.C.](http://www.elec-lece.eu/B5resMon_E.htm)) with i.a. Prof. Boot (the chairman of the Dutch Royal Economic Society), Paul Cavelaars (Head of Monetary Policy, Netherlands), Directeur General de la Banque de France and international Chief Economists, Amsterdam
+by invitation  from the Chief Economist of Rabobank at the Monetary Panel of the European League for Economic Cooperation ([E.L.E.C.](https://web.archive.org/web/20101101110421/http://www.elec-lece.eu:80/B5resMon_E.htm)) with i.a. Prof. Boot (the chairman of the Dutch Royal Economic Society), Paul Cavelaars (Head of Monetary Policy, Netherlands), Directeur General de la Banque de France and international Chief Economists, Amsterdam
 
 **4.12.07** “Electronic Invoicing and Beyond: The View from the European Payments Council”  
 closing speech and strategy panelist as representative of the European Payments Council (EPC) at 3rd ICBI/IIR Annual Conference on e-Invoicing within the IPS International Payments Event Series with speakers from European Commission, European Association of Corporate Treasurers etc., followed by SEPA Conference, London
 
 ## 2008
 
-22.1.08 [“Examining the Global Implications of SEPA”](http://www.nacha.org/conferences/Global2008/agenda.htm)  
+22.1.08 [“Examining the Global Implications of SEPA”](https://web.archive.org/web/20071220105018/https://www.nacha.org/conferences/Global2008/agenda.htm)  
 session talk at one of the largest payments conference worldwide, the NACHA’s Global Payments Strategies conference on “Strategic Information for Profitable Results” with finance executives from six continents, including Ms. Tumpel-Gugerell (ECB), Mr. Hartsink (EPC), JP Morgan, IBM, Microsoft etc., Brussels
 
 **6.3.08** Report on the European Commission e-Invoicing and EPC e and m payment activities  
 at the PSWG of the EACB, Paris
 
-**10.3.08** [“The European Banks’ View of Payment-based Value-Added Services”](http://www.newpaymentchannels.com/)  
+**10.3.08** [“The European Banks’ View of Payment-based Value-Added Services”](https://web.archive.org/web/20160111064708/http://newpaymentchannels.com/)  
 speech at the 2nd New Payment Channels Conference with speakers from Mastercard, European Central Bank, UK Financial Services Authority, Boots, VISA, Nokia etc., London
 
 **13.3.08** Innovations in the Payment Industry  
@@ -533,7 +533,7 @@ Strategy Panelist at Europe’s Largest Payment Event, the 16th Annual Internati
 participant as representative of the EPC at [ICBI/IPS](http://www.sepaeurope.com/)‘s Single Euro Payment Area Conference, Amsterdam
 
 **7.10.08** “Chance SEPA: Innovative Zahlungsmöglichkeiten”  
-als Vertreter des EPC beim Innovationstag / Innovationskongress der [CIBI](http://www.cibi2008.de/) (Conference on Innovation in the Banking Industry).  
+als Vertreter des EPC beim Innovationstag / Innovationskongress der [CIBI](https://web.archive.org/web/20101102085137/http://www.cibi2008.de:80/) (Conference on Innovation in the Banking Industry).  
 Innovationstag, München
 
 **9.-10.10.08** “Innovations in Payments”  
@@ -549,10 +549,10 @@ Vortrag auf VÖB Fachtagung Zahlungsverkehr & Kartensysteme “Zahlungsverkehr i
 ## 2009
 
 **3.-5.3.09** “Mehrwertdienste auf Basis der Neuen ZV-Welt”  
-[Euroforum ZV Konferenz](http://www.euroforum.de/ProduktTitel.aspx?pnr=P1103509) “Anforderungen, Strategien und Geschäftsmodelle”, neben Vorständen/senior Management von WestLB, Deutsche Bank, Western Union, BVR, Postbank, Frankfurt
+[Euroforum ZV Konferenz](https://web.archive.org/web/20101101220442/http://www.euroforum.de:80/ProduktTitel.aspx?pnr=P1103509) “Anforderungen, Strategien und Geschäftsmodelle”, neben Vorständen/senior Management von WestLB, Deutsche Bank, Western Union, BVR, Postbank, Frankfurt
 
 **19.3.09** “Innovationen in Payments – Zahlungsverkehr: auf der Suche nach Innovationen”  
-Eröffnungsvortrag der [ProfitCard](http://www.omnicard.de/index.php?m=212#F1), Nassauer Hof, Wiesbaden
+Eröffnungsvortrag der [ProfitCard](https://web.archive.org/web/20101101110211/http://www.omnicard.de:80/index.php?m=212), Nassauer Hof, Wiesbaden
 
 **1.4.09** Expert Panel: “Technology Push or Business Pull”  
 12th Digital Money Forum, Consult Hyperion, sponsored by Visa Europe, ACI Europe etc., London
@@ -579,11 +579,11 @@ Equens Client User Group meeting, Frankfurt
 Petersberger Electronic Banking Forum, neben WestLB, Deutsche Bank usw., Bundesgästehaus, Petersberg bei Bonn
 
 **24.11.09** “eSEPA – Mehrwerte und Innovationen in Europa”  
-[VÖB Tagung](http://www.voeb.de/de/ueber_uns/veranstaltungen.html#fachtagung_sepa) des Bundesverbands Öffentlicher Banken (Landesbanken, DKW, KfW, usw.) Bereich Zahlungsverkehr und Kartensysteme, neben BdB, EU Kommission, Postbank, Berlin
+[VÖB Tagung](https://web.archive.org/web/20130523065111/http://www.voeb.de/de/ueber_uns/veranstaltungen.html) des Bundesverbands Öffentlicher Banken (Landesbanken, DKW, KfW, usw.) Bereich Zahlungsverkehr und Kartensysteme, neben BdB, EU Kommission, Postbank, Berlin
 
 **3.12.09** “Addressing the regulatory challenges surrounding electronic, contactless and mobile payments”  
 (actually: “Electronic Payments and eCommerce – where Europe is leading the World”)  
-by invitation to [S€PA conference](http://www.sepacongress.com/), with Eur. Commission (DG Internal Market & DG Competition), Eur. Central Bank, Eur. Payments Council, Banks (Deutsche Bank, Citi, BNP Parisbas Fortis), EBA, VocaLink etc., Brussels
+by invitation to [S€PA conference](https://web.archive.org/web/20140105050618/http://sepacongress.com/), with Eur. Commission (DG Internal Market & DG Competition), Eur. Central Bank, Eur. Payments Council, Banks (Deutsche Bank, Citi, BNP Parisbas Fortis), EBA, VocaLink etc., Brussels
 
 ------------------------------------------------------------------------
 

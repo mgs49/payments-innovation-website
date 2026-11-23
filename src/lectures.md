@@ -63,7 +63,7 @@ Interview with [The Psironi](https://www.thepsironi.com/) on his [Bankers’ Boo
 Panel with Token.io, Business and Trade UK, Invela on “Regulation as the Edge in Open Finance”, [Money2020](https://europe.money2020.com/), Amsterdam  
 <img src="/assets/uploads/2026/03/M2020-2026-no-banner-300x157.jpg" loading="lazy" width="300" height="157">  
 [Panel](https://ascentialcdn.filespin.io/api/v1/video/f2ba4aa61fff42cba647dcef864fe726/1080p-wm-video.mp4) recording  
-[Report](https://www.invela.com/resources/reports/regulation-as-the-edge)
+Report
 
 **9-10.6.26**  
 “How Tokenised Money is revolutionizing national and global payments”  at [Baku Fintech Forum](https://bakufintech.com/), Azerbaijan  
@@ -235,7 +235,7 @@ Panel or Keynote at Trust Live conference focused on financial services industry
 
 **14-15.2.24**
 
-Conference chair/moderator at [“Open Banking & CX Transformation Forum”](https://kinfos.events/obcx), Berlin
+Conference chair/moderator at [“Open Banking & CX Transformation Forum”](https://web.archive.org/web/20231201222600/https://www.kinfos.events/obcx/), Berlin
 
 **28.2.24**
 
@@ -259,7 +259,7 @@ MoneyLIVE Payments Europe2024, London
 
 **8.3.24**
 
-Closing Keynote on “AI for Financial Services/Payments” at [10th FPN Payments-Symposium](https://www.frankfurt-payments-network.de/veranstaltungen/), Frankfurt
+Closing Keynote on “AI for Financial Services/Payments” at [10th FPN Payments-Symposium](https://web.archive.org/web/20181017171412/http://www.frankfurt-payments-network.de:80/veranstaltungen/), Frankfurt
 
 **12-14.3.24**
 
@@ -294,11 +294,11 @@ by invitation from Pinar Ozcan, Professor of Entrepreneurship and Innovation at 
 
 **7.5.24**
 
-Chair/moderator at [“Digital Transformation in Banking Summit”](https://www.kinfos.events/dxb/), London
+Chair/moderator at [“Digital Transformation in Banking Summit”](https://web.archive.org/web/20210427061814/https://kinfos.events/dxb/), London
 
 **8.5.24**
 
-Chair/moderator at [“Cyber-Security Transformation in Financial Services Summit”](https://www.kinfos.events/sxf/), London
+Chair/moderator at [“Cyber-Security Transformation in Financial Services Summit”](https://web.archive.org/web/20230207172200/https://www.kinfos.events/sxf/), London
 
 **15-16.5.24**
 
@@ -321,7 +321,7 @@ published by [ETPPA](https://www.linkedin.com/feed/update/urn:li:activity:720078
 
 **12-14.6.24**
 
-Currency Research [Global Payment Summit](https://events.currencyresearch.com/event/fcc07391-d5d9-4f3b-8470-7f13b0cf6ba5/summary), Kuala Lumpur, Malaysia
+Currency Research [Global Payment Summit](https://web.archive.org/web/20240404204334/https://events.currencyresearch.com/event/fcc07391-d5d9-4f3b-8470-7f13b0cf6ba5/summary), Kuala Lumpur, Malaysia
 
 **18-20.6.24**
 
@@ -329,7 +329,7 @@ Currency Research [Global Payment Summit](https://events.currencyresearch.com/ev
 
 **19-20.6.24**
 
-Speaker at [Unchain](https://unchainfestival.com/unchain-2024-partnerships/) Festival, Oradea, Rumania
+Speaker at [Unchain](https://web.archive.org/web/20231207002347/https://unchainfestival.com/unchain-2024-partnerships/) Festival, Oradea, Rumania
 
 **10-12.9.24**
 
@@ -408,7 +408,7 @@ Speaker on “The Future of Open Banking in Europe” at the exclusive invite-on
 
 **23-24.2.23**
 
-Moderator at [Open Banking Forum](https://www.kinfos.events/obsca/) on Strong Customer Authentication, with 150+ senior level attendees from all over Europe from leading Banks, Regulators and selected FinTechs. A high level forum where executives share their vision of Open Banking, Open Finance, Transition to PSD3, API Economy, Strong Customer Authentication, Rise of Digital Transformation, Open Data, Customer Journey, Embedded Finance, Sustainable finance, Impact of Regulations, etc, Frankfurt
+Moderator at [Open Banking Forum](https://web.archive.org/web/20221127175946/https://www.kinfos.events/obsca/) on Strong Customer Authentication, with 150+ senior level attendees from all over Europe from leading Banks, Regulators and selected FinTechs. A high level forum where executives share their vision of Open Banking, Open Finance, Transition to PSD3, API Economy, Strong Customer Authentication, Rise of Digital Transformation, Open Data, Customer Journey, Embedded Finance, Sustainable finance, Impact of Regulations, etc, Frankfurt
 
 **28.2.-1.3.23**
 
@@ -479,7 +479,7 @@ on [Spotify](https://open.spotify.com/episode/3OsXkMZpmkZ2xmhIj4x5o9?si=edb2d1d2
 
 **15-17.5.23**
 
-Speaker at the [Open Finance World Congress](https://congress.openfuture.world/), Marbella
+Speaker at the [Open Finance World Congress](https://web.archive.org/web/20210226122952/https://congress.openfuture.world/), Marbella
 
 **23-24.5.23**
 
@@ -488,7 +488,7 @@ Chair of [Berlin Group annual conference on NetGenPSD2](https://www.bv-events.de
 
 **13-14.6.23**
 
-[Digital Transformation for Financial Services](https://www.brighttalk.com/summit/5446-digital-transformation-for-financial-services/) at TechTarget, the global leader in B2B technology, bringing together IT and fintech leaders from across the globe, to explore the future of financial services and share a roadmap to optimise digital financial services.
+[Digital Transformation for Financial Services](https://web.archive.org/web/20230327072626/https://www.brighttalk.com/summit/5446-digital-transformation-for-financial-services/) at TechTarget, the global leader in B2B technology, bringing together IT and fintech leaders from across the globe, to explore the future of financial services and share a roadmap to optimise digital financial services.
 
 **12-16.6.23**
 
@@ -523,7 +523,7 @@ My [Summary](https://fintechistanbul.org/en/2023/09/25/central-banks-rethinking-
 
 **14.9.23**
 
-Invited as Conference Leadership Board at 3rd annual [“Digital Transformation in Banking and Insurance Summit”](http://www.kinfos.events/dxb/), Amsterdam
+Invited as Conference Leadership Board at 3rd annual [“Digital Transformation in Banking and Insurance Summit”](https://web.archive.org/web/20210427061814/https://kinfos.events/dxb/), Amsterdam
 
 **19-21.9.23**
 
@@ -552,7 +552,7 @@ Flown in for 6min [keynote](https://www.youtube.com/watch?v=6XFpVBKw7Mc&ab_chann
 
 **Nov 2023**
 
-Speaker at [Payments International](https://informaconnect.com/payments-international/), the one-stop event covering the whole payments ecosystem covering a wide variety of topics within the payments industry, including open banking/finance, financial crime, digital identity, as well as panels on the latest regulation (PSD2/3, MiCA, etc.). Connecting not only to key attendees at the conference, but also to thousands of industry professionals via the marketing campaigns in the lead up to the event.
+Speaker at [Payments International](https://web.archive.org/web/20200925102928/https://informaconnect.com/payments-international/), the one-stop event covering the whole payments ecosystem covering a wide variety of topics within the payments industry, including open banking/finance, financial crime, digital identity, as well as panels on the latest regulation (PSD2/3, MiCA, etc.). Connecting not only to key attendees at the conference, but also to thousands of industry professionals via the marketing campaigns in the lead up to the event.
 
 **2-3.11.23**
 
@@ -688,7 +688,7 @@ Speaker at [World API Summit](https://www.tresconglobal.com) for C level executi
 
 **28.6.22**
 
-Chair of Event with EBF, Republic of Latvia, American Express, The Payments Association, Trust EU Affairs, FinTechs etc and closing speaker on “CBDC and Digital Currencies” at [Payments Nordics](https://informaconnect.com/payments-nordics/#:~:text=2022%20Highlights&text=Payments%20Nordics%20brings%20together%20specialists,place%20for%20Nordic%20payments%20specialists.)  
+Chair of Event with EBF, Republic of Latvia, American Express, The Payments Association, Trust EU Affairs, FinTechs etc and closing speaker on “CBDC and Digital Currencies” at [Payments Nordics](https://web.archive.org/web/20200812182927/https://informaconnect.com/payments-nordics/)  
 <img src="/assets/uploads/2022/06/Michael-Salmony-Payments-Nordics-speaker-card-1024x535.png" loading="lazy" width="700" height="366">
 
 **29.6.22**
@@ -725,7 +725,7 @@ A number of the attendees commented on how your presentation was **exceptionally
 
 **2.8.22**
 
-Speech on [“Open Finance, Open Banking, Open Everything – experiences on the best of breed around the world”](https://informaconnect.com/finovate-middle-east/speakers/michael-salmony-1/) with Saudi British Bank etc at [FinovateEdge Middle East](https://informaconnect.com/finovate-middle-east/)  
+Speech on [“Open Finance, Open Banking, Open Everything – experiences on the best of breed around the world”](https://web.archive.org/web/20220926135415/https://informaconnect.com/finovate-middle-east/speakers/michael-salmony-1/) with Saudi British Bank etc at [FinovateEdge Middle East](https://informaconnect.com/finovate-middle-east/)  
 [LinkedIn](https://www.linkedin.com/posts/jazwasson_book-now-finovate-edge-middle-east-activity-6957294840472551424-eab2/?utm_source=linkedin_share&utm_medium=ios_app)
 
 **29-31.8.22**
@@ -783,8 +783,8 @@ Opening day keynote TED talk on “From Finance-TPPs (Fintechs) to Everything-TP
 [See the post on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:6995425562273996800/)
 
   
-See [recording](https://openfuture.world/view/from-finance-tpps-to-everything-tpps/) of talk here  
-See [interview on EU Data Market](https://www.youtube.com/watch?v=fii940tS7RI&ab_channel=OpenFutureWorld) here as [promoted](https://openfuture.world/view/the-european-data-market-regulation-and-incentives/) by OpenX
+See [recording](https://web.archive.org/web/20230321070516/https://openfuture.world/view/from-finance-tpps-to-everything-tpps/) of talk here  
+See [interview on EU Data Market](https://www.youtube.com/watch?v=fii940tS7RI&ab_channel=OpenFutureWorld) here as [promoted](https://web.archive.org/web/20230326043355/https://openfuture.world/view/the-european-data-market-regulation-and-incentives/) by OpenX
 
 </p>
 
@@ -808,7 +808,7 @@ Keynote speech on “Let’s Challenge the Challengers!  Neo Banks vs Incumbent
 
 **29-30.11.22**
 
-Speech on “Digital Identity as the basis for safer payments, safer banking, safer online” at [Payments International](https://informaconnect.com/payments-international/), London  
+Speech on “Digital Identity as the basis for safer payments, safer banking, safer online” at [Payments International](https://web.archive.org/web/20200925102928/https://informaconnect.com/payments-international/), London  
 <img src="/assets/uploads/2022/11/no-discount-Payments-International-speaker-banner-Michael-Salmony-1024x485.png" loading="lazy" width="700" height="332">
 
 **5.-9.12.22**
@@ -845,7 +845,7 @@ All in all “one of Worldline’s best performing campaigns, from the figures b
 
 **26.1.21**
 
-Moderator of [Executive Round Table](https://asiapaymentsconnect.com/data-governance-the-key-to-compete-in-a-digitized-financial-services-roundtable/) on “Data Governance: The Key to Compete in a Digitised Financial Services Market”
+Moderator of Executive Round Table on “Data Governance: The Key to Compete in a Digitised Financial Services Market”
 
 **2.2.21**
 
@@ -876,7 +876,7 @@ Keynote “Open Banking where is it ? where will it go?”, Worldline
 
 **15-16.3.21**
 
-“The – sometimes surprising – benefits of Open Banking, Open Finance and beyond” and panel on “FinTech and API” at [APIdays Helsinki](https://www.apidays.global/helsinki_and_north/#schedule), with 1000+ attendees, 650+ companies on “APIs, Platforms, And Ecosystems – Transforming Industries And Experiences” on all social media platforms incl [YouTube](https://www.youtube.com/watch?v=G3rrNbn8gQc&ab_channel=apidays) clip, [tweet](https://twitter.com/APIdaysGlobal/status/1369938646778802178?s=20), [tweet](https://twitter.com/MNiinioja/status/1371436006554099713?s=20), [tweet](https://twitter.com/MNiinioja/status/1371452869178630153?s=20)
+“The – sometimes surprising – benefits of Open Banking, Open Finance and beyond” and panel on “FinTech and API” at [APIdays Helsinki](https://web.archive.org/web/20210128044139/https://www.apidays.global/helsinki_and_north/), with 1000+ attendees, 650+ companies on “APIs, Platforms, And Ecosystems – Transforming Industries And Experiences” on all social media platforms incl [YouTube](https://www.youtube.com/watch?v=G3rrNbn8gQc&ab_channel=apidays) clip, [tweet](https://twitter.com/APIdaysGlobal/status/1369938646778802178?s=20), [tweet](https://twitter.com/MNiinioja/status/1371436006554099713?s=20), [tweet](https://twitter.com/MNiinioja/status/1371452869178630153?s=20)
 
 > Join us in this session with [@salmony](https://twitter.com/salmony?ref_src=twsrc%5Etfw) Michael Salmony, Executive Adviser at equensWorldline SE ​to hear what the (sometimes surprising) new scenarios for Open Banking will be.[\#apidays](https://twitter.com/hashtag/apidays?src=hash&ref_src=twsrc%5Etfw) LIVE Helsinki & North \| March 15, 2021 \| 02:00 PM (EET)
 >
@@ -886,7 +886,7 @@ Keynote “Open Banking where is it ? where will it go?”, Worldline
 
 **29.3.21**
 
-[Interview](https://pseconsulting.com/worldline_psd3/) with PSE Consulting CEO in the “Innovation Videos Series with key executives” on PSD3, GDPR2,  … [LinkedIn](https://www.linkedin.com/posts/chrisjonespse_innovation-payments-regulation-activity-6782242387021336576-k0rw) promotion of the “wonderful Michael Salmony”
+Interview with PSE Consulting CEO in the “Innovation Videos Series with key executives” on PSD3, GDPR2,  … [LinkedIn](https://www.linkedin.com/posts/chrisjonespse_innovation-payments-regulation-activity-6782242387021336576-k0rw) promotion of the “wonderful Michael Salmony”
 
 **20.4.21**
 
@@ -923,7 +923,7 @@ Chair of  Open Banking at AFRICA FINTECH FORUM with Nvalaye Kourouma, Youssef K
 
 **8.6.21**
 
-[Payments Nordics](https://informaconnect.com/payments-nordics/agenda/1/) which brings together financial services, policymakers, FinTechs and thought leaders on the changing payments ecosystem.- speech on “**CBDC and Digital currencies**” with EBF, American Express, Republic of Latvia, EU Trust Affairs, The Payments Association, etc  
+[Payments Nordics](https://web.archive.org/web/20210416132143/https://informaconnect.com/payments-nordics/agenda/1/) which brings together financial services, policymakers, FinTechs and thought leaders on the changing payments ecosystem.- speech on “**CBDC and Digital currencies**” with EBF, American Express, Republic of Latvia, EU Trust Affairs, The Payments Association, etc  
 [LinkedIn](https://www.linkedin.com/posts/icbi_payments-digital-banks-activity-6945763371614937088-5i9A/?utm_source=linkedin_share&utm_medium=ios_app)
 
 **22.6.21**
@@ -946,7 +946,7 @@ Video on European Open Banking within the Oxford AI in Fintech and Open Banking 
 
 **30.9.21**
 
-[“Reviewing the Policy aims of PSD2/SCA”](https://stream.mux.com/5uZBAi01ACRozeFxurKAKDh3UfIHTBFS97GzIT88LI4A/high.mp4) at annual [PSD2 & Customer Authentication Summit](https://psd2casummit.com/) with banks, regulators, standard bodies, selected FinTechs who are looking to stay ahead of the curve
+“Reviewing the Policy aims of PSD2/SCA” at annual [PSD2 & Customer Authentication Summit](https://psd2casummit.com/) with banks, regulators, standard bodies, selected FinTechs who are looking to stay ahead of the curve
 
 **Oct/Nov/Dec**
 
@@ -958,7 +958,7 @@ Moderator of “Thought Leadership” webinars under BrightTalk “Transforming 
 
 **7.10.21**
 
-“Global Payment Trends” panel with Elisabeth McQuerry (Glenbrook) at [NACHA Alliance](https://www.nacha.org/content/alliance-2021-fall-meeting) meeting
+“Global Payment Trends” panel with Elisabeth McQuerry (Glenbrook) at [NACHA Alliance](https://web.archive.org/web/20210803151906/https://www.nacha.org/content/alliance-2021-fall-meeting) meeting
 
 **15.10.21**
 
@@ -981,7 +981,7 @@ Invited to give keynote at [World Digital Banking Summit](https://www.luxatiaint
 
 **16-17.11.21**
 
-Panellist on [“Global Trends in New Payment Methods”](https://informaconnect.com/payments-international/agenda/1/) with Barclays, IATA, Deutsche Bank at Payments International, London
+Panellist on [“Global Trends in New Payment Methods”](https://web.archive.org/web/20191208111818/https://informaconnect.com/payments-international/agenda/1) with Barclays, IATA, Deutsche Bank at Payments International, London
 
 **23-24.11.21**
 
@@ -1039,7 +1039,7 @@ TrendLab to “open the minds of the participants” on the business models from
 
 **11-12.3.20**
 
-Closing speech on “End of Money”, FPN [Frankfurt Payment Network](https://www.frankfurt-payments-network.de/veranstaltungen/), Frankfurt
+Closing speech on “End of Money”, FPN [Frankfurt Payment Network](https://web.archive.org/web/20181017171412/http://www.frankfurt-payments-network.de:80/veranstaltungen/), Frankfurt
 
 **19.3.2020**
 
@@ -1056,11 +1056,11 @@ Blick auf die Payment-Entwicklung in Europa und auf die Chancen und Risiken der 
 **6/7.5.20**
 
 Was kommt nach PSD2 ?  
-by personal invitation of Professor for International Management und Innovations at ISM to [Euroforum](http://www.euroforum.de/veranstaltungen/open_banking) event on Open Banking, Frankfurt
+by personal invitation of Professor for International Management und Innovations at ISM to [Euroforum](https://web.archive.org/web/20190417121819/http://www.euroforum.de/veranstaltungen/open_banking) event on Open Banking, Frankfurt
 
 **21-22.5.20**
 
-“7 Myths in Payments” (via head of communications) at [NACHA](https://www.nacha.org/content/alliance-2020-spring-meeting) Alliance 2020 Spring Meeting, The Hague, Netherlands
+“7 Myths in Payments” (via head of communications) at NACHA Alliance 2020 Spring Meeting, The Hague, Netherlands
 
 **21.5.20**
 
@@ -1084,7 +1084,7 @@ Hard Talk on [“Digital Identity – Interconnecting Many Solutions or Start An
 
 **10.9.20**
 
-Moderator of Asia Payments Connect (APC) [webinar on Digital Identity](https://asiapaymentsconnect.com/2020/06/18/digitalidentity/) with CEO Jumio, Chief Strategy Officer of AusPayNet, CEO Moneyforward and Head of Fintech Institute Japan
+Moderator of Asia Payments Connect (APC) webinar on Digital Identity with CEO Jumio, Chief Strategy Officer of AusPayNet, CEO Moneyforward and Head of Fintech Institute Japan
 
 **16-18.9.20**
 
@@ -1124,7 +1124,7 @@ at [cibi](http://www.cibi.de), “Finance 4.0: Neue Finanzdienstleistungen rund 
 
 **18-19.11.20**
 
-“PSD3 and a European Data Scheme – what is coming next” at [Payments International](https://informaconnect.com/payments-international/agenda/1/), London
+“PSD3 and a European Data Scheme – what is coming next” at [Payments International](https://web.archive.org/web/20191208111818/https://informaconnect.com/payments-international/agenda/1), London
 
 **7-8.12.20**
 
@@ -1139,7 +1139,7 @@ FDATA Edinburgh
 **21-23.1.19**
 
 Making the Open Economy Work  
-at [Omnisecure](https://www.omnisecure.berlin/de/omnisecure/programm/kongress-2019) with Bundesgesundheitsminister Spahn, Berlin
+at Omnisecure with Bundesgesundheitsminister Spahn, Berlin
 
 **6.2.19**
 
@@ -1168,7 +1168,7 @@ Payments Nordics 2019 Forum, Stockholm
 
 **3.4.19**
 
-[Executive cross-industry event](https://www.nordicfinanceinnovation.com/news-and-events/united-europe-enabled-by-technologies) on “United Europe enabled by technologies” at Nordic Innovation Forum, Madrid
+Executive cross-industry event on “United Europe enabled by technologies” at Nordic Innovation Forum, Madrid
 
 **8.4.19**
 
@@ -1214,7 +1214,7 @@ as keynote speaker by invitation of board of Banco de Portugal for strategic deb
 **3.7.19**
 
 Daten sind das Asset und Gold der Branche – wie Daten für zukünftiges Mehrgeschäft genutzt werden können  
-by personal invitation of Professor for International Management und Innovations at ISM to [Euroforum](http://www.euroforum.de/veranstaltungen/open_banking) event on Open Banking, Frankfurt  
+by personal invitation of Professor for International Management und Innovations at ISM to [Euroforum](https://web.archive.org/web/20190417121819/http://www.euroforum.de/veranstaltungen/open_banking) event on Open Banking, Frankfurt  
 [tweeted](https://www.linkedin.com/feed/update/urn:li:activity:6538786443987296256/) about “Mehr Chancen als Hype”
 
 **11.7.19**
@@ -1237,7 +1237,7 @@ Banks Take Back Control round table, iDeal Users’ Club, Amsterdam
 **17-19.9.19**
 
 eIdentity – keynote introductory speech and expert workshop  
-at Worldline [e-Payments Challenge](https://worldline.com/en/home/epayments-challenge.html) Hackaton, Frankfurt  
+at Worldline [e-Payments Challenge](https://web.archive.org/web/20191225052859/https://worldline.com/en/home/epayments-challenge.html) Hackaton, Frankfurt  
 [tweeted](https://twitter.com/WorldlineGlobal/status/1173946288464965633?s=20) about by Worldline
 
 **20.9.19**
@@ -1249,14 +1249,14 @@ at Worldline [e-Payments Challenge](https://worldline.com/en/home/epayments-chal
 “Disruptive Innovation, Powerful Fortune, Leaping Development”,  
 [6th Annual Global Congress of Knowledge Economy](http://www.bitcongress.com/gcke2019/), with more than 3,000 world renowned speakers and participants from more than 40 countries and areas around the world as a leading international event for the economy community, Shanghai Cooperation Organization International Conference Center, Qingdao, China
 
-**26.9.19** [Kartensicherheit.de](https://www.kartensicherheit.de/oeffentlich/aktuelles/15-konferenz-kartensicherheit-de.html)
+**26.9.19** [Kartensicherheit.de](https://web.archive.org/web/20190719110925/https://www.kartensicherheit.de/oeffentlich/aktuelles/15-konferenz-kartensicherheit-de.html)
 
 Professor, der einen Blick in die Zukunft wirft (Trendforscher?) und dabei auch das Bezahlen
 
 **10-13.10.19**
 
 The End of Money  
-at New Scientist Live – [The World’s Greatest Science Festival](https://live.newscientist.com/), audience of 40,000 people (!), with scientists, celebrities, astronauts, physicists, biologists, engineers, neuroscientists, mathematicians and more, [Technology Stage](https://live.newscientist.com/talks), London  
+at New Scientist Live – [The World’s Greatest Science Festival](https://live.newscientist.com/), audience of 40,000 people (!), with scientists, celebrities, astronauts, physicists, biologists, engineers, neuroscientists, mathematicians and more, [Technology Stage](https://web.archive.org/web/20180825230830/https://live.newscientist.com/talks), London  
 much [tweeted](https://twitter.com/newscilive/status/1141269486936514560/photo/1) about (since wrongly tagged with \#crypto) and much [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6548851381497839616), [tweeted](https://twitter.com/eW_eu/status/1150738675627679746?s=20) with video, etc  
 [<img src="/assets/uploads/2019/07/nsltweet-298x300.png" class="left" loading="lazy" width="298" height="300">](/assets/uploads/2019/07/nsltweet.png)[<img src="/assets/uploads/2019/06/NSL-tweet-283x300.png" class="left" loading="lazy" width="283" height="300">](/assets/uploads/2019/06/NSL-tweet.png)
 
@@ -1282,7 +1282,7 @@ at equensWorldline Client User Group meeting, Barcelona
 **13.11.19**
 
 The evolution of real time payments, the emergence of EPL etc.  
-at [PSE Merchant Acquiring](https://pseconsulting.com/conferences/merchantacquiring2019/) conference to highlight the major trends affecting European acquiring and provide unique insights into developments in the current market with senior payments people from merchants, acquirers, gateways, processors, issuers, card schemes, ISOs, ISVs, legal firms, and private equity firms, London
+at [PSE Merchant Acquiring](https://web.archive.org/web/20190922033144/https://pseconsulting.com/conferences/merchantacquiring2019/) conference to highlight the major trends affecting European acquiring and provide unique insights into developments in the current market with senior payments people from merchants, acquirers, gateways, processors, issuers, card schemes, ISOs, ISVs, legal firms, and private equity firms, London
 
 **26-27.11.19**
 
@@ -1290,7 +1290,7 @@ at [PSE Merchant Acquiring](https://pseconsulting.com/conferences/merchantacquir
 
 **27-28.11.19**
 
-“Where Next for the API Ecosystem Model? – Digital Identity, Premium APIs and Beyond” with Open Banking Implementation Entity and Head of Digital Banking Nordea at [Payments International,](https://finance.knect365.com/payments-international/agenda/1) London  
+“Where Next for the API Ecosystem Model? – Digital Identity, Premium APIs and Beyond” with Open Banking Implementation Entity and Head of Digital Banking Nordea at [Payments International,](https://web.archive.org/web/20181022173011/https://finance.knect365.com/payments-international/agenda/1) London  
 [tweeted](https://www.linkedin.com/feed/update/urn:li:activity:6592311300271980544/) about
 
 **4-5.12.19**
@@ -1369,20 +1369,20 @@ RegTech and Digital Finance Conference, Frankfurt
 
 **14-15.3.18**
 
-Keynote plenary panel on Identity on “Securing Transactions” at [European Payments Summit](http://europeanpaymentsummit.com/?mc_cid=dc6726d552&mc_eid=844a0e9040), The Hague  
+Keynote plenary panel on Identity on “Securing Transactions” at European Payments Summit, The Hague  
 [promoted](https://mailchi.mp/transactives/identity-needs-a-radical-rethink-pre-summit-security-masterclass-open-for-registration?e=844a0e9040) by Transactivies
 
 **21-22.3.18**
 
 “How PSD2 and eIdentity can help eachother”  
-Opening Keynote at [Payments SUMMIT 2018](http://events.almatalent.fi/payment-summit/ohjelma/), with ECB, Monzo, etc, Helsinki
+Opening Keynote at [Payments SUMMIT 2018](https://web.archive.org/web/20180131115128/http://events.almatalent.fi/payment-summit/ohjelma/), with ECB, Monzo, etc, Helsinki
 
 **28-29.3.18**
 
 “Identity is bigger than Payments”  
-opening keynote speech at [IDnext](http://www.idnext.eu/en/events/annual-idnext-2018/program/), Europe’s leading independent, interdisciplinary European conference on Digital Identity and chair of panels (with Eur Commission DG Connect, ABN, Ministry of Interior NL) on rethinking digital services/disruptive innovations, smart cities/smart and connected citizens, privacy in a digital world/guiding the future, Utrecht
+opening keynote speech at [IDnext](https://web.archive.org/web/20171218042656/http://www.idnext.eu:80/en/events/annual-idnext-2018/program/), Europe’s leading independent, interdisciplinary European conference on Digital Identity and chair of panels (with Eur Commission DG Connect, ABN, Ministry of Interior NL) on rethinking digital services/disruptive innovations, smart cities/smart and connected citizens, privacy in a digital world/guiding the future, Utrecht
 
-LinkedIn [promotion](https://www.linkedin.com/feed/update/activity:6356964577032445952/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-21-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-21-check_update_cta-null-6rxge%7Ejc9k4qf6%7E25-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BmIEIrJRTQDe9he8DTeSSfw%3D%3D) and [again](https://www.linkedin.com/feed/update/activity:6376159955417919488/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-21-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-21-check_update_cta-null-6rxge%7Ejed8w3w8%7Ei0-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BczOthPbETFyyU6UEQjBxXw%3D%3D), equensWordline [promotion](https://equensworldline.com/en/home/events.html), Worldline [promotion](https://worldline.com/en/home/newsroom/events/idnext-2018.html)
+LinkedIn [promotion](https://www.linkedin.com/feed/update/activity:6356964577032445952/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-21-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-21-check_update_cta-null-6rxge%7Ejc9k4qf6%7E25-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BmIEIrJRTQDe9he8DTeSSfw%3D%3D) and [again](https://www.linkedin.com/feed/update/activity:6376159955417919488/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-21-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-21-check_update_cta-null-6rxge%7Ejed8w3w8%7Ei0-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BczOthPbETFyyU6UEQjBxXw%3D%3D), equensWordline [promotion](https://equensworldline.com/en/home/events.html), Worldline [promotion](https://web.archive.org/web/20191023072252/https://worldline.com/en/home/newsroom/events/idnext-2018.html)
 
 **5-6.4.18**
 
@@ -1411,11 +1411,11 @@ Euroevents, Berlin
 **21.5.18**
 
 “PSD2 and Open Banking: Unleashing opportunities for innovation and digital transformation”  
-opening keynote and panel (with CEO Russian electronic money association, Founder FinTech Ireland, European Commission, EPC) at Nextgen Payments Forum Cyprus, an exclusive two-day gathering bringing together senior executives for focused conversations around the future of payments [QUBE Events](http://qubevents.com/content/npf2018), Nicosia, Cyprus
+opening keynote and panel (with CEO Russian electronic money association, Founder FinTech Ireland, European Commission, EPC) at Nextgen Payments Forum Cyprus, an exclusive two-day gathering bringing together senior executives for focused conversations around the future of payments [QUBE Events](https://web.archive.org/web/20181210103954/http://qubevents.com:80/content/npf2018), Nicosia, Cyprus
 
 > [\#PSD2](https://twitter.com/hashtag/PSD2?src=hash&ref_src=twsrc%5Etfw) and [\#OpenBanking](https://twitter.com/hashtag/OpenBanking?src=hash&ref_src=twsrc%5Etfw) is the equivalent of moving from Nokia phones to iPhones [@salmony](https://twitter.com/salmony?ref_src=twsrc%5Etfw) at [\#NPF2018](https://twitter.com/hashtag/NPF2018?src=hash&ref_src=twsrc%5Etfw)
 >
-> — Aleksi Grym (@aleksigrym) [May 21, 2018](https://twitter.com/aleksigrym/status/998458672006205440?ref_src=twsrc%5Etfw)
+> — Aleksi Grym (@aleksigrym) May 21, 2018
 
 (Above) Tweet by Finland Central Bank on my talk
 
@@ -1444,11 +1444,11 @@ at GS1 Germany: The Global Language of Business conference for banks and merchan
 **5-6.6.18**
 
 The impact of PSD2 on international business  
-[Avapay](https://advapay.eu/events/en_05_06_2017.html) conference, Moscow, Russia
+[Avapay](https://web.archive.org/web/20171024164754/https://advapay.eu/events/en_05_06_2017.html) conference, Moscow, Russia
 
 **12.6.18**
 
-[Nordic Finance Innovation](http://www.nordicfinanceinnovation.com/), Oslo
+[Nordic Finance Innovation](https://web.archive.org/web/20190110062832/https://www.nordicfinanceinnovation.com/), Oslo
 
 **17-19.6.18**
 
@@ -1488,7 +1488,7 @@ and Panel “Identity management as potential business opportunity / business en
 **26-28.9.18**
 
 Inovation through Regulation – not a contradiction!?  
-Keynote, Mentor and Jury at [equensWorldline Hackathon](https://worldline.com/en/home/blog/2018/june/the-future-of-payments-now-the-Worldline-epayments-challenge-hackathon.html) “The Future of Payments”, Paris – see [video](https://www.youtube.com/watch?v=NvqfigoiyFk&feature=youtu.be)
+Keynote, Mentor and Jury at equensWorldline Hackathon “The Future of Payments”, Paris – see [video](https://www.youtube.com/watch?v=NvqfigoiyFk&feature=youtu.be)
 
 **26.9.18**
 
@@ -1514,7 +1514,7 @@ Keynote and panel moderator in [“Data Protection and Open Banking: Experiences
 **14.11.18**
 
 “Wie Wandeln sich Geschäftsmodelle unter Einfluss von PSD2, Instant Payments und Realtime Banking?” (for CEO)  
-panel with board members Landesbank Hessen, Bundesbank, Ministry of Finance, Bearing Point, Otto at [Eurofinance](https://www.dfv-eurofinance.com/konferenzen/euro-finance-week-2018/wochenubersicht-2018/mittwoch-14-november-2018-digitalisation/payments-konferenz) Week, under chair of German Minister of Finance, Frankfurt
+panel with board members Landesbank Hessen, Bundesbank, Ministry of Finance, Bearing Point, Otto at [Eurofinance](https://web.archive.org/web/20190719061714/https://www.dfv-eurofinance.com/konferenzen/euro-finance-week-2018/wochenubersicht-2018/mittwoch-14-november-2018-digitalisation/payments-konferenz) Week, under chair of German Minister of Finance, Frankfurt
 
 **14/15.11 & 7.12.18**
 
@@ -1524,7 +1524,7 @@ with EBA European Banking Authority, ECB European Central Bank (Marc Bayle, Dire
 **27.11.18**
 
 “The Digital Identity Agenda – Regulatory Initiatives and Practical Uses”  
-at [Payments International](https://finance.knect365.com/payments-international/agenda/1), London
+at [Payments International](https://web.archive.org/web/20181022173011/https://finance.knect365.com/payments-international/agenda/1), London
 
 **11-12.12.18**
 
@@ -1546,7 +1546,7 @@ Speech and Panel on “Biometrics – tokenisation – eID: new ways to identify
 **16.-18.1.17**
 
 “Debunking Blockchain”  
-chair of panel with Carl-Ludwig Thiele Member of the Board Deutsche Bundesbank, Klaus Löber Senior Adviser Market Infrastructure and Payments ECB, Daniel Szmukler Director Euro Banking Association (EBA) at [Omnisecure](https://www.omnisecure.berlin/de/omnisecure), the ultimative conference of the Smart ID Solutions Community under the patronage of the Ministry of the Interior (BMI), Berlin
+chair of panel with Carl-Ludwig Thiele Member of the Board Deutsche Bundesbank, Klaus Löber Senior Adviser Market Infrastructure and Payments ECB, Daniel Szmukler Director Euro Banking Association (EBA) at [Omnisecure](https://web.archive.org/web/20180929162114/http://omnisecure.berlin:80/de/omnisecure), the ultimative conference of the Smart ID Solutions Community under the patronage of the Ministry of the Interior (BMI), Berlin
 
 **26.1.17**
 
@@ -1555,7 +1555,7 @@ at FS Club, London
 
 > Excellent talk on the reality of [\#Blockchain](https://twitter.com/hashtag/Blockchain?src=hash&ref_src=twsrc%5Etfw) [@salmony](https://twitter.com/salmony?ref_src=twsrc%5Etfw) at [@FSClub](https://twitter.com/FSClub?ref_src=twsrc%5Etfw). Sobering thought decentralisation leaves us exposed to [\#Hackers](https://twitter.com/hashtag/Hackers?src=hash&ref_src=twsrc%5Etfw) [\#Criminals](https://twitter.com/hashtag/Criminals?src=hash&ref_src=twsrc%5Etfw)
 >
-> — Sally Jasmin茉莉 Sarma (@JasminandRoses) [January 26, 2017](https://twitter.com/JasminandRoses/status/824737847781576704?ref_src=twsrc%5Etfw)
+> — Sally Jasmin茉莉 Sarma (@JasminandRoses) January 26, 2017
 
 (Above, Much tweeted about as excellent talk) and [cited](https://www.cloudcomputing-news.net/news/2017/mar/08/how-data-acceleration-will-make-blockchain-even-more-secure/) and again [cited](https://www.linkedin.com/pulse/blockchain-single-version-truth-agreement-%E8%8C%89%E8%8E%89-m%C3%B2l%C3%AC-sarma) in articles about my talk and publication
 
@@ -1570,7 +1570,7 @@ at GSMA Event within Mobile World Congress, Barcelona
 **8-9.3.17**
 
 The Changing European Payment Landscape  
-keynote and plenary opening panel with SWIFT and KBC Bank at EPS [European Payment Summit](http://europeanpaymentsummit.com/the-program/), The Hague  
+keynote and plenary opening panel with SWIFT and KBC Bank at EPS [European Payment Summit](https://web.archive.org/web/20180825071215/http://europeanpaymentsummit.com/the-program/), The Hague  
 published about in [Finextra](https://www.finextra.com/newsarticle/30248/psd2-dominates-discussion-on-day-one-of-european-payments-summit) “PSD2 dominates discussion in European Payments Summit”
 
 > “Cybercrime is the most innovative sector in the payment industry.” Micheal Salmony ([@salmony](https://twitter.com/salmony?ref_src=twsrc%5Etfw)) [@eW_eu](https://twitter.com/eW_eu?ref_src=twsrc%5Etfw) [\#eps2k17](https://twitter.com/hashtag/eps2k17?src=hash&ref_src=twsrc%5Etfw)
@@ -1603,7 +1603,7 @@ KURS Zahlungsverkehr 2017, IIR, Wien
 **18.-19.5.17**
 
 “Payment Innovation: what’s hot and what’s not?”  
-[“BIT – Retail Banking, Private Banking, Zahlungsverkehr”](http://businesscircle.at/banken-versicherungen/konferenz/bit), seit 15 Jahren Fixpunkt der Bankenkonferenzen in Österreich mit über 130 Entscheidungsträger aus Banken, Stegersbach, Österreich
+[“BIT – Retail Banking, Private Banking, Zahlungsverkehr”](https://web.archive.org/web/20171108094950/http://businesscircle.at:80/banken-versicherungen/konferenz/bit), seit 15 Jahren Fixpunkt der Bankenkonferenzen in Österreich mit über 130 Entscheidungsträger aus Banken, Stegersbach, Österreich
 
 **7-8.6.17**
 
@@ -1613,7 +1613,7 @@ Harnessing FinTech Innovation in Retail Banking
 **6.-8.6.17**
 
 “PSD2 in Practice – Past reflections on PSD2 regulatory process and future business opportunities”  
-at [Mobey Forum](http://www.mobeyforum.org/events/edinburgh-member-meeting/) annual plenary event on “Democratization of Finance”, Edinburgh [promoted](https://www.linkedin.com/feed/update/activity:6275363948397162496/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-11-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-11-check_update_cta-null-6rxge%7Ej3bt1qup%7E61-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3Bs9bG5wFCROGxYXxkyR%2F55Q%3D%3D) and [promoted](https://www.linkedin.com/feed/update/activity:6278852627451117568/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-11-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-11-check_update_cta-null-6rxge%7Ej3pka40u%7Eo1-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3Bl4uHxYNYSQWX3a711chtdg%3D%3D) on LinkedIn
+at Mobey Forum annual plenary event on “Democratization of Finance”, Edinburgh [promoted](https://www.linkedin.com/feed/update/activity:6275363948397162496/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-11-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-11-check_update_cta-null-6rxge%7Ej3bt1qup%7E61-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3Bs9bG5wFCROGxYXxkyR%2F55Q%3D%3D) and [promoted](https://www.linkedin.com/feed/update/activity:6278852627451117568/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-11-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-11-check_update_cta-null-6rxge%7Ej3pka40u%7Eo1-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3Bl4uHxYNYSQWX3a711chtdg%3D%3D) on LinkedIn
 
 **15.6.17**
 
@@ -1634,8 +1634,8 @@ only speaker to have been re-invited in the event’s 15 year history at R+V fla
 **12-15.9.17**
 
 “This House Believes Blockchain Is A Truly Transformative Technology”  
-“con” debater at top event [Payments International](https://finance.knect365.com/payments-international/purchase/select-package), Europe’s longest running Payments event, with 400 attendees from 45 countries, now in its 25th year, London  
-promoted with my old LinkedIn [article](https://knect365.com/fintech/article/1aac6efc-3a74-4c47-bdb3-ec05f755cab7/blockchain-not-for-payments?utm_medium=email&utm_campaign=Finance%2FNewsletters%2FFKN2528%2FPay_Int%2FContentAug2&utm_source=Payments%20International&user_id=900031825615&tracker_id=022JYQB8F)
+“con” debater at top event [Payments International](https://web.archive.org/web/20181022165228/https://finance.knect365.com/payments-international/purchase/select-package), Europe’s longest running Payments event, with 400 attendees from 45 countries, now in its 25th year, London  
+promoted with my old LinkedIn article
 
 **29.9.17**
 
@@ -1654,14 +1654,14 @@ Opening keynote at Panel at [Cyber3](http://www.npr-event.jp/cyber3/en/program.h
 
 **25.10.17**
 
-Moderator of all Panels at Berlin Group’s [NextGenPSD2 conference](https://www.berlin-group.org/nextgenpsd2-conference-2017) with Deputy Director General ECB, Head of Financial Services and Payments European Commission, etc at Deutsche Bank, Berlin  
+Moderator of all Panels at Berlin Group’s [NextGenPSD2 conference](https://web.archive.org/web/20181230191024/https://www.berlin-group.org/nextgenpsd2-conference-2017) with Deputy Director General ECB, Head of Financial Services and Payments European Commission, etc at Deutsche Bank, Berlin  
 Berlin Group encompasses 24 major players in the payments industry from all major European Countries  
 Promoted on [LinkedIn](https://www.linkedin.com/feed/update/activity:6328866986327711744/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-hero-11-check_update_cta&trkEmail=eml-email_mentions_individual_single_01-hero-11-check_update_cta-null-6rxge%7Ej96rqhm1%7Epw-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BkJz7%2B0WpTvaAevIL%2FNAwEA%3D%3D)
 
 **26-28.10.17**
 
 “The Future Banking After PSD2”  
-in HUAWEI European flagship event [CONNECT EUROPE 2017](http://www.huaweiconnecteurope.com/) one of the ICT industry’s leading global events with 2000 delegates, including European Commissioner, Secretary of State, etc – as leading representative at Financial forum, Berlin  
+in HUAWEI European flagship event [CONNECT EUROPE 2017](https://web.archive.org/web/20190123065613/https://huaweiconnecteurope.com/) one of the ICT industry’s leading global events with 2000 delegates, including European Commissioner, Secretary of State, etc – as leading representative at Financial forum, Berlin  
 leading to Journalist article in The [Telegraph](/assets/uploads/2019/01/Huawei.pdf) UK
 
 **6-7.11.17**
@@ -1718,13 +1718,13 @@ at [RegTech World 2017](https://www.kuppingercole.com/events/regtech2017) with f
 **13.12.17**
 
 Flown in at organisers’ expense for two panels “Open Banking: The New Frontiers” and “Australia in the context of Global Developments” at “Towards a new world of payments” inaugural [Australian Payments Summit](http://www.australianpaymentsummit.com/?mc_cid=dc6726d552&mc_eid=844a0e9040)for Oceania, with Governor of the Reserve Bank of Australia, General Manager National Australia Bank etc, Sydney  
-citing Salmony in [Asia Retail](http://retailasiaonline.com/wp-content/uploads/2017/11/RA_Oct-Nov2017.pdf) (p.69), highlights [article](http://paymentsconsulting.com/news/inaugural-australian-payments-summit-2017-recap), [featured](https://www.linkedin.com/feed/update/urn:li:activity:6344642322734678016) in LinkedIn and after interview in [Payments Consulting Network](http://paymentsconsulting.com/news/feature-on-australian-payments-summit), [panel](https://www.linkedin.com/feed/update/activity:6346620864208957440/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-mentions_individual-25-update&trkEmail=eml-email_mentions_individual_single_01-mentions_individual-25-update-null-6rxge%7Ejb4rv0zx%7Emc-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BKYmIFWbnQ%2FytRjLjzXEzrA%3D%3D) impression,[Australia can learn from Europe](https://www.linkedin.com/feed/update/activity:6346578998398713858/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-mentions_individual-23-update&trkEmail=eml-email_mentions_individual_single_01-mentions_individual-23-update-null-6rxge%7Ejb4lwrat%7Eo3-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BJP%2B1hhMXRhWB4B2BkgTizQ%3D%3D), [fantastic](https://www.linkedin.com/feed/update/activity:6346519694987628544/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-mentions_individual-25-update&trkEmail=eml-email_mentions_individual_single_01-mentions_individual-25-update-null-6rxge%7Ejb4diy1i%7Eql-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BIfMhOY2FT3CpIIz%2Fi9kg3A%3D%3D) panel, [Australia compared to Europe/UK, India, Korea](https://twitter.com/advisoryst/status/940811354130313218?s=17), and [again](https://mobile.twitter.com/TaleenShamlian/status/940812047150977024), [not standards but business rules](https://mobile.twitter.com/naddison/status/940816548599607296), [EU fed up with banks](https://mobile.twitter.com/victoriajane/status/940735169761132544), [banks not ambitious enough](https://mobile.twitter.com/victoriajane/status/940736150355853312) in Open Banking, [policy should be principle based](https://mobile.twitter.com/victoriajane/status/940740623228739584), etc
+citing Salmony in [Asia Retail](http://retailasiaonline.com/wp-content/uploads/2017/11/RA_Oct-Nov2017.pdf) (p.69), highlights [article](http://paymentsconsulting.com/news/inaugural-australian-payments-summit-2017-recap), [featured](https://www.linkedin.com/feed/update/urn:li:activity:6344642322734678016) in LinkedIn and after interview in Payments Consulting Network, [panel](https://www.linkedin.com/feed/update/activity:6346620864208957440/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-mentions_individual-25-update&trkEmail=eml-email_mentions_individual_single_01-mentions_individual-25-update-null-6rxge%7Ejb4rv0zx%7Emc-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BKYmIFWbnQ%2FytRjLjzXEzrA%3D%3D) impression,[Australia can learn from Europe](https://www.linkedin.com/feed/update/activity:6346578998398713858/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-mentions_individual-23-update&trkEmail=eml-email_mentions_individual_single_01-mentions_individual-23-update-null-6rxge%7Ejb4lwrat%7Eo3-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BJP%2B1hhMXRhWB4B2BkgTizQ%3D%3D), [fantastic](https://www.linkedin.com/feed/update/activity:6346519694987628544/?midToken=AQEWzvHWl_3EBg&trk=eml-email_mentions_individual_single_01-mentions_individual-25-update&trkEmail=eml-email_mentions_individual_single_01-mentions_individual-25-update-null-6rxge%7Ejb4diy1i%7Eql-null-neptune%2Ffeed%2Eupdate&lipi=urn%3Ali%3Apage%3Aemail_email_mentions_individual_single_01%3BIfMhOY2FT3CpIIz%2Fi9kg3A%3D%3D) panel, [Australia compared to Europe/UK, India, Korea](https://twitter.com/advisoryst/status/940811354130313218?s=17), and [again](https://mobile.twitter.com/TaleenShamlian/status/940812047150977024), [not standards but business rules](https://mobile.twitter.com/naddison/status/940816548599607296), [EU fed up with banks](https://mobile.twitter.com/victoriajane/status/940735169761132544), [banks not ambitious enough](https://mobile.twitter.com/victoriajane/status/940736150355853312) in Open Banking, [policy should be principle based](https://mobile.twitter.com/victoriajane/status/940740623228739584), etc
 
 ## 2016
 
 **2.3.16**
 
-Moderator of Public [Hearing](http://ec.europa.eu/finance/events/2016/0302-retail-financial-services/docs/programme_en.pdf) on “How can we make the most of the opportunities presented by innovation?” for the European Commission’s Green Paper on Retail Financial Services
+Moderator of Public [Hearing](https://web.archive.org/web/20160327225045/http://ec.europa.eu:80/finance/events/2016/0302-retail-financial-services/docs/programme_en.pdf) on “How can we make the most of the opportunities presented by innovation?” for the European Commission’s Green Paper on Retail Financial Services
 
 **  
 17.2.16**
@@ -1749,7 +1749,7 @@ Deutsche Bundesbank, Hauptgruppe Strategie und Politik Massenzahlungsverkehr, Re
 
 **6.4.16**
 
-“Geplante Strategische Schwerpunkte des ERPB für 2016” [Bankenkongress](http://www.iir.at/veranstaltungen/hub/bankenkongress-kurs/), Wien
+“Geplante Strategische Schwerpunkte des ERPB für 2016” [Bankenkongress](https://web.archive.org/web/20170117074340/http://www.iir.at:80/veranstaltungen/hub/bankenkongress-kurs/), Wien
 
 **13.4.16**
 
@@ -1856,7 +1856,7 @@ Impulsvortrag zu “Erfahrungsaustausch zwischen Bankenbranche und ÖPNV Branche
 **10.-12.11.16**
 
 “Innovation and Sharing”  
-“admired due to your high reputation” towards [3rd Annual Global Congress of Knowledge Economy](http://www.bitcongress.com/GCKE2016/), bringing together international organizations, governments, research institutes, NGOs, businesses and other groups that are interested in using indicators to support the development of economy, Qingdao, China
+“admired due to your high reputation” towards [3rd Annual Global Congress of Knowledge Economy](https://web.archive.org/web/20190101112722/http://www.bitcongress.com:80/GCKE2016/), bringing together international organizations, governments, research institutes, NGOs, businesses and other groups that are interested in using indicators to support the development of economy, Qingdao, China
 
 **15.11.16**
 
@@ -1893,7 +1893,7 @@ Cross-Industry Dialogue between telecoms and banking industries on regulation, L
 
 **20-22.1.15**
 
-eIdentity through PSD2 [Omnicard](http://www.omnicard.berlin/) Conference on smart ID solutions, Berlin
+eIdentity through PSD2 Omnicard Conference on smart ID solutions, Berlin
 
 **27.1.15**
 
@@ -1941,7 +1941,7 @@ invited by EBA Director to e-APWG, Paris
 **16.4.15**
 
 PSD2 – advantages for banks to open up  
-Opening keynote at [Digital Payments Intensive](http://www.cecileparkconferences.com/digital-payments-intensive-2015) by e-Finance & Payments Law & Policy in partnership with corporate law firm Addleshaw Goddard. Key figures, from business and legal backgrounds discuss the most pressing issues at present in the payments sector. With Managing Director of the UK Payment Systems Regulator, along with senior representatives from the ECB.
+Opening keynote at [Digital Payments Intensive](https://web.archive.org/web/20160322095706/http://www.cecileparkconferences.com/digital-payments-intensive-2015) by e-Finance & Payments Law & Policy in partnership with corporate law firm Addleshaw Goddard. Key figures, from business and legal backgrounds discuss the most pressing issues at present in the payments sector. With Managing Director of the UK Payment Systems Regulator, along with senior representatives from the ECB.
 
 **22.4.15**
 
@@ -2036,7 +2036,7 @@ Podiumsdiskussion The Future of Cash Management, Verband Deutscher Treasurer, Fr
 **27.11.15**
 
 “Use cases for PSD2 – the good, the bad and the downright ugly”  
-[PSE Merchant Acquiring Conference](http://www.pseconsulting.com/08_a.htm), London
+[PSE Merchant Acquiring Conference](https://web.archive.org/web/20140830094913/http://www.pseconsulting.com:80/08_a.htm), London
 
 **1.12.15**
 
@@ -2045,7 +2045,7 @@ at [European Payments Regulations](http://www.icbi-events.com/event/single-euro-
 
 **10-11.12.15**
 
-[Cards & Payments Innovation Summit](http://www.luxatiainternational.com/Events/payments-innovation-summit/), Berlin
+[Cards & Payments Innovation Summit](https://web.archive.org/web/20180124001521/http://www.luxatiainternational.com/Events/payments-innovation-summit/), Berlin
 
 **16.12.15**
 
@@ -2101,7 +2101,7 @@ at Premium Conference on Innovations in the Banking Industry (CIBI) on [“Eine 
 
 **1.-4.4.14**
 
-[IPS London](http://www.icbi-ips.com/) “The Future is coming … get busy”  
+[IPS London](https://web.archive.org/web/20201026032015/http://www.icbi-ips.com/) “The Future is coming … get busy”  
 3.4.: Facilitator of Unconference  
 4.4.: Member of final panel: Crowdsourcing IPS 2015 – With The IPS Advisory Board
 
@@ -2158,7 +2158,7 @@ IPFA General Meeting with international central banks, Federal Reserve Bank, Bos
 
 **29.9.-2.10.14**
 
-[SIBOS](http://www.sibos.com/about-sibos/sibos-2014-boston) Boston, USA
+[SIBOS](https://web.archive.org/web/20140929131258/http://www.sibos.com/about-sibos/sibos-2014-boston) Boston, USA
 
 **16.10.14**
 
@@ -2173,7 +2173,7 @@ IPFA General Meeting with international central banks, Federal Reserve Bank, Bos
 **1.-2.12.14**
 
 “Why standards are overrated in business / Perché gli standard sono sopravvalutati per le imprese” in “International Trends and Standards / Trend e Standard Internazionali” Keynote and Panellist  
-[CBI](http://www.abieventi.it/eventi/2098/cbi-2014/#evento-tabs) Conference on “Integrated multichannel services for digital public administrations, corporates and citizens”. The main Italian event for the international community of payment and financial services, playing a key role for structural, technological, strategic and business issues, with banks, corporates, and public administrations, Rome
+[CBI](https://web.archive.org/web/20160305023533/http://www.abieventi.it/eventi/2098/cbi-2014) Conference on “Integrated multichannel services for digital public administrations, corporates and citizens”. The main Italian event for the international community of payment and financial services, playing a key role for structural, technological, strategic and business issues, with banks, corporates, and public administrations, Rome
 
 **9.-10.12.14**
 
@@ -2211,7 +2211,7 @@ at BVR Fachrat Zahlungsverkehr
 **10.4.13**
 
 Leader of roundtable on “The Future of Payments”  
-in [IPS](http://www.icbi-ips.com/) 2013, Europe’s most prestigious payments forum, London. [Blogged about](http://www.chyp.com/media/blog-entry/what-will-life-be-like-in-2013) with photo as the “voice of reason”
+in [IPS](https://web.archive.org/web/20201026032015/http://www.icbi-ips.com/) 2013, Europe’s most prestigious payments forum, London. [Blogged about](http://www.chyp.com/media/blog-entry/what-will-life-be-like-in-2013) with photo as the “voice of reason”
 
 **14.5.13**
 
@@ -2230,7 +2230,7 @@ For EPC Chairman: “The SEPA Project Europe”
 **7.6.13**
 
 Moderator of Workshop “Leapfrogging Opportunities – taking advantage of having no payment legacy” and Keynote [“Europe’s Leapfrog – Jumping Ahead with “Access to the Account””](http://www.transactives.com/onpayments/GlobalPaymentSummit/News/tabid/1173/YearMonth/201304/ItemID/253/Title/EuropesLeapfrogOpeninguppayment/Default.aspx)  
-at [Global Payment Summit](http://www.transactives.com/onpayments/GlobalPaymentSummit/Event.aspx) Bridging Global Strategic Developments in Payments, Singapore with Worldbank, Gartner, Microsoft, McKinsey, Citi Bank etc, Singapore. See pre-summit [video interview](http://vimeo.com/63513812) and post-summit opening statements at [“Strategic Trends identified at Global Payment Summit”](http://blog.payvision.com/strategic-trends-identified-global-payment-summit/) video and report
+at [Global Payment Summit](http://www.transactives.com/onpayments/GlobalPaymentSummit/Event.aspx) Bridging Global Strategic Developments in Payments, Singapore with Worldbank, Gartner, Microsoft, McKinsey, Citi Bank etc, Singapore. See pre-summit [video interview](http://vimeo.com/63513812) and post-summit opening statements at [“Strategic Trends identified at Global Payment Summit”](https://web.archive.org/web/20160923053513/http://blog.payvision.com:80/strategic-trends-identified-global-payment-summit/) video and report
 
 **18.6.13**
 
@@ -2344,7 +2344,7 @@ closing speech at Event for Financial Service Agents, Utrecht
 **20.9.12**
 
 Weltweite Trends in Mobile Payments – was ist das Richtige für Europa ?”  
-[Online- und Electronic Banking Forum](http://www.siz.de/topnavigation/unternehmen/veranstaltungen.html) der Sparkassen-Finanzgruppe, Petersberg, Bonn
+[Online- und Electronic Banking Forum](https://web.archive.org/web/20160805131128/http://www.siz.de/topnavigation/unternehmen/veranstaltungen.html) der Sparkassen-Finanzgruppe, Petersberg, Bonn
 
 **26.9.12**
 
@@ -2467,11 +2467,11 @@ Keynote, Moderation and Management Equens Innovations Sounding Board, Palazzo Al
 
 **16.11.11**
 
-“Geschäftsbanken und Innovationen im Zahlungsverkehr” Podiumsdiskussion mit Vorständen von DSGV, BVR, Atos bei Payments Konferenz “Wie zahlt der Kunde der Zukunft?” im Rahmen der [14. Euro Finance Week](http://www.malekigroup.com/en/event/14eurofinanceweek-Info.html?), dem größten Branchentreffen der Finanz- und Versicherungsindustrie in Europa, Schirmherrschaft Bundesfinanzminister Dr. Wolfgang Schäuble, Frankfurt
+“Geschäftsbanken und Innovationen im Zahlungsverkehr” Podiumsdiskussion mit Vorständen von DSGV, BVR, Atos bei Payments Konferenz “Wie zahlt der Kunde der Zukunft?” im Rahmen der [14. Euro Finance Week](https://web.archive.org/web/20111121022342/http://www.malekigroup.com:80/en/event/14eurofinanceweek-Info.html?), dem größten Branchentreffen der Finanz- und Versicherungsindustrie in Europa, Schirmherrschaft Bundesfinanzminister Dr. Wolfgang Schäuble, Frankfurt
 
 **2.12.11**
 
-“EISB – Gestione industrial delle innovazioni” (“Equens Innovation Sounding Board – Industrial Management of Innovations” Keynote speech at opening session of [CBI Corporate Banking Forum](http://www.abieventi.it/eventi/1331/cbi-2011/), the main Italian event for the whole international community of financial services, ABI convention centre, Milan
+“EISB – Gestione industrial delle innovazioni” (“Equens Innovation Sounding Board – Industrial Management of Innovations” Keynote speech at opening session of [CBI Corporate Banking Forum](https://web.archive.org/web/20130318212918/http://www.abieventi.it:80/eventi/1331/cbi-2011), the main Italian event for the whole international community of financial services, ABI convention centre, Milan
 
 **12-13.12.11**
 
@@ -2481,7 +2481,7 @@ Keynote, Moderation and Management Equens Innovations Sounding Board, Palazzo Al
 
 **2**1.1.10
 
-“eSEPA – der Turbo für den Zahlungsverkehr mit Internet und Mobile” Leitung Fachforum am Eröffnungstag der [Omnicard 2010](http://www.omnicard.de/index.php?m=284), by a long way the most significant conference of its kind in Europe, Berlin
+“eSEPA – der Turbo für den Zahlungsverkehr mit Internet und Mobile” Leitung Fachforum am Eröffnungstag der [Omnicard 2010](https://web.archive.org/web/20101101110216/http://www.omnicard.de:80/index.php?m=284), by a long way the most significant conference of its kind in Europe, Berlin
 
 **3.3.10**
 
@@ -2529,7 +2529,7 @@ Keynote+Panel: “The next wave of payment innovation” [MEFTEC](http://www.mef
 
 **17.11.10**
 
-“Payments – A View from Continental Europe” [Payments Executive Day](http://www.s1.com/News/events.aspx), with PayPal, Barclaycard, Edgar Dunn etc., London
+“Payments – A View from Continental Europe” [Payments Executive Day](https://web.archive.org/web/20140714085915/http://www.s1.com:80/News/events.aspx), with PayPal, Barclaycard, Edgar Dunn etc., London
 
 **23.3.10, 21.9.10 and 8.12.10**
 

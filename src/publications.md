@@ -143,7 +143,7 @@ EPI: The European Payments Initiative, equensWorldline Blog
 
 FPN Jahrbuch Beitrag
 
-[New Money Review](https://newmoneyreview.com/index.php/2020/07/07/breaking-the-grip-of-the-platforms/) on “[Breaking the grip of the platforms](https://blubrry.com/newmoneyreview/63983018/breaking-the-grip-of-the-platforms/)” (see also podcast/media)  
+[New Money Review](https://newmoneyreview.com/index.php/2020/07/07/breaking-the-grip-of-the-platforms/) on “[Breaking the grip of the platforms](https://web.archive.org/web/20200924155643/https://blubrry.com/newmoneyreview/63983018/breaking-the-grip-of-the-platforms/)” (see also podcast/media)  
 promoted on [Linkedin](https://www.linkedin.com/posts/paul-amery-3484383_breaking-tech-platforms-grip-new-money-activity-6686250569750859776-a-1n/) and [tweeted](https://twitter.com/newmoneyreview/status/1281889764019335168) about under “want to understand in 30 minutes what’s going on in the internet” and [tweet](https://twitter.com/newmoneyreview/status/1280907318390120449) “What Libra has done” and [tweet](https://twitter.com/newmoneyreview/status/1280781591229476864) “We’re still using passwords – a 1970s technology” and [tweet](https://twitter.com/newmoneyreview/status/1280778066386657280) “Cybercrime is now run by companies with a CEO” and [tweet](https://twitter.com/newmoneyreview/status/1280544074345385984) “Opening up the world of data” and [tweet](https://twitter.com/newmoneyreview/status/1280526065627213825) “Germany alone has 58 different identity schemes” and [twee](https://twitter.com/newmoneyreview/status/1280501720607600640)t “Google can rummage around in all your bank data” and [tweet](https://twitter.com/newmoneyreview/status/1280483292274397184) “A new European data market”
 
 “A single European Data Market is clearly the way forward” [Worldline newsletter for Sibos](https://equensworldline.com/content/new-equensworldline/en/home/blog/2020/october-20/20201001-a-single-european-data-market-is-clearly-the-way-forward.html) on The European Strategy for Data, the Open Data Economy, importance of Digital Identity, Cybercrime. This will be read by thousands of interested people and is the highlight of the campaign, 1 Oct 2020
@@ -158,7 +158,7 @@ promoted on [Linkedin](https://www.linkedin.com/posts/paul-amery-3484383_breakin
 published in Børsen (Danish), the most important business media in Denmark, 26 January 2019
 
 **An open approach gives federated digital identity by banks a strong boost  
-** equensWorldline [blog](https://worldline.com/en/home/blog/2019/june/an-open-approach-gives-federated-digital-identity-by-banks-a-strong-boost.html?utm_campaign=AWL+-+Events+-+M2020EU+2019+-+Alex+Auspitz&utm_content=&utm_medium=twitter&utm_source=social) for Money2020 and tweet promotions naming Salmony as [most influential speaker](https://twitter.com/MichelMissud/status/1149586911150784513)[<img src="/assets/uploads/2019/07/open-boost-to-id-300x168.jpg" class="centre" loading="lazy" width="300" height="168">](/assets/uploads/2019/07/open-boost-to-id.jpg)Video interview with equensWorldline Board Member Alessandro Baroni on [“Identity is bigger than payments”](https://www.youtube.com/watch?v=IYqw2frRd-M&feature=youtu.be)
+** equensWorldline blog for Money2020 and tweet promotions naming Salmony as [most influential speaker](https://twitter.com/MichelMissud/status/1149586911150784513)[<img src="/assets/uploads/2019/07/open-boost-to-id-300x168.jpg" class="centre" loading="lazy" width="300" height="168">](/assets/uploads/2019/07/open-boost-to-id.jpg)Video interview with equensWorldline Board Member Alessandro Baroni on [“Identity is bigger than payments”](https://www.youtube.com/watch?v=IYqw2frRd-M&feature=youtu.be)
 
 **[“Banks taking back control”](/assets/uploads/2019/03/Banks-taking-back-control-Salmony.pdf)  
 ** published in [JPSS](https://www.henrystewartpublications.com/jpss) for publication in [Journal of Payments Strategy & Systems Volume 13 Number 1, March 2019](/assets/uploads/2019/03/Banks-taking-back-control-Salmony-JPSS.pdf)  
@@ -172,7 +172,7 @@ Used in EACB and EBF and BVN/Currence strategy workshops 14th March, 8th April a
 Promoted by CEO at [EBAday and Finextra](https://www.finextra.com/videoarticle/2139/taking-back-control-of-european-payments), July 2019
 
 **“PSD2 is the catalyst for the platform economy in financial services” ([“PSD2 is katalysator voor platformeconomie in financieel verkeer”](/assets/uploads/2019/03/EY-Klantinterview-PSD2-Salmony.pdf))  
-** Interview in [“EYe on Finance”](https://www.ey.com/nl/nl/industries/financial-services/ey-eye-on-finance-maart-2019-interview) (Dutch) distributed to 3000 senior managers and SB members in the Financial Services industry, June 2019  
+** Interview in “EYe on Finance” (Dutch) distributed to 3000 senior managers and SB members in the Financial Services industry, June 2019  
 to be reused as eWL blog (English)
 
 [“Run aufs Konto: Die wilden Ideen der Finanzbranche”](https://etailment.de/news/stories/payment-psd2-open-banking-kontodaten-22181#)  
@@ -201,9 +201,9 @@ re-published in [Italian](https://www.bitmat.it/blog/news/87688/le-banche-posson
 
 [Interview](/assets/uploads/2019/10/10_18_St_equensWorldline_HwupgradeInterview.pdf) with equensWorldline CEO in Italian Hwupgrade on PSD2 and Instant Payments
 
-[Interview](/assets/uploads/2019/10/Interview-Payments-International-2019-Salmony.pdf) with [Payments International](https://finance.knect365.com/payments-international/speaker-interviews) on API mashup economy, Identity and pan-European scheme
+[Interview](/assets/uploads/2019/10/Interview-Payments-International-2019-Salmony.pdf) with [Payments International](https://web.archive.org/web/20191119004942/https://finance.knect365.com/payments-international/speaker-interviews) on API mashup economy, Identity and pan-European scheme
 
-Interview [Handelsjournal](https://handelsjournal.de/unternehmen/marketing/open-banking-ist-die-zukunft.html) “Wir erwarten eine Explosion der Kreativität” on Open Banking, pp20-22, November 2019
+Interview [Handelsjournal](https://web.archive.org/web/20191213013653/https://handelsjournal.de/unternehmen/marketing/open-banking-ist-die-zukunft.html) “Wir erwarten eine Explosion der Kreativität” on Open Banking, pp20-22, November 2019
 
 [Publication](https://www.bimag.it/finance/finance-psd2-banking-business-summit_456418/) by equensWorldline CMO Alessandro Baroni in Italian “Con la PSD2 inizia la nuova era dell’open banking e del Finance” (with the PSD2 begins the new era of open banking and finance), November 2019
 
@@ -224,7 +224,7 @@ promoted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:642
 in [Payments & FinTech Lawyer](/assets/uploads/2019/01/APIhub2018Salmony.pdf), Cecile Park Media, pp7-11, May 2018
 
 **“Reaching pan-European Integration and Success in Open Banking”**  
-[CAPS White Paper](https://www.caps-services.com/documents/CAPS-OpinionPaper-Reaching%20pan-European%20Integration%20and%20Success%20in%20Open%20Banking.pdf), May 2018  
+[CAPS White Paper](https://web.archive.org/web/20200930031916/https://caps-services.com/documents/CAPS-OpinionPaper-Reaching%20pan-European%20Integration%20and%20Success%20in%20Open%20Banking.pdf), May 2018  
 [promoted](https://www.linkedin.com/feed/update/urn:li:activity:6410741559301591041/) on LinkedIn
 
 **“What’s ahead in 2018: thoughts from the Editorial Board”**, contribution on [Identity](/assets/uploads/2019/01/PFL2018.pdf) **“SSPP-Auth: How to solve the mess around Identity – with Banking”** in a ’roundtable’ featuring members of the editorial board discussing 2017 in review and looking ahead to the potential issues/developments likely to surface in 2018  
@@ -267,16 +267,16 @@ PPI Consultancy [forum](https://www.paytoday.de/klassischer-zahlungsverkehr/ins
 
 **“Embrace the Changes”**  
 joint interview with Wordline CEO and “Worldline’s internationally renowned PSD2 Programme Director, Michael Salmony” with the European Commissioner for Competition, Margrethe Vestager, on PSD2 and the EU Commission’s vision for the European financial market and the FinTech industry, [Money 20/20](/assets/uploads/2019/01/MoneyMagEU2017.pdf) magazine, pp44-47, June 2017  
-[published](http://worldline.com/en-us/home/inside-worldline/2017/october/embrace-the-changes.html) and [tweeted](https://twitter.com/WorldlineGlobal/status/914777142361194501) about
+published and [tweeted](https://twitter.com/WorldlineGlobal/status/914777142361194501) about
 
 **“Blockchain – not for Payments?”**  
-[FinTech Futures](https://knect365.com/fintech/article/1aac6efc-3a74-4c47-bdb3-ec05f755cab7/blockchain-not-for-payments), KNect365 Finance, Payments International
+FinTech Futures, KNect365 Finance, Payments International
 
 **“Be Prepared for a Banking Revolution”**  
 Article written by Journalist for The [Telegraph](/assets/uploads/2019/01/Huawei.pdf) UK after interview
 
 Inaugural Australian Payments Summit  
-article written including Salmony contributions [pre](http://paymentsconsulting.com/news/feature-on-australian-payments-summit) and [post](http://paymentsconsulting.com/news/inaugural-australian-payments-summit-2017-recap) event, [Asia retail](http://retailasiaonline.com/wp-content/uploads/2017/11/RA_Oct-Nov2017.pdf) etc…
+article written including Salmony contributions pre and [post](http://paymentsconsulting.com/news/inaugural-australian-payments-summit-2017-recap) event, [Asia retail](http://retailasiaonline.com/wp-content/uploads/2017/11/RA_Oct-Nov2017.pdf) etc…
 
 ## 2016
 
@@ -293,16 +293,16 @@ featuring M. Salmony, ING Head of Transaction Business, Spanish National Central
 cited by Prof. Krüger in [“The spread of branch banking and the demand for cash in post-war Germany”](https://www.researchgate.net/publication/309680471_The_spread_of_branch_banking_and_the_demand_for_cash_in_post-war_Germany), “Research on Money in the Economy” (ROME), ISSN 1865-7052, October 2016  
 [cited ](http://consulthyperion.cmail20.com/t/ViewEmail/j/2C518431198C01E2/303C392330259CD9C67FD2F38AC4859C)Salmony as “The Victor Meldrew of Blockchain”  
 and in [Cash & Treasury Management](https://ctmfile.com/story/six-payments-experts-give-verdict-on-potential-of-blockchain-epc)  
-**[“Blockchain – not for payments ?”](https://www.linkedin.com/pulse/blockchain-payments-michael-salmony?trk=pulse_spock-articles)** in LinkedIn with 500+ views in first week and [article](https://www.cloudcomputing-news.net/news/2017/mar/08/how-data-acceleration-will-make-blockchain-even-more-secure/) about my text, and republished by [Payments International](https://knect365.com/fintech/article/1aac6efc-3a74-4c47-bdb3-ec05f755cab7/blockchain-not-for-payments?utm_medium=email&utm_campaign=Finance%2FNewsletters%2FFKN2528%2FPay_Int%2FContentAug2&utm_source=Payments%20International&user_id=900031825615&tracker_id=022JYQB8F), and Invited by The Telegraph’s Director of Programming for a filmed thought leadership interview on “The Digital Transformation”  
+**[“Blockchain – not for payments ?”](https://www.linkedin.com/pulse/blockchain-payments-michael-salmony?trk=pulse_spock-articles)** in LinkedIn with 500+ views in first week and [article](https://www.cloudcomputing-news.net/news/2017/mar/08/how-data-acceleration-will-make-blockchain-even-more-secure/) about my text, and republished by Payments International, and Invited by The Telegraph’s Director of Programming for a filmed thought leadership interview on “The Digital Transformation”  
 Cited extensively (and wrongly) on “PSD2: The Ayers Rock of payments” in [Banking Technology](http://www.bankingtech.com/category/format/magazine/) December/January 2016  
 Republished by [FinTech Futures](https://www.bankingtech.com/2018/01/blockchain-not-for-payments/), January 2018 and [InsurTech Rising](https://knect365.com/insurtech/) 2018
 
 **“Blockchain – not for payments?”**  
 in [BIT Banking and Information Technology Band 17, Heft 2, Juli 2016 pp6-8](/assets/uploads/2019/01/BIT-Juli-2016_Blockchain_Salmony.pdf)  
-[cited](http://aisel.aisnet.org/wi2017/track09/paper/6/) in [“The Impact of Blockchain Technology on Business Models in the Payments Industry”](https://proxy.qualtrics.com/proxy/?url=https%3A%2F%2Fwi2017.blob.core.windows.net%2Fwebsite%2Fdownload%2Fpapers%2FWI2017-0263.pdf&token=bRbRofzwqzhXBbhSweJyJlCU2xsj1akD7oCYtrITRjo%3D) by F. Holotiuk, F. Pisani and Prof. J. Moormann, as part of research into Blockchain Technology in Payment and presented at international [conference](https://wi2017.ch/de/track9) for Wirtschaftsinformatik St Gallen  
+[cited](http://aisel.aisnet.org/wi2017/track09/paper/6/) in “The Impact of Blockchain Technology on Business Models in the Payments Industry” by F. Holotiuk, F. Pisani and Prof. J. Moormann, as part of research into Blockchain Technology in Payment and presented at international [conference](https://web.archive.org/web/20160616135016/http://wi2017.ch:80/de/track9) for Wirtschaftsinformatik St Gallen  
 and cited in [“](http://scholar.google.de/scholar_url?url=http://ecis2018.eu/wp-content/uploads/2018/09/2189-doc.pdf&hl=en&sa=X&d=290158635453745050&scisig=AAGBfm3HGAnESo7oMXCynZwW_0Zq-rYY9A&nossl=1&oi=scholaralrt&hist=-jS5ZWEAAAAJ:1957707047537584952:AAGBfm3AK84H8UUNmVidVb2udAWN8myYWQ)[ORGANIZATIONAL ADOPTION OF DIGITAL INNOVATION: THE CASE OF BLOCKCHAIN TECHNOLOGY](http://scholar.google.de/scholar_url?url=http://ecis2018.eu/wp-content/uploads/2018/09/2189-doc.pdf&hl=en&sa=X&d=290158635453745050&scisig=AAGBfm3HGAnESo7oMXCynZwW_0Zq-rYY9A&nossl=1&oi=scholaralrt&hist=-jS5ZWEAAAAJ:1957707047537584952:AAGBfm3AK84H8UUNmVidVb2udAWN8myYWQ)[”](http://scholar.google.de/scholar_url?url=http://ecis2018.eu/wp-content/uploads/2018/09/2189-doc.pdf&hl=en&sa=X&d=290158635453745050&scisig=AAGBfm3HGAnESo7oMXCynZwW_0Zq-rYY9A&nossl=1&oi=scholaralrt&hist=-jS5ZWEAAAAJ:1957707047537584952:AAGBfm3AK84H8UUNmVidVb2udAWN8myYWQ) by F. Holotiuk, F. Pisani and Prof. J. Moormann at Twenty-Sixth European Conference on Information Systems (ECIS2018), Portsmouth, UK  
 **[“Opening up may be good for you: making PSD II access to accounts work in practice”](/assets/uploads/2019/01/Opening-up-may-be-good-for-you-Salmony.pdf)**  
-in [Banking Technology](http://www.bankingtech.com/583032/opening-up-may-be-good-for-you-making-psd-ii-access-to-accounts-work-in-practice/) 16 Sept 2016 with 14.500 readers and 80.000 unique monthly visitors, [SIBOS](http://www.bankingtech.com/sibos/) news racks all week, [equensWorldline](https://equensworldline.com/about-equensworldline/newsandpress/bankingtechpsd2.jsp) news, [Payments International](https://finance.knect365.com/article/13a21943-dfbd-4f63-862f-f96a308fe54b/opening-up-may-be-good-for-you) blog, [tweeted](https://twitter.com/Equens/status/776789375673835520?cn=bWVudGlvbg%3D%3D&refsrc=email)
+in [Banking Technology](http://www.bankingtech.com/583032/opening-up-may-be-good-for-you-making-psd-ii-access-to-accounts-work-in-practice/) 16 Sept 2016 with 14.500 readers and 80.000 unique monthly visitors, [SIBOS](http://www.bankingtech.com/sibos/) news racks all week, [equensWorldline](https://equensworldline.com/about-equensworldline/newsandpress/bankingtechpsd2.jsp) news, Payments International blog, [tweeted](https://twitter.com/Equens/status/776789375673835520?cn=bWVudGlvbg%3D%3D&refsrc=email)
 
 [Opening Up may be Good for You](/assets/uploads/2019/01/salanusch.pdf)  
 in “Banking International” and “Payments, Cards and Mobile” and “The Payers” with Anuschka Diderich, Nov 2016
@@ -327,19 +327,19 @@ in Finextra Research Survey “PSD2 and XS2A – Regulation or Opportunity?” p
 **“Pan-European Peer-to-Peer Payment by Mobile Phone  
 – including considerations on technical and commercial implementation options”**  
 [BIT](/assets/uploads/2019/01/mP2P-BIT-2015-Salmony.pdf) ibi Research, University of Regensburg, 2/2105, pp33-37  
-[cited](http://link.springer.com/chapter/10.1057/9781137541215_7) in Springer publication “Mobile Payments: The Second Wave”, republished in [Equens public](http://www.equens.com/Images/mP2P%20BIT%20July%202015%20-%20Salmony.pdf) and intranet web site
+[cited](http://link.springer.com/chapter/10.1057/9781137541215_7) in Springer publication “Mobile Payments: The Second Wave”, republished in [Equens public](https://web.archive.org/web/20150912083256/http://www.equens.com/Images/mP2P%20BIT%20July%202015%20-%20Salmony.pdf) and intranet web site
 
 **“Pan-European Peer-to-Peer Payment by Mobile Phone”**  
-on [Mobey Forum](http://mobeyday.com/pan-european-peer-to-peer-payment-by-mobile-phone/), the global industry association for thought leaders in banks and other financial institutions towards the future of mobile financial services.
+on [Mobey Forum](https://web.archive.org/web/20151017065111/http://mobeyday.com:80/pan-european-peer-to-peer-payment-by-mobile-phone/), the global industry association for thought leaders in banks and other financial institutions towards the future of mobile financial services.
 
-**“Paying the babysitter directly with mobile P2P-technology should be easy and safe”** on [Equens blog](http://blog.equens.com/eu/2015/08/paying-the-babysitter-directly-with-mobile-p2p-technology-should-be-easy-and-safe/#more-933) and Paying the babysitter directly with mobile P2P-technology should be easy and safe.[\#Equens](https://twitter.com/hashtag/Equens?src=hash) blog by [@salmony](https://twitter.com/salmony). <http://t.co/1ydFX6X7JL> ^MW— Equens (@Equens) [August 27, 2015](https://twitter.com/Equens/status/636874553705275392)
+**“Paying the babysitter directly with mobile P2P-technology should be easy and safe”** on [Equens blog](https://web.archive.org/web/20160718144344/http://blog.equens.com/eu/2015/08/paying-the-babysitter-directly-with-mobile-p2p-technology-should-be-easy-and-safe/) and Paying the babysitter directly with mobile P2P-technology should be easy and safe.[\#Equens](https://twitter.com/hashtag/Equens?src=hash) blog by [@salmony](https://twitter.com/salmony). <http://t.co/1ydFX6X7JL> ^MW— Equens (@Equens) [August 27, 2015](https://twitter.com/Equens/status/636874553705275392)
 
 **“PSD2 will change Payments in Europe”**  
 Equens, Nets and VocaLink build coalition-of-the willing and publish White Paper to bring topic forward  
-on [Equens blog](http://www.equens.com/aboutus/newsandpress/psd2willchangepaymentsineurope.jsp)
+on [Equens blog](https://web.archive.org/web/20160718151012/http://www.equens.com/aboutus/newsandpress/psd2willchangepaymentsineurope.jsp)
 
 **“Why not shape the PSD2 disruption yourself?”**  
-on [Equens blog](http://blog.equens.com/eu/2015/09/why-not-shape-the-psd2-disruption-yourself/#more-949) and [tweet](https://twitter.com/Equens/status/644791821630050304?t=1&cn=bWVudGlvbg%3D%3D&sig=4232f96bbc4251960d6ef6b72dc7e619c114ebec&al=1&refsrc=email&iid=768878ff6ea64d4c95a5da73ff1b1b65&autoactions=1442565324&uid=28813348&nid=4+1264)
+on [Equens blog](https://web.archive.org/web/20160718102055/http://blog.equens.com/eu/2015/09/why-not-shape-the-psd2-disruption-yourself/) and [tweet](https://twitter.com/Equens/status/644791821630050304?t=1&cn=bWVudGlvbg%3D%3D&sig=4232f96bbc4251960d6ef6b72dc7e619c114ebec&al=1&refsrc=email&iid=768878ff6ea64d4c95a5da73ff1b1b65&autoactions=1442565324&uid=28813348&nid=4+1264)
 
 ## 2014
 
@@ -355,22 +355,22 @@ M. Salmony **[“Access to accounts: Why banks should embrace an open future”
 [Cited](http://scholar.google.de/scholar_url?url=http://cs.shahed.ac.ir/files/site1/user_files_a92d7a/farnajafi-A-10-1744-1-8b913f0.pdf&hl=en&sa=X&d=10744912779042130278&scisig=AAGBfm0_EaAnpu7TPd6l7J7GshN25Bfmyg&nossl=1&oi=scholaralrt&hist=-jS5ZWEAAAAJ:1957707047537584952:AAGBfm3AK84H8UUNmVidVb2udAWN8myYWQ) in “طراحی الگوی مدیریت ارتباط نات ت”, (A Model for relationship management with fintech and financial startups in banking industry) by F Najafi, M Irandoost, H Soltanpanah, A Sheikhahmadi, in Journal of Business strategies, 2019  
 [Cited](http://scholar.google.de/scholar_url?url=https://dialnet.unirioja.es/descarga/articulo/7169694.pdf&hl=en&sa=X&d=14312784112794263306&scisig=AAGBfm3nJBrRiQ0QvBFSSkawySPPOyjr0Q&nossl=1&oi=scholaralrt&hist=-jS5ZWEAAAAJ:1957707047537584952:AAGBfm3AK84H8UUNmVidVb2udAWN8myYWQ) in “FINTECH IN PAKISTAN: A QUALITATIVE STUDY OF BANK’S STRATEGIC PLANNING FOR AN INVESTMENT IN FIN-TECH COMPANY AND ITS CHALLENGES” by S Butt, ZA Khan in INDEPENDENT JOURNAL OF MANAGEMENT & PRODUCTION (IJM&P), v. 10, n. 6, November – December 2019, ISSN: 2236-269X  
 [Cited](https://opus.hs-furtwangen.de/frontdoor/index/index/docId/5499) in “Situation and Trends in Fintech Industry with a Special Focus on Mobile Payments” by Christal Yap, Hochschule Furtwangen, International Business Management, 2019  
-[Cited](http://www.journal2.uad.ac.id/index.php/ijiefb/article/view/2703) in Journal of Islamic Economics, Finance and Banking under “Financial Technology Regulation in Malaysia and Indonesia: A Comparative Study” by Aulia Arifatu Diniyya, Mahdiah Aulia, Rofiul Wahyudi, 2020  
-[Cited](http://proceeding.rsfpress.com/index.php/ic-smart/index) in Proceeding on International Conference of Science Management Art Research Technology (IC-SMART), Volume 1 Number 1 (2020): 101-116, “Constituents Driving Interest in Using E-Wallets in Generation Z” by Sekolah Tinggi Ilmu Ekomomi Sultan Agung, Indonesia  
+[Cited](https://web.archive.org/web/20210421055823/http://journal2.uad.ac.id/index.php/ijiefb/article/view/2703) in Journal of Islamic Economics, Finance and Banking under “Financial Technology Regulation in Malaysia and Indonesia: A Comparative Study” by Aulia Arifatu Diniyya, Mahdiah Aulia, Rofiul Wahyudi, 2020  
+[Cited](https://web.archive.org/web/20220704063605/http://proceeding.rsfpress.com/index.php/ic-smart/index) in Proceeding on International Conference of Science Management Art Research Technology (IC-SMART), Volume 1 Number 1 (2020): 101-116, “Constituents Driving Interest in Using E-Wallets in Generation Z” by Sekolah Tinggi Ilmu Ekomomi Sultan Agung, Indonesia  
 [Cited](https://scholar.google.de/scholar_url?url=https://www.researchgate.net/profile/Neeta-Jayabalan/publication/355214194_FINTECH_ADOPTION_AMONG_MILLENNIALS_IN_SELANGOR/links/6168eace66e6b95f07cb6ff3/FINTECH-ADOPTION-AMONG-MILLENNIALS-IN-SELANGOR.pdf&hl=en&sa=X&d=4213793895967753862&ei=X7lzYf-mGaOO6rQPk5KgwAE&scisig=AAGBfm2bWEQrb4n2APMnhD8pKJnd8U_Hiw&oi=scholaralrt&hist=-jS5ZWEAAAAJ:6737764630979617194:AAGBfm1hiqk4ukR_iZ9wsWgS6t0E0P_2eQ&html=&folt=kw) by SEGi University and UniKL Business School Universiti Kuala Lumpur  in Academy of Entrepreneurship Journal, Vol 27, Sepcial Isssue 5, 2021 “FINTECH ADOPTION AMONG MILLENNIALS IN SELANGOR”  
 [Cited](https://mdarhivs.eu/how-fintech-changed-banking-sector-in-latvia/) in “How FinTech changed Banking sector in Latvia”, University of Latvia, 2022
 
 Preview published as Editorial **“The Concept of an Open Standard Interface for Controlled Access to Payment Services (CAPS)**” in [EPC Newsletter](http://www.europeanpaymentscouncil.eu/article.cfm?articles_uuid=42210000-5056-B741-DB0CD1AA4E9F34EA) Issue 21 Jan 2014, [cited](http://link.springer.com/chapter/10.1057/9781137541215_6) by Springer publication “Transforming Payment Systems in Europe”, [cited](http://www.transactives.com/onpayments/epcasummit/News/tabid/814/YearMonth/201311/ItemID/296/Default.aspx?Title=XS2ANewEUPaymentRevolution%3f) by Transactives – tweeted about by[EPCA](https://twitter.com/douwelycklama/status/430409908593635328), [Innopay](https://twitter.com/epcasummit/status/433284951887577088) and [others](http://demo.a-sit.at/wp-content/uploads/2017/03/Projektbericht-Sicherheitsaspekte-Web-APIs.pdf)
 
-Published in [e-Finance & Payments Law & Policy](http://e-comlaw.com/e-finance-and-payments-law-and-policy/article_template.asp?Contents=Yes&from=efplp&ID=1778) under **[“Access to accounts: benefits for banks of an open future”](/assets/uploads/2019/01/Salmony-eComLaw-PSD2-May-2014.pdf)**, vol 8 issue 5 pp12-14 May 2014 and online with slightly [improved/updated content](/assets/uploads/2019/01/Salmony-eComLaw-PSD2-May-2014-web-version.pdf)
+Published in [e-Finance & Payments Law & Policy](https://web.archive.org/web/20170306002624/http://e-comlaw.com/e-finance-and-payments-law-and-policy/article_template.asp?Contents=Yes&from=efplp&ID=1778) under **[“Access to accounts: benefits for banks of an open future”](/assets/uploads/2019/01/Salmony-eComLaw-PSD2-May-2014.pdf)**, vol 8 issue 5 pp12-14 May 2014 and online with slightly [improved/updated content](/assets/uploads/2019/01/Salmony-eComLaw-PSD2-May-2014-web-version.pdf)
 
 also published in German book under **“Zugriff auf Bankkonten durch Dritte – Chancen für Banken durch Öffnung”**  
 [Trends in Zahlungsverkehr II](https://www.amazon.de/Trends-im-Zahlungsverkehr-Alfred-Dittrich/dp/3865562701), pp221-244, with Bundesbank, EBA, Bearing Point, ATK, Hrsg Egner, Dittrich, Bank-Verlag 2015
 
 also published under **[“Why Banks should embrace an open future”](/assets/uploads/2019/01/EQ2014OpenAPI-Salmony.pdf)** in  
-[EQ Magazine](http://www.equens.com/aboutus/newsandpress/eqmagazine.jsp), pp28-29, 2014
+[EQ Magazine](https://web.archive.org/web/20160527033659/http://www.equens.com:80/aboutus/newsandpress/eqmagazine.jsp), pp28-29, 2014
 
-also published under **“Controlled Access to Payment Services”** in [Equens’ European Blog](http://blog.equens.com/eu/2014/08/controlled-access-to-payment-services/#more-662), August 2014 and [tweeted](https://twitter.com/Equens/status/496653021305405441) about
+also published under **“Controlled Access to Payment Services”** in [Equens’ European Blog](https://web.archive.org/web/20160613145816/http://blog.equens.com:80/eu/2014/08/controlled-access-to-payment-services/), August 2014 and [tweeted](https://twitter.com/Equens/status/496653021305405441) about
 
 ## 2013
 
@@ -378,7 +378,7 @@ Article by Alessandro Baroni on mobile financial services: “Il mobile payment 
 in Italian version of world-wide bestseller **“Re-inventing Financial Services”** by Roger Peverelli “Reinventare i servizi finanziari”, May 2013
 
 **“Payments versus the automotive Industry”**  
-in EQ Magazine June 2013, p 15 republished as “**Why should we feel inferior to the car industry?”** with a response by Prof. Penzel (ibi research) in Banking and Information Technology [BIT](/assets/uploads/2019/01/BITSalmonyPenzel.pdf) October 2013 and republished by [Equens](http://www.equens.com/Images/BIT_Oktober%202013_SalmonyPenzel.pdf)
+in EQ Magazine June 2013, p 15 republished as “**Why should we feel inferior to the car industry?”** with a response by Prof. Penzel (ibi research) in Banking and Information Technology [BIT](/assets/uploads/2019/01/BITSalmonyPenzel.pdf) October 2013 and republished by [Equens](https://web.archive.org/web/20140209105804/http://www.equens.com/Images/BIT_Oktober%202013_SalmonyPenzel.pdf)
 
 Gastbeitrag **[“Biometrie: Ich bezahle mit mir selbst”](/assets/uploads/2019/01/BiometrieBOZ.jpg)**  
 Autoren: Steinbach (CEO) und Salmony  
@@ -388,21 +388,21 @@ In Technologieseite “Finanzen und Technik” der Börsenzeitung, 31.8.2013
 
 M. Salmony **“Unleashing the Creativity of Clients – Innovation Process and Sounding Board”**  
 and **“The Bumpy Road to Mobile”**  
-in Equens’ [EQ Magazine](http://www.equens.com/Images/EQmagazine%20full%20version.pdf) July 2012  
+in Equens’ [EQ Magazine](https://web.archive.org/web/20131008125858/http://www.equens.com:80/Images/EQmagazine%20full%20version.pdf) July 2012  
 referenced heavily in Introduction/Editorial and CEOs Article  
 Reprinted in [gtnews](http://www.gtnews.com/Articles/2012/How_to_Make_Payments_Pay.html) 7 Aug 2012 together with CEOs article under “How to Make Payment Pay” which came in the top 10 list of most read articles and was also the highest rated article in gtnews
 
 M. Salmony **“Why is the use of cash persisting? Critical success factors for overcoming vested interests”** originally published in JPSS (see 2011)  
-Reprinted in [gtnews](http://www.gtnews.com/article/8748.cfm) 31 May 2012 with this [CV](http://www.gtnews.com/webforms/author.aspx?id=10737439251) and referenced in [blog](http://countingoncurrency.com/wp/cash-per-diem/)
+Reprinted in [gtnews](http://www.gtnews.com/article/8748.cfm) 31 May 2012 with this [CV](http://www.gtnews.com/webforms/author.aspx?id=10737439251) and referenced in [blog](https://web.archive.org/web/20130104195240/http://countingoncurrency.com:80/wp/cash-per-diem/)
 
 ## 2011
 
 M. Salmony & Bo Harald, Chairman European Commission Expert Group on eInvoicing **[“E-Invoicing in Europe: Now and the future”](/assets/uploads/2019/01/JPSSeInvoicing.pdf)** in [Journal of Payments Strategy & Systems](http://henrystewart.metapress.com/link.asp?id=v4427728867146l6), Vol. 4 No. 4 Dec 2010 pp 371-380 edited by IBM, McKinsey, Universities and (international and European (Central) Banks) etc. for an audience of over 1,500 senior industry professionals in 67 countries from financial institutions, as well as central banks, financial regulators, service providers, consultants and corporate treasurers.  
 Cited in [Master Thesis](http://scholar.google.de/scholar_url?hl=en&q=https://noppa.aalto.fi/noppa/kurssi/57e99902/luennot/57E99902_thesis_meng_tao.docx&sa=X&scisig=AAGBfm1Fd6--Md9zqku8goq-BcP5-CQEmw&oi=scholaralrt) by Meng Tao, Dept of Business Technology, Aalto University, School of Economics, 2012  
-Cited by Hemandez-Ortega et al in [Information Systems and e-Business](http://www.springerlink.com/content/8u5668349g43x6n0/) 2012  
+Cited by Hemandez-Ortega et al in Information Systems and e-Business 2012  
 Cited by Veselá at al in [Procedia Economics and Finance](http://www.sciencedirect.com/science/article/pii/S2212567114004018) 2014  
-Cited by Veselá, Radiměřský & Toulová, Faculty of Business and Economics, Mendel University in Brno, Czech Republic in [“Aspects of Electronic Document Sharing”](http://www.ku.ac.ke/schools/business/images/stories/research/brand_loyalty.pdf#page=41) ISSN 2045-810X, 2015  
-Cited in “Aspects of Electronic Document Sharing” of [International Journal of Sales Retail and Marketing](http://www.ku.ac.ke/schools/business/images/stories/research/brand_loyalty.pdf#page=41) Vol 4 No 5, Poland, 2015  
+Cited by Veselá, Radiměřský & Toulová, Faculty of Business and Economics, Mendel University in Brno, Czech Republic in [“Aspects of Electronic Document Sharing”](https://web.archive.org/web/20220307210112/http://www.ku.ac.ke/schools/business/images/stories/research/brand_loyalty.pdf) ISSN 2045-810X, 2015  
+Cited in “Aspects of Electronic Document Sharing” of [International Journal of Sales Retail and Marketing](https://web.archive.org/web/20220307210112/http://www.ku.ac.ke/schools/business/images/stories/research/brand_loyalty.pdf) Vol 4 No 5, Poland, 2015  
 Cited in “Onboarding customer companies to electronic invoicing platform–developing a marketing and a partnering strategy” in [Journal of Information Technology](http://link.springer.com/article/10.1057/s41266-016-0015-x) Teaching Cases, Springer Verlag, 2017  
 Cited by Lucie Veselá in “FACTORS AFFECTING THE ADOPTION OF ELECTRONIC DATA INTERCHANGE”, Department of Economics, Faculty of Business and Economics, [Mendel University](https://acta.mendelu.cz/media/pdf/actaun_2017065062123.pdf) in Brno, Zemědělská 1, 613 00 Brno, Czech Republic  
 Cited in “THE INFLUENCE OF ELECTRONIC INVOICE ON TAX COLLECTION AND TAX REFORM IN CHINA” by Zhang Bin and Wang Shuhua, National Academy of Economic Strategy, Beijing, [China in Russian “Journal of Tax Reform”](https://jtr.urfu.ru/fileadmin/user_upload/site_15907/main/2017_3-3-site.pdf#page=7), 2017. T. 3, No 3. С. 158–169 ISSN 2412-8872  
@@ -411,7 +411,7 @@ Cited by Liu and Xia, School of Management, Wuhan University of Technology, Wuha
 Cited by Olaleye and Sanusi under [“The Need for Green Companies in Nigeria: A Study of Electronic Invoicing”](http://scholar.google.de/scholar_url?url=https://digitalcommons.kennesaw.edu/cgi/viewcontent.cgi%3Farticle%3D1483%26context%3Dajis&hl=en&sa=X&d=3068593546150740933&scisig=AAGBfm26QVYgLzFFkLU601E46fasucsHkQ&nossl=1&oi=scholaralrt&hist=-jS5ZWEAAAAJ:1957707047537584952:AAGBfm3AK84H8UUNmVidVb2udAWN8myYWQ) in “The African Journal of Information Systems”, Vol 11, Issue 1, 2019  
 Cited by Ingrid Pappel in Master’s Thesis [“IDENTIFYING BARRIERS IN E-INVOICING PROCESS TO INCREASE EFFICIENCY AND RAISE THE LEVEL OF AUTOMATISATION OF WORKFLOWS](https://arxiv.org/abs/2010.07636)” at TALLINN UNIVERSITY OF TECHNOLOGY School of Information Technologies, 2020
 
-M. Salmony & Bo Harald: **“Elektronische Rechnungsabwicklung in Europa: Gegenwart & Zukunft”** in: 2. Überarbeitete und Erweiterte Auflage von [“Elektronische Rechnungsabwicklung – einfach, effizient, sicher. Teil I: Rahmenbedingungen und MarktüberblickEinführung”](http://www.teil1.elektronische-rechnungsabwicklung.de/) (ISBN 978-3-940416-21-6) S. 14-20 Herausgegeben von ibi Research an der Universität Regensburg in Kooperation mit dem Netzwerk Elektronischer Geschäftsverkehr. Gefördert durch das Deutsche Bundesministerium für Wirtschaft und Technologie
+M. Salmony & Bo Harald: **“Elektronische Rechnungsabwicklung in Europa: Gegenwart & Zukunft”** in: 2. Überarbeitete und Erweiterte Auflage von [“Elektronische Rechnungsabwicklung – einfach, effizient, sicher. Teil I: Rahmenbedingungen und MarktüberblickEinführung”](https://web.archive.org/web/20210924180942/http://www.teil1.elektronische-rechnungsabwicklung.de/) (ISBN 978-3-940416-21-6) S. 14-20 Herausgegeben von ibi Research an der Universität Regensburg in Kooperation mit dem Netzwerk Elektronischer Geschäftsverkehr. Gefördert durch das Deutsche Bundesministerium für Wirtschaft und Technologie
 
 M. Salmony & Siebrand van der Ploeg **“Cash – and how to get rid of it. Legacy par excellence”** Quote on p 19, article on pp 20-21, In Equens’ [EQ Magazine 2011](/assets/uploads/2019/01/EQcash.pdf), May 2011
 
@@ -419,19 +419,19 @@ M. Salmony & M. Krueger **“Cash: in quest of an effective alternative to a �
 
 M. Salmony **[“Why is the use of cash persisting? Critical success factors for overcoming vested interests”](/assets/uploads/2019/01/JPSScash.pdf)** in [Journal of Payments Strategy & Systems](http://scholar.google.de/scholar_url?hl=en&q=http://henrystewart.metapress.com/index/172R825712V3L44J.pdf&oi=scholaralrt&ct=alrt&cd=0&sa=X&scisig=AAGBfm2FeApRb3-HAhYWbWddGGGYxPXItw), Vol. 5 No. 3 Sept 2011 pp 246-272  
 Reprinted in gtnews (see 2012)  
-Cited in [research report](http://www.anthropology.uci.edu/files/imtfi/docs/2014/currentimtfi_report-revised_final.pdf) on “Rural Women Traders & Mobile Money Systems: Northern Ghana Women’s Cognitive Understanding & Perceptions” on Poverty Reduction in Ghana 2014  
+Cited in research report on “Rural Women Traders & Mobile Money Systems: Northern Ghana Women’s Cognitive Understanding & Perceptions” on Poverty Reduction in Ghana 2014  
 Cited in Malaysian [research report](http://etd.uum.edu.my/4670/2/s810184_abstract.pdf) “Determinants of the demand for banknotes in Malaysia”, of Othman Yeop Abdullah Graduate School of Business, Universiti Utara Malaysia, 2015  
 Cited in “Apple – Pay, Towards the Acceptance of German Customers” in[Asian Social Science](http://scholar.google.de/scholar_url?url=http://www.ccsenet.org/journal/index.php/ass/article/download/52371/28037&hl=en&sa=X&scisig=AAGBfm3LeqxwlPRRBU_lh2UROjziCK3uLQ&nossl=1&oi=scholaralrt), Published by Canadian Center of Science and Education, 2015
 
 ## 2010
 
-**“Elektronische Rechnungsabwicklung in Europa: Gegenwart & Zukunft”** Michael Salmony & Bo Harald, Chairman European Commission Expert Group on eInvoicing [BIT](http://bitreport.com/) Band 10, Heft 3, Dez 2009 “Banking and Technology” des ibi Research an der Uni Regensburg und FIT European Research Centres for Finance and IT also in: [“Elektronische Rechnungsabwicklung – einfach, effizient, sicher. Teil I: Rahmenbedingungen und MarktüberblickEinführung”](http://www.teil1.elektronische-rechnungsabwicklung.de/) (ISBN 978-3-940416-21-6) S. 14-20 Herausgegeben von ibi Research an der Universität Regensburg in Kooperation mit dem Netzwerk Elektronischer Geschäftsverkehr. Gefördert durch das Deutsche Bundesministerium für Wirtschaft und Technologie also as: **White Paper** Equens 2010  
+**“Elektronische Rechnungsabwicklung in Europa: Gegenwart & Zukunft”** Michael Salmony & Bo Harald, Chairman European Commission Expert Group on eInvoicing [BIT](http://bitreport.com/) Band 10, Heft 3, Dez 2009 “Banking and Technology” des ibi Research an der Uni Regensburg und FIT European Research Centres for Finance and IT also in: [“Elektronische Rechnungsabwicklung – einfach, effizient, sicher. Teil I: Rahmenbedingungen und MarktüberblickEinführung”](https://web.archive.org/web/20210924180942/http://www.teil1.elektronische-rechnungsabwicklung.de/) (ISBN 978-3-940416-21-6) S. 14-20 Herausgegeben von ibi Research an der Universität Regensburg in Kooperation mit dem Netzwerk Elektronischer Geschäftsverkehr. Gefördert durch das Deutsche Bundesministerium für Wirtschaft und Technologie also as: **White Paper** Equens 2010  
 **  
 “Cash is King”** (see 2009) translated in Italian Employee Magazine  
 **  
 Expert Interview** by LBBW on [Mobile NFC Payments](/assets/uploads/2019/01/NFCInterview.rtf)  
 **  
-“E-SEPA: Online Banking e-Payments – the search for interoperability, e-Mandates – just beginning, e-Invoicing – highest return”**  in Equens’ [EQ Magazine 2010](http://www.equens.com/eq) (pp30-32)  
+“E-SEPA: Online Banking e-Payments – the search for interoperability, e-Mandates – just beginning, e-Invoicing – highest return”**  in Equens’ EQ Magazine 2010 (pp30-32)  
 **  
 “Dial ‘S’ for SEPA”** quoted comment on Mobile Payments and SEPA in [FX&MM magazine](http://www.fx-mm.com/), 16.8.2010  
 **“Anpassen oder Aussterben”** (D edition) **“Aanpassen of Uitsterven”** (NL edition) in Equens Express Vol 1 No 2 2010
