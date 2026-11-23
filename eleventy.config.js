@@ -39,6 +39,22 @@ export default function (eleventyConfig) {
     return content;
   });
 
+
+  // External links open in a new window (Michael's rule, 23rd November 2026): any link to
+  // another site gets target="_blank" rel="noopener". Links within this site are unchanged.
+  const OWN = ["https://payments-innovation.com", "https://www.payments-innovation.com", "http://payments-innovation.com", "http://www.payments-innovation.com", "https://mgs49.github.io/payments-innovation-website"];
+  eleventyConfig.addTransform("external-links-new-window", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content.replace(/<a\s([^>]*?)href="(https?:\/\/[^"]+)"([^>]*)>/gi, (tag, before, url, after) => {
+      if (/\btarget=/i.test(tag)) return tag;
+      if (OWN.some((own) => url.startsWith(own))) return tag;
+      let attrs = before + 'href="' + url + '"' + after;
+      if (/\brel="/i.test(attrs)) attrs = attrs.replace(/\brel="([^"]*)"/i, (m, v) => 'rel="' + (/noopener/.test(v) ? v : v + " noopener") + '"');
+      else attrs += ' rel="noopener"';
+      return "<a " + attrs + ' target="_blank">';
+    });
+  });
+
   eleventyConfig.addFilter("startsWith", (value, prefix) => String(value || "").startsWith(prefix));
 
   return {

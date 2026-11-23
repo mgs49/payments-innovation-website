@@ -17,6 +17,8 @@ This is the professional website of Dr Michael Salmony (payments-innovation.com)
 
 ## Working method
 
+- Links to other websites open in a new window (his rule, 23rd November 2026). `eleventy.config.js` adds `target="_blank" rel="noopener"` to every external link when the site is built, so write links normally; links within the site stay in the same window.
+
 - Internal links and picture addresses start with `/`. Eleventy adds the `/payments-innovation-website/` preview prefix while there is no `src/CNAME`; never write that prefix by hand.
 - YouTube videos: never embed the player directly. Use the click-to-play pattern already on `src/media.md` (a still picture in `src/assets/video/yt/` and a link with `data-yt`), so nothing is loaded from YouTube until the visitor presses play. The privacy policy says so. Long recordings belong on his YouTube channel, not in the repository.
 - Videos: convert to H.264 MP4 before adding, at most 720 pixels high for short clips and smaller for long recordings, and keep every file under 95 MB (GitHub refuses files over 100 MB). Add a poster picture beside each video.
