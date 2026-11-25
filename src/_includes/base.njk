@@ -43,6 +43,15 @@
   </div>
 </footer>
 <script>
+/* E-mail addresses are put together in the browser, so that address-collecting robots reading the page source do not find them. */
+document.querySelectorAll(".mail").forEach(function (e) {
+  var r = function (t) { return t.split("").reverse().join(""); };
+  var a = r(e.getAttribute("data-u")) + "@" + r(e.getAttribute("data-d"));
+  var l = document.createElement("a"); l.href = "mailto:" + a; l.textContent = a;
+  e.replaceWith(l);
+});
+</script>
+<script>
 /* YouTube videos: a still picture until the visitor presses play; only then is the player loaded. */
 document.addEventListener("click", function (e) {
   var a = e.target.closest && e.target.closest("a[data-yt]"); if (!a) return;

@@ -13,7 +13,7 @@ Dr Michael Salmony
 Germany
 
 **Contact**  
-*E-mail: to follow*
+E-mail: <span class="mail" data-u="eciffo" data-d="gnitlusnoc.noitavonnistnemyap">office (at) paymentsinnovation (dot) consulting</span>
 
 **VAT identification number** according to § 27a of the German VAT Act (Umsatzsteuergesetz)  
 DE316962182
