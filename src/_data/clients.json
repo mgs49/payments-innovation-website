@@ -31,11 +31,6 @@
       "url": "https://www.ppi.de/en/"
     },
     {
-      "name": "European Central Bank",
-      "logo": "/assets/work/clients/european-central-bank.png",
-      "url": "https://www.ecb.europa.eu/paym/groups/erpb/html/index.en.html"
-    },
-    {
       "name": "New Scientist",
       "logo": "/assets/work/clients/new-scientist.png",
       "url": "https://www.newscientist.com/"
@@ -226,9 +221,34 @@
       "name": "Vereon (E-Invoicing Exchange Summit)",
       "logo": "/assets/work/clients/vereon.png",
       "url": "https://www.vereon.ch/"
+    },
+    {
+      "name": "Turkcell",
+      "logo": "/assets/work/clients/turkcell.png",
+      "url": "https://www.turkcell.com.tr/"
+    },
+    {
+      "name": "Paycell",
+      "logo": "/assets/work/clients/paycell.png",
+      "url": "https://www.paycell.com.tr/"
+    },
+    {
+      "name": "Bank-Verlag",
+      "logo": "/assets/work/clients/bank-verlag.png",
+      "url": "https://www.bank-verlag.de/"
+    },
+    {
+      "name": "RAKBANK",
+      "logo": "/assets/work/clients/rakbank.png",
+      "url": "https://www.rakbank.ae/"
     }
   ],
   "policy": [
+    {
+      "name": "European Central Bank",
+      "logo": "/assets/work/clients/european-central-bank.png",
+      "url": "https://www.ecb.europa.eu/paym/groups/erpb/html/index.en.html"
+    },
     {
       "name": "European Commission",
       "logo": "/assets/work/clients/european-commission.png",
@@ -308,6 +328,16 @@
       "name": "G3 Good Governance Group",
       "logo": "/assets/work/clients/g3.png",
       "url": "https://g3.co/"
+    },
+    {
+      "name": "Guidepoint",
+      "logo": "/assets/work/clients/guidepoint.png",
+      "url": "https://www.guidepoint.com/"
+    },
+    {
+      "name": "VisaSQ",
+      "logo": "/assets/work/clients/visasq.png",
+      "url": "https://visasq.co.jp/"
     }
   ],
   "partners": [
@@ -363,6 +393,11 @@
       "name": "QUBE Events",
       "logo": "/assets/work/clients/qube-events.png",
       "url": "https://www.qubevents.com/"
+    },
+    {
+      "name": "Springer",
+      "logo": "/assets/work/clients/springer.png",
+      "url": "https://link.springer.com/book/10.1007/978-3-032-22946-5"
     }
   ]
 }
