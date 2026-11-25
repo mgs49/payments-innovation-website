@@ -15,11 +15,11 @@ Citations in Academic Publications see [ResearchGate](https://www.researchgate.n
 
 ## 2026
 
-[Springer](https://link.springer.com/book/9783032229458) Book “Tokenisation of Money – from Fiat Currencies to Stablecoins”  
+[Springer](https://link.springer.com/book/10.1007/978-3-032-22946-5) Book “Tokenisation of Money: From Fiat Currencies to Stablecoins”, July 2026  
 <img src="/assets/uploads/2026/03/Springer-Book-Cover-300x222.jpg" loading="lazy" width="439" height="325">  
 available at all booksellers, e.g. [Amazon](https://www.amazon.de/-/en/Tokenisation-Money-Currencies-Stablecoins-Contributions/dp/3032229456/ref=sr_1_1?crid=NKF3SFQ1RY02&dib=eyJ2IjoiMSJ9.l8AgE_rJDQh2qZ9o81Tb1bDXqk1qgBzrcA0rqdGfpLxdIZ4TW9WseuEiUECz7-9bi0nNEwxbeQLAqmegehvlAabBxOFAmlmKeREUJig6gHcL7O_9Mkq8d2fVePJOpXLkzayClqQFGCiqMh9C8jX28K1ZGrotb_piy5zXqF5wEE5qcd73OCvLYn_2nWyFaMyKY0JUn8zk006F1v8ibgVhMzuPYC9CluY6_ZfvctVkU_A.Lm6bYjFfgmtXJBxR-GeFqb1BjK_I7cN27hccfr7QuT4&dib_tag=se&keywords=tokenisation+of+money&qid=1774792476&sprefix=tokenisation+of+money%2Caps%2C108&sr=8-1)
 
-Article on book “Tokenisation of Money -From Fiat Currencies to Stablecoins” at [CBPN 5-2026 Tokenisation Book](/assets/uploads/2026/05/CBPN-5-2026-Tokenisation-Book.pdf), May 2026
+Article on book “Tokenisation of Money: From Fiat Currencies to Stablecoins” at [CBPN 5-2026 Tokenisation Book](/assets/uploads/2026/05/CBPN-5-2026-Tokenisation-Book.pdf), May 2026
 
 Article on book at [The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/explainers/explainer-tokenisation-of-money-from-fiat-currencies-to-stablecoins), May 2026
 

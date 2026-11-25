@@ -13,7 +13,7 @@ Board positions, advisory boards, committees and juries.
 
 - Strategic Adviser to Board of ETPPA European Third Party Providers’ Association, Brussels
 - Member of the CEPS Centre for European Policy Studies' Task Force on the Future of Retail Payments in the EU organised by the ECRI European Credit Research Institute
-- Advisory Board to Africa FinTech, Nigeria
+- Advisory Board of Fintech Africa, Nigeria
 - Advisory Board Mastercard Latin America & Caribbean, Miami
 - Consultant Partner to OBE Open Banking Exchange, Paris/Global
 - Expert and Fellow to DEA Digital Euro Association, Europe

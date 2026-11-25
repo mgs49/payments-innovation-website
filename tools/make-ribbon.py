@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Draws the ribbon used by the alternative look: engraved banknote lines (a guilloche)
+"""Draws the ribbon used by the site's navy look: engraved banknote lines (a guilloche)
 that turn into discrete tokens half-way across. Run from the repository root:
     python3 tools/make-ribbon.py
 It writes src/_includes/ribbon.svg (home page, with the moving dot) and

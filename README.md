@@ -47,7 +47,7 @@ Links to the personal site are written as `https://www.salmony.co.uk/...`. While
 
 Add a file `src/CNAME` containing `payments-innovation.com`, point the domain's DNS at GitHub Pages (leaving the e-mail records untouched) and switch on HTTPS in the repository's Pages settings. The site then stops using the `/payments-innovation-website/` preview prefix by itself.
 
-## Two looks
+## Look
 
-While Michael decides, the site can be seen in two looks: the clean one and an alternative with more payments and fintech character. Use the link at the bottom of any page to switch, or add `?look=alt` to the address. Details are in CLAUDE.md.
+Michael chose the navy look on 25th November 2026. `site.css` holds the base styles and `alt.css` the navy look on top of them; the `alt` class is set on every page in `src/_includes/base.njk`. There is no longer a switch. Details are in CLAUDE.md.
 
