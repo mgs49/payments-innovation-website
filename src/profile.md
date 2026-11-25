@@ -2,7 +2,7 @@
 title: Dr Michael Salmony
 layout: base.njk
 permalink: /profile/
-description: "Dr Michael Salmony FRSA - board-level adviser, keynote speaker and trainer on Payments, FinTech, Digital and Tokenised Money (Stablecoins, Deposit Tokens, CBDC/Digital Euro) and Open Finance."
+description: "Dr Michael Salmony FRSA - board-level adviser, keynote speaker and trainer on Payments, FinTech, Digital and Tokenised Money (Stablecoins, Deposit Tokens, CBDC/Digital Euro), Open Finance and AI in financial services."
 templateEngineOverride: md
 ---
 
@@ -12,7 +12,7 @@ templateEngineOverride: md
 
 # Dr Michael Salmony
 
-<p class="lede">An internationally recognised leader on strategy of business innovations in digital and financial services with a particular focus on Payments, FinTech, Digital and Tokenised Money (Stablecoins, Deposit Tokens, CBDC/Digital Euro) and Open Finance.</p>
+<p class="lede">An internationally recognised leader on strategy of business innovations in digital and financial services with a particular focus on Payments, FinTech, Digital and Tokenised Money (Stablecoins, Deposit Tokens, CBDC/Digital Euro), Open Finance and AI in financial services.</p>
 
 <p class="button-row"><a class="button" href="/contact/">Get in touch</a> <a class="button quiet" href="https://www.linkedin.com/in/salmony/">Connect on LinkedIn</a></p>
 

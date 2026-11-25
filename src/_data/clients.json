@@ -338,6 +338,22 @@
       "name": "VisaSQ",
       "logo": "/assets/work/clients/visasq.png",
       "url": "https://visasq.co.jp/"
+    },
+    {
+      "name": "VisaSQ / Coleman",
+      "logo": "/assets/work/clients/visasq-coleman.png",
+      "url": "https://www.colemanrg.com/",
+      "wide": true
+    },
+    {
+      "name": "CoMatch",
+      "logo": "/assets/work/clients/comatch.png",
+      "url": "https://www.comatch.com/"
+    },
+    {
+      "name": "Enquire AI",
+      "logo": "/assets/work/clients/enquire.png",
+      "url": "https://enquire.ai/"
     }
   ],
   "partners": [
@@ -398,6 +414,12 @@
       "name": "Springer",
       "logo": "/assets/work/clients/springer.png",
       "url": "https://link.springer.com/book/10.1007/978-3-032-22946-5"
+    },
+    {
+      "name": "CenterStage by Informa",
+      "logo": "/assets/work/clients/centerstage.png",
+      "url": null,
+      "wide": true
     }
   ]
 }
