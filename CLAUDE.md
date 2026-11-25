@@ -1,6 +1,6 @@
 # Notes for Claude when working on this repository
 
-This is the professional website of Dr Michael Salmony (payments-innovation.com). He edits it by asking Claude; he does not write code. Read README.md for the layout. The personal site and cookbook are in the sister repository `mgs49/salmony-website`, which also holds the project log `00_Statuslog.md`; update that log when something material changes here.
+This is the professional website of Dr Michael Salmony (payments-innovation.com). He edits it by asking Claude; he does not write code. Read README.md for the layout. The personal site and cookbook are in the sister repository `mgs49/salmony-website`. The project log `00_Statuslog.md` lives only in the "Websites" project on claude.ai (since 25th November 2026); update it there when something material changes here.
 
 ## House rules
 

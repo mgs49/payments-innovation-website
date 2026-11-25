@@ -182,5 +182,7 @@ Full version of interview on [Tokenisation](https://www.youtube.com/watch?v=mahR
 
 [Interview](https://fintechistanbul.org/2026/09/01/soylesi-michael-salmony-ile-tokenizasyon-ve-central-bank-payments-conference-2026-hakkinda/) at CR Istanbul about Tokenisation & book by Fintech Istanbul
 
+[Report](https://fintechistanbul.org/2026/11/20/dr-michael-salmony-singapore-fintech-festival-2026da-teknoloji-kadar-finansal-duzenlemeler-de-gundemdeydi/) by Fintech Istanbul on Michael Salmony's impressions of the Singapore FinTech Festival 2026: AI, tokenisation and quantum as the main themes, with financial regulation drawing as much attention as technology, November 2026
+
 Host of [The Payments Triloge](https://www.youtube.com/@ThePaymentsTrilogue) podcast series  
 <img src="/assets/uploads/2025/02/tri-254x300.jpg" loading="lazy" width="254" height="300">
