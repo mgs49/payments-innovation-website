@@ -3,24 +3,21 @@ title: Clients and references
 layout: page.njk
 wide: true
 permalink: /clients/
-description: "Clients, cooperation partners and media partners of Dr Michael Salmony and Payments Innovation Consulting."
+description: "Sample clients, policy work, expert networks, cooperation partners and media partners of Dr Michael Salmony and Payments Innovation Consulting."
 ---
-<h2>Clients</h2>
 <p>All 5-star references (available on request).</p>
+{%- set sections = [
+  ["clients", "Sample clients"],
+  ["policy", "Sample policy work"],
+  ["experts", "Sample expert networks"],
+  ["partners", "Sample cooperation partners"],
+  ["media", "Sample media and communication partners"]
+] %}
+{%- for s in sections %}
+<h2>{{ s[1] }}</h2>
 <ul class="logo-wall">
-{%- for c in clients.clients %}
+{%- for c in clients[s[0]] %}
   <li{% if c.wide %} class="wide"{% endif %}>{% if c.url %}<a href="{{ c.url }}">{% endif %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.url %}</a>{% endif %}</li>
 {%- endfor %}
 </ul>
-<h2>Cooperation partners</h2>
-<ul class="logo-wall">
-{%- for c in clients.partners %}
-  <li{% if c.wide %} class="wide"{% endif %}>{% if c.url %}<a href="{{ c.url }}">{% endif %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.url %}</a>{% endif %}</li>
 {%- endfor %}
-</ul>
-<h2>Media and communication partners</h2>
-<ul class="logo-wall">
-{%- for c in clients.media %}
-  <li{% if c.wide %} class="wide"{% endif %}>{% if c.url %}<a href="{{ c.url }}">{% endif %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.url %}</a>{% endif %}</li>
-{%- endfor %}
-</ul>

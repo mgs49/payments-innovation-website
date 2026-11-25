@@ -51,11 +51,6 @@
       "url": "https://www.emformx.com/en/"
     },
     {
-      "name": "The World Bank",
-      "logo": "/assets/work/clients/the-world-bank.png",
-      "url": "https://www.worldbank.org/en/country/uruguay"
-    },
-    {
       "name": "Worldline",
       "logo": "/assets/work/clients/worldline.png",
       "url": "https://financial-services.worldline.com/en/home/login.html"
@@ -87,26 +82,10 @@
       "url": null
     },
     {
-      "name": "European Commission",
-      "logo": "/assets/work/clients/european-commission.png",
-      "url": null
-    },
-    {
-      "name": "Horizon 2020",
-      "logo": "/assets/work/clients/horizon-2020.png",
-      "url": "https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en",
-      "wide": true
-    },
-    {
       "name": "Mastercard Advisors",
       "logo": "/assets/work/clients/mastercard-advisors.png",
       "url": "https://www.mastercardservices.com/en/solutions/payments/mastercard-advisors-consulting",
       "wide": true
-    },
-    {
-      "name": "UK Cabinet Office",
-      "logo": "/assets/work/clients/uk-cabinet-office.png",
-      "url": "https://www.gov.uk/government/organisations/cabinet-office"
     },
     {
       "name": "Huawei",
@@ -122,11 +101,6 @@
       "name": "Hadada",
       "logo": "/assets/work/clients/hadada.png",
       "url": "https://hadada.co/"
-    },
-    {
-      "name": "Banco Central del Uruguay",
-      "logo": "/assets/work/clients/banco-central-del-uruguay.png",
-      "url": "https://www.centralbanking.com/central-banks/2480980/central-bank-of-uruguay"
     },
     {
       "name": "Asia Payments Connect",
@@ -152,11 +126,6 @@
       "wide": true
     },
     {
-      "name": "AlphaSights",
-      "logo": "/assets/work/clients/alphasights.png",
-      "url": "https://www.alphasights.com/platform/"
-    },
-    {
       "name": "Gakushuin University",
       "logo": "/assets/work/clients/gakushuin-university.png",
       "url": "https://www.univ.gakushuin.ac.jp/en/",
@@ -173,44 +142,13 @@
       "url": "https://www.eacha.org/"
     },
     {
-      "name": "Bank Negara Malaysia",
-      "logo": "/assets/work/clients/bank-negara-malaysia.png",
-      "url": "https://www.bnm.gov.my/"
-    },
-    {
-      "name": "Abu Dhabi Department of Economic Development",
-      "logo": "/assets/work/clients/abu-dhabi-department-of-economic-develop.png",
-      "url": null,
-      "wide": true
-    },
-    {
-      "name": "U.A.E. Central Bank",
-      "logo": "/assets/work/clients/u-a-e-central-bank.png",
-      "url": null
-    },
-    {
       "name": "Cyber Security for Europe",
       "logo": "/assets/work/clients/cyber-security-for-europe.png",
       "url": null
     },
     {
-      "name": "International Finance Corporation",
-      "logo": "/assets/work/clients/international-finance-corporation.png",
-      "url": null
-    },
-    {
-      "name": "IBRD",
-      "logo": "/assets/work/clients/ibrd.png",
-      "url": null
-    },
-    {
       "name": "Transaction Innovation Forum",
       "logo": "/assets/work/clients/transaction-innovation-forum.png",
-      "url": null
-    },
-    {
-      "name": "De Nederlandsche Bank",
-      "logo": "/assets/work/clients/de-nederlandsche-bank.png",
       "url": null
     },
     {
@@ -225,19 +163,8 @@
       "wide": true
     },
     {
-      "name": "Bangko Sentral ng Pilipinas",
-      "logo": "/assets/work/clients/bangko-sentral-ng-pilipinas.png",
-      "url": null,
-      "wide": true
-    },
-    {
       "name": "Raidiam",
       "logo": "/assets/work/clients/raidiam.png",
-      "url": null
-    },
-    {
-      "name": "proSapient",
-      "logo": "/assets/work/clients/prosapient.png",
       "url": null
     },
     {
@@ -289,6 +216,98 @@
       "name": "Euro Banking Association (EBA) Academy",
       "logo": "/assets/work/clients/euro-banking-association.png",
       "url": "https://www.abe-eba.eu/training-education/eba-academy-payments-training/"
+    },
+    {
+      "name": "Digitinary",
+      "logo": "/assets/work/clients/digitinary.png",
+      "url": "https://digitinary.com/"
+    },
+    {
+      "name": "Vereon (E-Invoicing Exchange Summit)",
+      "logo": "/assets/work/clients/vereon.png",
+      "url": "https://www.vereon.ch/"
+    }
+  ],
+  "policy": [
+    {
+      "name": "European Commission",
+      "logo": "/assets/work/clients/european-commission.png",
+      "url": null
+    },
+    {
+      "name": "UK Cabinet Office",
+      "logo": "/assets/work/clients/uk-cabinet-office.png",
+      "url": "https://www.gov.uk/government/organisations/cabinet-office"
+    },
+    {
+      "name": "The World Bank",
+      "logo": "/assets/work/clients/the-world-bank.png",
+      "url": "https://www.worldbank.org/en/country/uruguay"
+    },
+    {
+      "name": "IBRD",
+      "logo": "/assets/work/clients/ibrd.png",
+      "url": null
+    },
+    {
+      "name": "International Finance Corporation",
+      "logo": "/assets/work/clients/international-finance-corporation.png",
+      "url": null
+    },
+    {
+      "name": "Horizon 2020",
+      "logo": "/assets/work/clients/horizon-2020.png",
+      "url": "https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en",
+      "wide": true
+    },
+    {
+      "name": "Banco Central del Uruguay",
+      "logo": "/assets/work/clients/banco-central-del-uruguay.png",
+      "url": "https://www.centralbanking.com/central-banks/2480980/central-bank-of-uruguay"
+    },
+    {
+      "name": "Bank Negara Malaysia",
+      "logo": "/assets/work/clients/bank-negara-malaysia.png",
+      "url": "https://www.bnm.gov.my/"
+    },
+    {
+      "name": "U.A.E. Central Bank",
+      "logo": "/assets/work/clients/u-a-e-central-bank.png",
+      "url": null
+    },
+    {
+      "name": "Abu Dhabi Department of Economic Development",
+      "logo": "/assets/work/clients/abu-dhabi-department-of-economic-develop.png",
+      "url": null,
+      "wide": true
+    },
+    {
+      "name": "De Nederlandsche Bank",
+      "logo": "/assets/work/clients/de-nederlandsche-bank.png",
+      "url": null
+    },
+    {
+      "name": "Bangko Sentral ng Pilipinas",
+      "logo": "/assets/work/clients/bangko-sentral-ng-pilipinas.png",
+      "url": null,
+      "wide": true
+    }
+  ],
+  "experts": [
+    {
+      "name": "AlphaSights",
+      "logo": "/assets/work/clients/alphasights.png",
+      "url": "https://www.alphasights.com/platform/"
+    },
+    {
+      "name": "proSapient",
+      "logo": "/assets/work/clients/prosapient.png",
+      "url": null
+    },
+    {
+      "name": "G3 Good Governance Group",
+      "logo": "/assets/work/clients/g3.png",
+      "url": "https://g3.co/"
     }
   ],
   "partners": [
