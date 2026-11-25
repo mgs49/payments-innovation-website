@@ -36,11 +36,6 @@
       "url": "https://www.ecb.europa.eu/paym/groups/erpb/html/index.en.html"
     },
     {
-      "name": "QUBE Events",
-      "logo": "/assets/work/clients/qube-events.png",
-      "url": "https://www.qubevents.com/"
-    },
-    {
       "name": "New Scientist",
       "logo": "/assets/work/clients/new-scientist.png",
       "url": "https://www.newscientist.com/"
@@ -49,11 +44,6 @@
       "name": "Boston Consulting Group",
       "logo": "/assets/work/clients/boston-consulting-group.png",
       "url": "https://www.bcg.com/offices/default"
-    },
-    {
-      "name": "Equip Global",
-      "logo": "/assets/work/clients/equip-global.png",
-      "url": "https://www.equip-global.com/"
     },
     {
       "name": "emformX",
@@ -78,7 +68,8 @@
     {
       "name": "The Berlin Group",
       "logo": "/assets/work/clients/the-berlin-group.png",
-      "url": "https://www.berlin-group.org/"
+      "url": "https://www.berlin-group.org/",
+      "wide": true
     },
     {
       "name": "DZ Bank",
@@ -103,17 +94,14 @@
     {
       "name": "Horizon 2020",
       "logo": "/assets/work/clients/horizon-2020.png",
-      "url": "https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en"
+      "url": "https://ec.europa.eu/info/research-and-innovation/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-2020_en",
+      "wide": true
     },
     {
       "name": "Mastercard Advisors",
       "logo": "/assets/work/clients/mastercard-advisors.png",
-      "url": "https://www.mastercardservices.com/en/solutions/payments/mastercard-advisors-consulting"
-    },
-    {
-      "name": "GLC Europe",
-      "logo": "/assets/work/clients/glc-europe.png",
-      "url": "https://glceurope.com/"
+      "url": "https://www.mastercardservices.com/en/solutions/payments/mastercard-advisors-consulting",
+      "wide": true
     },
     {
       "name": "UK Cabinet Office",
@@ -143,7 +131,8 @@
     {
       "name": "Asia Payments Connect",
       "logo": "/assets/work/clients/asia-payments-connect.png",
-      "url": "https://asiapaymentsconnect.com/"
+      "url": "https://asiapaymentsconnect.com/",
+      "wide": true
     },
     {
       "name": "Transactives",
@@ -153,12 +142,14 @@
     {
       "name": "Institute for International Socio-Economic Studies (IISE)",
       "logo": "/assets/work/clients/institute-for-international-socio-econom.png",
-      "url": "https://www.i-ise.com/en/index.html"
+      "url": "https://www.i-ise.com/en/index.html",
+      "wide": true
     },
     {
       "name": "Bain & Company",
       "logo": "/assets/work/clients/bain-company.png",
-      "url": "https://www.bain.com/"
+      "url": "https://www.bain.com/",
+      "wide": true
     },
     {
       "name": "AlphaSights",
@@ -168,7 +159,8 @@
     {
       "name": "Gakushuin University",
       "logo": "/assets/work/clients/gakushuin-university.png",
-      "url": "https://www.univ.gakushuin.ac.jp/en/"
+      "url": "https://www.univ.gakushuin.ac.jp/en/",
+      "wide": true
     },
     {
       "name": "Trust in Digital Life",
@@ -188,7 +180,8 @@
     {
       "name": "Abu Dhabi Department of Economic Development",
       "logo": "/assets/work/clients/abu-dhabi-department-of-economic-develop.png",
-      "url": null
+      "url": null,
+      "wide": true
     },
     {
       "name": "U.A.E. Central Bank",
@@ -221,11 +214,6 @@
       "url": null
     },
     {
-      "name": "Currency Research",
-      "logo": "/assets/work/clients/currency-research.png",
-      "url": null
-    },
-    {
       "name": "Guidance Guard",
       "logo": "/assets/work/clients/guidance-guard.png",
       "url": null
@@ -233,12 +221,14 @@
     {
       "name": "Mobey Forum",
       "logo": "/assets/work/clients/mobey-forum.png",
-      "url": null
+      "url": null,
+      "wide": true
     },
     {
       "name": "Bangko Sentral ng Pilipinas",
       "logo": "/assets/work/clients/bangko-sentral-ng-pilipinas.png",
-      "url": null
+      "url": null,
+      "wide": true
     },
     {
       "name": "Raidiam",
@@ -289,6 +279,11 @@
       "name": "Metamorph",
       "logo": "/assets/work/clients/metamorph.png",
       "url": null
+    },
+    {
+      "name": "Saïd Business School, University of Oxford",
+      "logo": "/assets/work/clients/sa-d-business-school-university-of-oxfor.png",
+      "url": null
     }
   ],
   "partners": [
@@ -308,11 +303,6 @@
       "url": "https://paymentsconsulting.com/"
     },
     {
-      "name": "Brooks International",
-      "logo": "/assets/work/clients/brooks-international.png",
-      "url": "https://www.brooksinternational.com/"
-    },
-    {
       "name": "Charteris",
       "logo": "/assets/work/clients/charteris.png",
       "url": "https://www.charteris.com/"
@@ -321,11 +311,34 @@
       "name": "Open Banking Exchange",
       "logo": "/assets/work/clients/open-banking-exchange.png",
       "url": "https://www.openbanking.exchange/"
+    }
+  ],
+  "media": [
+    {
+      "name": "Brooks International",
+      "logo": "/assets/work/clients/brooks-international.png",
+      "url": "https://www.brooksinternational.com/"
     },
     {
-      "name": "Saïd Business School, University of Oxford",
-      "logo": "/assets/work/clients/sa-d-business-school-university-of-oxfor.png",
-      "url": null
+      "name": "Equip Global",
+      "logo": "/assets/work/clients/equip-global.png",
+      "url": "https://www.equip-global.com/"
+    },
+    {
+      "name": "GLC Europe",
+      "logo": "/assets/work/clients/glc-europe.png",
+      "url": "https://glceurope.com/"
+    },
+    {
+      "name": "Currency Research",
+      "logo": "/assets/work/clients/currency-research.png",
+      "url": null,
+      "wide": true
+    },
+    {
+      "name": "QUBE Events",
+      "logo": "/assets/work/clients/qube-events.png",
+      "url": "https://www.qubevents.com/"
     }
   ]
 }
