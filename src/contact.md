@@ -11,4 +11,4 @@ E-mail: <span class="mail" data-u="eciffo" data-d="gnitlusnoc.noitavonnistnemyap
 <p class="button-row"><a class="button" href="https://www.linkedin.com/in/salmony/">Message Michael Salmony on LinkedIn</a></p>
 
 Payments Innovation Consulting  
-Heidelberg, Germany and London, United Kingdom
+Germany and London

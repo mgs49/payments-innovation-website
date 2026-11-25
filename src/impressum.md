@@ -9,8 +9,7 @@ Information according to § 5 DDG (German Digital Services Act)
 
 **Payments Innovation Consulting**  
 Dr Michael Salmony  
-*Address: to follow*  
-Germany
+Germany and London
 
 **Contact**  
 E-mail: <span class="mail" data-u="eciffo" data-d="gnitlusnoc.noitavonnistnemyap">office (at) paymentsinnovation (dot) consulting</span>

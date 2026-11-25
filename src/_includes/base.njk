@@ -8,6 +8,17 @@
 {% if noindex %}<meta name="robots" content="noindex">{% endif %}
 {% if redirect %}<meta http-equiv="refresh" content="0; url={{ redirect }}"><link rel="canonical" href="{{ redirect }}">{% endif %}
 <link rel="icon" href="/assets/img/favicon.svg" type="image/svg+xml">
+{#- Link preview: what LinkedIn, WhatsApp, e-mail apps etc. show when the address is shared. Absolute addresses use the live domain. #}
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{% if title and title != site.title %}{{ title }} - {% endif %}{{ site.title }}">
+<meta property="og:description" content="{{ description or site.description }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:image" content="{{ site.url }}/assets/img/link-preview.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Payments Innovation Consulting - Regulation and technology-driven digital finance innovation">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="stylesheet" href="/assets/css/site.css">
 <link rel="stylesheet" href="/assets/css/alt.css">
 </head>
