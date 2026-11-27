@@ -394,7 +394,7 @@
       "logo": "/assets/work/clients/warwick.png",
       "url": "https://warwick.ac.uk/",
       "notes": [
-        "Guest speaker on Digital Banking"
+        "Digital Banking"
       ],
       "countries": [
         [
@@ -450,7 +450,7 @@
       "logo": "/assets/work/clients/ism-international-school-of-management.png",
       "url": "https://ism.de/",
       "notes": [
-        "Advisory Board for MBA and Masters studies"
+        "MBA and Masters studies"
       ],
       "countries": [
         [
@@ -499,7 +499,8 @@
           "eu",
           "Europe"
         ]
-      ]
+      ],
+      "group": "professional"
     },
     {
       "name": "Guidance Guard",
@@ -517,7 +518,8 @@
           "sa",
           "Saudi Arabia"
         ]
-      ]
+      ],
+      "group": "professional"
     }
   ],
   "experts": [

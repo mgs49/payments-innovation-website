@@ -270,3 +270,7 @@ strong, b { font-weight: 600; }
 .logo-country > span { display: inline-flex; align-items: center; gap: 0.35rem; }
 .logo-wall li.has-notes { justify-content: center; }
 .logo-wall li.has-notes a { flex: 0 0 auto; }
+.logo-notes.several span + span { border-top: 0; padding-top: 0; margin-top: 0.25rem; }
+.logo-wall li.has-notes .logo-notes { margin-top: 0.55rem; }
+.logo-wall li.has-notes .logo-name + * { margin-top: 0; }
+.logo-wall-next { margin-top: -0.5rem !important; }

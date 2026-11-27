@@ -16,9 +16,12 @@ description: "Sample clients, policy work, teaching, expert networks, cooperatio
 ] %}
 {%- for s in sections %}
 <h2>{{ s[1] }}</h2>
-<ul class="logo-wall">
-{%- for c in clients[s[0]] %}
-  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.showname %}<span class="logo-name">{{ c.displayname or c.name }}</span>{% endif %}{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes{% if c.notes.length > 1 %} several{% endif %}">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}{% if c.countries %}<span class="logo-country">{% for k in c.countries %}<span><img src="/assets/img/flags/{{ k[0] }}.svg" alt="" width="20" height="15">{{ k[1] }}</span>{% endfor %}</span>{% endif %}</li>
+{%- set groups = [false, "professional"] if s[0] == "teaching" else [false] %}
+{%- for g in groups %}
+<ul class="logo-wall{% if g %} logo-wall-next{% endif %}">
+{%- for c in clients[s[0]] %}{% if (c.group or false) == g %}
+  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.showname %}<span class="logo-name">{{ c.displayname or c.name }}</span>{% endif %}{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes{% if c.notes.length > 1 %} several{% endif %}">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}{% if c.countries %}<span class="logo-country">{% for k in c.countries %}<span><img src="/assets/img/flags/{{ k[0] }}.svg" alt="" width="20" height="15">{{ k[1] }}</span>{% endfor %}</span>{% endif %}</li>{% endif %}
 {%- endfor %}
 </ul>
+{%- endfor %}
 {%- endfor %}
