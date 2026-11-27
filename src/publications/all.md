@@ -8,7 +8,9 @@ parent:
   title: "Publications"
 ---
 
-The [key publications](/publications/) are summarised on their own page. Citations in academic publications: see [ResearchGate](https://www.researchgate.net/profile/Michael-Salmony/research).
+The [key publications](/publications/) are summarised on their own page.
+
+Citations in academic publications: see [ResearchGate](https://www.researchgate.net/profile/Michael-Salmony/research).
 
 <nav aria-label="Jump to year" class="years">
 
