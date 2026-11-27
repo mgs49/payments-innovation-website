@@ -35,7 +35,8 @@ Board positions, advisory boards, committees etc.
 
 - Advisory Board for MBA and Masters studies on Internationalen Management, International School of Management (ISM), Munich
 - Lecturer at Saïd Business School, University of Oxford in “AI in Fintech and Open Banking Programme”, Oxford
-- Lecturer at Ozyegin University, Graduate School of Business, Graduate Financial Engineering Program, University of Istanbul at Executive MBA Course on Open Finance, Turkey
+- Lecturer at Ozyegin University, Graduate School of Business, Graduate Financial Engineering Program, Istanbul, Turkey
+- Lecturer at Istanbul University at Executive MBA Course on Open Finance, Turkey
 - Lecturer on FinTech at Sabanci University's Master in Finance Program, Turkey
 - Lecturer on "Frontiers in FinTech" within the Master of Financial Technologies at the Swinburne University of Technology, the Australian Graduate School of Entrepreneurship, Melbourne, Australia
 - Evaluator for the Cyprus Research and Innovation Foundation (RIF), the National Research Funding Agency of Cyprus

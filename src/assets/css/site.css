@@ -263,3 +263,10 @@ strong, b { font-weight: 600; }
 .logo-country { display: flex; align-items: center; justify-content: center; gap: 0.35rem; font-size: 0.78rem; color: var(--soft); }
 .logo-wall .logo-country img { width: 20px; height: 15px; max-height: none; border: 1px solid var(--line); }
 .logo-wall li.has-notes a { flex-direction: column; gap: 0.3rem; }
+.logo-wall .logo-name { font-size: 0.95rem; line-height: 1.3; text-align: center; color: var(--ink, #14213d); }
+.logo-notes.several span + span { border-top: 1px solid var(--line); padding-top: 0.2rem; margin-top: 0.2rem; }
+.logo-notes.several span::before { content: "• "; }
+.logo-country { flex-wrap: wrap; column-gap: 0.8rem; }
+.logo-country > span { display: inline-flex; align-items: center; gap: 0.35rem; }
+.logo-wall li.has-notes { justify-content: center; }
+.logo-wall li.has-notes a { flex: 0 0 auto; }

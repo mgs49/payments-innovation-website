@@ -9,7 +9,7 @@ description: "Sample clients, policy work, teaching, expert networks, cooperatio
 {%- set sections = [
   ["clients", "Sample clients"],
   ["policy", "Sample policy work"],
-  ["teaching", "Sample teaching and academic roles"],
+  ["teaching", "Sample teaching"],
   ["experts", "Sample expert networks"],
   ["partners", "Sample cooperation partners"],
   ["media", "Sample media and communication partners"]
@@ -18,7 +18,7 @@ description: "Sample clients, policy work, teaching, expert networks, cooperatio
 <h2>{{ s[1] }}</h2>
 <ul class="logo-wall">
 {%- for c in clients[s[0]] %}
-  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.showname %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}{% if c.country %}<span class="logo-country"><img src="/assets/img/flags/{{ c.country[0] }}.svg" alt="" width="20" height="15">{{ c.country[1] }}</span>{% endif %}</li>
+  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.showname %}<span class="logo-name">{{ c.displayname or c.name }}</span>{% endif %}{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes{% if c.notes.length > 1 %} several{% endif %}">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}{% if c.countries %}<span class="logo-country">{% for k in c.countries %}<span><img src="/assets/img/flags/{{ k[0] }}.svg" alt="" width="20" height="15">{{ k[1] }}</span>{% endfor %}</span>{% endif %}</li>
 {%- endfor %}
 </ul>
 {%- endfor %}

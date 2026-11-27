@@ -307,33 +307,13 @@
         "AI in Fintech and Open Banking",
         "Bank Governance Programme on “Tokenised Finance”"
       ],
-      "country": [
-        "gb",
-        "United Kingdom"
-      ]
-    },
-    {
-      "name": "EBA Academy",
-      "logo": "/assets/work/clients/eba-academy.png",
-      "url": "https://www.abe-eba.eu/training-education/eba-academy-payments-training/",
-      "notes": [
-        "Tokenisation of Money and Digital Assets"
-      ],
-      "country": [
-        "eu",
-        "Europe"
-      ]
-    },
-    {
-      "name": "Guidance Guard",
-      "logo": "/assets/work/clients/guidance-guard.png",
-      "url": null,
-      "notes": [
-        "Professional training, Middle East"
-      ],
-      "country": [
-        "jo",
-        "Jordan"
+      "showname": true,
+      "displayname": "University of Oxford, Saïd Business School",
+      "countries": [
+        [
+          "gb",
+          "United Kingdom"
+        ]
       ]
     },
     {
@@ -344,9 +324,11 @@
       "notes": [
         "Research Institute of Economics and Management"
       ],
-      "country": [
-        "jp",
-        "Japan"
+      "countries": [
+        [
+          "jp",
+          "Japan"
+        ]
       ]
     },
     {
@@ -357,11 +339,13 @@
         "Fintech and the API Economy",
         "Open Banking and API Economy"
       ],
-      "country": [
-        "tr",
-        "Turkey"
-      ],
-      "showname": true
+      "showname": true,
+      "countries": [
+        [
+          "tr",
+          "Turkey"
+        ]
+      ]
     },
     {
       "name": "Özyeğin University",
@@ -370,9 +354,11 @@
       "notes": [
         "Graduate Financial Engineering Program"
       ],
-      "country": [
-        "tr",
-        "Turkey"
+      "countries": [
+        [
+          "tr",
+          "Turkey"
+        ]
       ]
     },
     {
@@ -382,9 +368,11 @@
       "notes": [
         "Master in Finance Programme"
       ],
-      "country": [
-        "tr",
-        "Turkey"
+      "countries": [
+        [
+          "tr",
+          "Turkey"
+        ]
       ]
     },
     {
@@ -394,9 +382,11 @@
       "notes": [
         "Master of Financial Technologies, Melbourne"
       ],
-      "country": [
-        "au",
-        "Australia"
+      "countries": [
+        [
+          "au",
+          "Australia"
+        ]
       ]
     },
     {
@@ -404,11 +394,13 @@
       "logo": "/assets/work/clients/warwick.png",
       "url": "https://warwick.ac.uk/",
       "notes": [
-        "Fintech Week"
+        "Guest speaker on Digital Banking"
       ],
-      "country": [
-        "gb",
-        "United Kingdom"
+      "countries": [
+        [
+          "gb",
+          "United Kingdom"
+        ]
       ]
     },
     {
@@ -418,9 +410,11 @@
       "notes": [
         "Institut für Informatik und Gesellschaft"
       ],
-      "country": [
-        "de",
-        "Germany"
+      "countries": [
+        [
+          "de",
+          "Germany"
+        ]
       ]
     },
     {
@@ -430,9 +424,11 @@
       "notes": [
         "Economics and Business"
       ],
-      "country": [
-        "de",
-        "Germany"
+      "countries": [
+        [
+          "de",
+          "Germany"
+        ]
       ]
     },
     {
@@ -442,9 +438,11 @@
       "notes": [
         "Information Management"
       ],
-      "country": [
-        "de",
-        "Germany"
+      "countries": [
+        [
+          "de",
+          "Germany"
+        ]
       ]
     },
     {
@@ -454,9 +452,11 @@
       "notes": [
         "Advisory Board for MBA and Masters studies"
       ],
-      "country": [
-        "de",
-        "Germany"
+      "countries": [
+        [
+          "de",
+          "Germany"
+        ]
       ]
     },
     {
@@ -466,9 +466,11 @@
       "notes": [
         "Lecture series on networking"
       ],
-      "country": [
-        "at",
-        "Austria"
+      "countries": [
+        [
+          "at",
+          "Austria"
+        ]
       ]
     },
     {
@@ -478,21 +480,43 @@
       "notes": [
         "Financial market theory"
       ],
-      "country": [
-        "ch",
-        "Switzerland"
+      "countries": [
+        [
+          "ch",
+          "Switzerland"
+        ]
       ]
     },
     {
-      "name": "Research and Innovation Foundation, Cyprus",
-      "logo": "/assets/work/clients/research-innovation-foundation-cyprus.png",
-      "url": "https://www.research.org.cy/en/",
+      "name": "EBA Academy",
+      "logo": "/assets/work/clients/eba-academy.png",
+      "url": "https://www.abe-eba.eu/training-education/eba-academy-payments-training/",
       "notes": [
-        "Evaluator for the national research funding agency"
+        "Tokenisation of Money and Digital Assets"
       ],
-      "country": [
-        "cy",
-        "Cyprus"
+      "countries": [
+        [
+          "eu",
+          "Europe"
+        ]
+      ]
+    },
+    {
+      "name": "Guidance Guard",
+      "logo": "/assets/work/clients/guidance-guard.png",
+      "url": null,
+      "notes": [
+        "Professional training, Middle East"
+      ],
+      "countries": [
+        [
+          "jo",
+          "Jordan"
+        ],
+        [
+          "sa",
+          "Saudi Arabia"
+        ]
       ]
     }
   ],
