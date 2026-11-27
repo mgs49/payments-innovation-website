@@ -18,7 +18,7 @@ description: "Sample clients, policy work, teaching, expert networks, cooperatio
 <h2>{{ s[1] }}</h2>
 <ul class="logo-wall">
 {%- for c in clients[s[0]] %}
-  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}</li>
+  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}{% if c.country %}<span class="logo-country"><img src="/assets/img/flags/{{ c.country[0] }}.svg" alt="" width="20" height="15">{{ c.country[1] }}</span>{% endif %}</li>
 {%- endfor %}
 </ul>
 {%- endfor %}

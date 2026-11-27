@@ -311,14 +311,22 @@
       "notes": [
         "AI in Fintech and Open Banking",
         "Bank Governance Programme on “Tokenised Finance”"
+      ],
+      "country": [
+        "gb",
+        "United Kingdom"
       ]
     },
     {
-      "name": "Euro Banking Association (EBA) Academy",
-      "logo": "/assets/work/clients/euro-banking-association.png",
+      "name": "EBA Academy",
+      "logo": "/assets/work/clients/eba-academy.png",
       "url": "https://www.abe-eba.eu/training-education/eba-academy-payments-training/",
       "notes": [
-        "Tokenisation of Money"
+        "Tokenisation of Money and Digital Assets"
+      ],
+      "country": [
+        "eu",
+        "Europe"
       ]
     },
     {
@@ -328,6 +336,10 @@
       "wide": true,
       "notes": [
         "Research Institute of Economics and Management"
+      ],
+      "country": [
+        "jp",
+        "Japan"
       ]
     },
     {
@@ -335,7 +347,36 @@
       "logo": null,
       "url": "https://www.istanbul.edu.tr/en/",
       "notes": [
-        "Fintech and the API Economy"
+        "Fintech and the API Economy",
+        "Open Banking and API Economy"
+      ],
+      "country": [
+        "tr",
+        "Turkey"
+      ]
+    },
+    {
+      "name": "Özyeğin University",
+      "logo": null,
+      "url": "https://www.ozyegin.edu.tr/en",
+      "notes": [
+        "Graduate Financial Engineering Program"
+      ],
+      "country": [
+        "tr",
+        "Turkey"
+      ]
+    },
+    {
+      "name": "Sabancı Business School",
+      "logo": null,
+      "url": "https://sbs.sabanciuniv.edu/en",
+      "notes": [
+        "Master in Finance Programme"
+      ],
+      "country": [
+        "tr",
+        "Turkey"
       ]
     },
     {
@@ -344,6 +385,22 @@
       "url": "https://www.swinburne.edu.au/",
       "notes": [
         "Master of Financial Technologies, Melbourne"
+      ],
+      "country": [
+        "au",
+        "Australia"
+      ]
+    },
+    {
+      "name": "University of Warwick",
+      "logo": null,
+      "url": "https://warwick.ac.uk/",
+      "notes": [
+        "Fintech Week"
+      ],
+      "country": [
+        "gb",
+        "United Kingdom"
       ]
     },
     {
@@ -352,14 +409,58 @@
       "url": "https://uni-freiburg.de/en/",
       "notes": [
         "Institut für Informatik und Gesellschaft"
+      ],
+      "country": [
+        "de",
+        "Germany"
       ]
     },
     {
-      "name": "Vienna",
+      "name": "Goethe-Universität Frankfurt",
       "logo": null,
-      "url": null,
+      "url": "https://www.goethe-university-frankfurt.de/en",
       "notes": [
-        "Lecture series, Economic and Technical University"
+        "Economics and Business"
+      ],
+      "country": [
+        "de",
+        "Germany"
+      ]
+    },
+    {
+      "name": "Philipps-Universität Marburg",
+      "logo": null,
+      "url": "https://www.uni-marburg.de/en",
+      "notes": [
+        "Information Management"
+      ],
+      "country": [
+        "de",
+        "Germany"
+      ]
+    },
+    {
+      "name": "TU Wien",
+      "logo": null,
+      "url": "https://www.tuwien.at/en/",
+      "notes": [
+        "Lecture series on networking"
+      ],
+      "country": [
+        "at",
+        "Austria"
+      ]
+    },
+    {
+      "name": "Universität St. Gallen",
+      "logo": null,
+      "url": "https://www.unisg.ch/en/",
+      "notes": [
+        "Financial market theory"
+      ],
+      "country": [
+        "ch",
+        "Switzerland"
       ]
     }
   ],

@@ -5,7 +5,7 @@ permalink: "/boards/"
 templateEngineOverride: md
 ---
 
-Board positions, advisory boards, committees and juries.
+Board positions, advisory boards, committees etc.
 
 ## Board positions
 
@@ -77,7 +77,7 @@ Board positions, advisory boards, committees and juries.
 - with European Think Tank’s **Centre for European Policy Studies (CEPS)** on role of digitalisation strategy and innovation in creating a true single market for retail financial services for the European Commission (DG FISMA) to contribute to **future policy initiatives** in retail financial services etc
 - Expert to **ECB** on the options for the design of a central bank digital currency for digital euro payments **CBDC**, especially its programmability
 
-------------------------------------------------------------------------
+### Further European bodies, for example
 
 - Member of the **Euro Retail Payments Board (ERPB)** – the multi-stakeholder strategy group deciding on the future of European retail, chaired by the executive committee of the European Central Bank ECB – for example into the PSD2, E-Invoicing, mobile peer-to-peer and instant payment steering groups
 - Regularly invited by **ECB European Central Bank** (personal invitation of the Executive Board of ECB and the Governor of the of organising central Bank) to their annual flagship event as speaker e.g. on “The interplay between the regulatory framework and payment innovations” within key annual conference “The Digital Transformation of the Retail Payments Ecosystem”, with 300 people from more than 50 countries, mainly high-level policymakers (e.g. European Commission), regulators (worldwide bank governors), researchers (e.g. MIT) and market participants
