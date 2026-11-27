@@ -10,10 +10,10 @@ This is the professional website of Dr Michael Salmony (payments-innovation.com)
 - This is the serious site. No jokes, and never the tongue-in-cheek title string ("Prof. h.c. Dr. rer. nat. ... VIP (Colbert), L.I.V.R."); that belongs on salmony.co.uk only. Here he is "Dr Michael Salmony".
 - The biography on `src/profile.md` is his authoritative text (file "Bio Michael Salmony PI"). Change it only when he supplies a new version. Never state a specific number of years of experience; say "decades".
 - The board positions on `src/boards.md` follow his file "Boards Salmony". Keep the two in step.
-- Only LinkedIn. He does not use X, Twitter or Facebook; do not add links to them.
+- Only LinkedIn. He does not use X, Twitter or Facebook; do not add links to them. The old Twitter links already in Lectures, Publications and Media may stay (his decision, 27th November 2026).
 - Impressum: by his decision it shows the business name and VAT ID with "address and e-mail to follow". Do not add his address, e-mail or phone number unless he asks. Never publish his personal tax identification number.
 - Publications (his rule, 27th November 2026): list only work that was actually published (journals, books, articles, blogs and interviews that appeared somewhere). His folders also hold notes, drafts, working papers and other people's texts; those stay off the site. Fuller or extended versions of a published paper may be offered on the site beside the published version, but never as separate entries on ResearchGate, where only properly published research belongs.
-- Client logos: add or remove only on his instruction; some engagements are confidential.
+- Client logos: add or remove only on his instruction; some engagements are confidential. G3 may be named (his decision, 27th November 2026).
 - No trackers, analytics, cookie banners, external fonts or embedded social-media widgets.
 
 ## Working method
