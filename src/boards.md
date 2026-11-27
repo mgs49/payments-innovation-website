@@ -5,7 +5,7 @@ permalink: "/boards/"
 templateEngineOverride: md
 ---
 
-Non-executive board positions, advisory boards, committees etc.
+Board positions, advisory boards, non-exec roles, committees etc.
 
 ## Board positions
 

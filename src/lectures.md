@@ -574,7 +574,7 @@ Workshop on Monetising Open Finance at [Next FinTech Forum, Abidjan](https://www
 
 **20.11.23**
 
-Co-creator of [Transaction Innovation Forum](https://www.transactioninnovationforum.com/), Tokyo  
+Co-creator of Transaction Innovation Forum, Tokyo  
 Promoted by [me](https://www.linkedin.com/posts/activity-7120659145388646401-le1C?utm_source=share&utm_medium=member_desktop) on LinkedIn and by [FinTech Istanbul](https://fintechistanbul.org/2023/11/08/transaction-innovation-forum-20-kasimda-basliyor/) and their [summary](https://fintechistanbul.org/2023/11/20/fintech-istanbulun-medya-sponsoru-oldugu-tokyodaki-tif-2023te-one-cikanlar/)
 
 **24.11.23**
@@ -743,7 +743,7 @@ Speaker on “Implementing & Monetizing Digital Wallets – Developing Strategie
 
 **15.9.22**
 
-Founder and Chair [Transaction Innovation Forum](https://www.transactioninnovationforum.com/), Tokyo
+Founder and Chair Transaction Innovation Forum, Tokyo
 
 **22-23.9.22**
 
@@ -1063,7 +1063,7 @@ by personal invitation of Professor for International Management und Innovations
 
 **21.5.20**
 
-[Transaction Innovation Forum](https://www.transactioninnovationforum.com/), Tokyo (moved due to Covid to Nov 2021)
+Transaction Innovation Forum, Tokyo (moved due to Covid to Nov 2021)
 
 **30-31.5.20**
 

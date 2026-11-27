@@ -21,6 +21,12 @@ Interviewed at Saïd Business School, University of Oxford, on Open Banking, Ope
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=fAfjzIb-D_M" data-yt="fAfjzIb-D_M" title="Interview at Saïd Business School, Oxford, 2024"><img src="/assets/video/yt/said-oxford-interview-2024.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Interview at Saïd Business School, Oxford, 2024</span><span class="yt-note">Plays from YouTube</span></a></div>
 
+### Keynote at the FinTech Istanbul B2B Connect Summit, October 2023
+
+Keynote at the FinTech Istanbul B2B Connect Summit, Istanbul, 13th October 2023 ([report by FinTech Istanbul](https://fintechistanbul.org/en/2023/10/02/financial-technology-world-is-coming-together-at-fintech-istanbul-b2b-connect-summit/))
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=6XFpVBKw7Mc" data-yt="6XFpVBKw7Mc" title="Keynote at the FinTech Istanbul B2B Connect Summit 2023"><img src="/assets/video/yt/fintech-istanbul-keynote-2023.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Keynote at the FinTech Istanbul B2B Connect Summit 2023</span><span class="yt-note">Plays from YouTube</span></a></div>
+
 ### European Parliament hearing, March 2016
 
 Salmony as Chair of Public Hearing on “How can we make the most of the opportunities presented by innovation?” for the European Commission’s Green Paper on Retail Financial Services with Lord Hill and 500 invited members at European Parliament March 2016
