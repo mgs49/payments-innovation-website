@@ -34,8 +34,6 @@ Article on book at [The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/exp
 
 ## 2025
 
-“CBDC – A solution looking for a problem?”, paper, 13th September 2025, revised 7th February 2026, published as a chapter of the [Springer book](https://link.springer.com/book/10.1007/978-3-032-22946-5) (July 2026), [paper text](/assets/uploads/2026/11/CBDC-solution-looking-for-a-problem-2026-Salmony.pdf)
-
 Open [Letter](https://drive.google.com/file/d/1mwz_26LmkWiEo8m1uIZ1K_yeCTgUNvil/view) by ETTPA on ERPF: “Guaranteeing Payment Sovereignty Through Open Banking —  
 Why Europe Must Act Now”, 22 Sept 2025  
 [LinkedIn](https://www.linkedin.com/posts/etppa_etppa-open-letter-guaranteeing-payment-sovereignty-activity-7375953244717510656-AlKc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)
@@ -54,7 +52,7 @@ Both texts available [here](/publications/#digital-euro)
 
 [“Do we really need another lira, dollar, euro, pound or yuan? A critical reflection on CBDC”](https://fintechistanbul.org/en/2023/02/09/do-we-really-need-another-lira-dollar-euro-pound-or-yuan-a-critical-reflection-on-cbdc-part-1/) published by FinTech Istanbul, also in [Turkish](https://fintechistanbul.org/2023/02/20/gercekten-yeni-bir-lira-dolar-euro-sterlin-veya-yuana-ihtiyacimiz-var-mi-cbdc-uzerine-kritik-bir-yaklasim-1/), [full text](/assets/uploads/2023/02/FTI-CBDC-Salmony.pdf) here
 
-“Do we really need another dollar, euro, pound or yuan? How to create the right ecosystem for a successful central bank digital currency” in special edition on “Next Steps for Digital Currencies” of the [Journal of Payments Strategy & Systems, JPSS](https://www.ingentaconnect.com/contentone/hsp/jpss/2023/00000017/00000001/art00002), Henry Stewart Publications, March 2023  
+“Do we really need another dollar, euro, pound or yuan? How to create the right ecosystem for a successful central bank digital currency” in special edition on “Next Steps for Digital Currencies” of the [Journal of Payments Strategy & Systems, JPSS](https://www.ingentaconnect.com/contentone/hsp/jpss/2023/00000017/00000001/art00002), Henry Stewart Publications, March 2023, [full text](/assets/uploads/2026/11/JPSS-CBDC-2023-Salmony.pdf)  
 Extended version “Do we need another Dollar, Euro, Pound, Yuan, … ? The business and policy rationale for a successful CBDC ecosystem”, [full text](/assets/uploads/2026/11/CBDC-policy-rationale-extended-2023-Salmony.pdf)  
 Cited by David Birch referring to “the respected payments expert Michael Salmony … who is, as you would expect, totally correct” in [text on ABBA](https://dgwbirch.substack.com/p/abba-and-cbdc-the-swedish-connection) and  [Forbes](https://www.linkedin.com/posts/dgwbirch_national-digital-id-is-a-foundation-for-cbdc-activity-7057056818270752769-dLqB/?utm_source=share&utm_medium=member_ios)
 
