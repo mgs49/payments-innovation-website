@@ -1,11 +1,14 @@
 ---
-title: "Publications"
+title: "All publications"
 layout: page.njk
-permalink: "/publications/"
+permalink: "/publications/all/"
 templateEngineOverride: md
+parent:
+  url: "/publications/"
+  title: "Publications"
 ---
 
-Citations in Academic Publications see [ResearchGate](https://www.researchgate.net/profile/Michael-Salmony/research) and [Academia.edu](https://cambridge.academia.edu/MichaelSalmony)
+The [key publications](/publications/) are summarised on their own page. Citations in academic publications: see [ResearchGate](https://www.researchgate.net/profile/Michael-Salmony/research).
 
 <nav aria-label="Jump to year" class="years">
 
@@ -29,6 +32,8 @@ Article on book at [The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/exp
 
 ## 2025
 
+“CBDC – A solution looking for a problem?”, paper, 13th September 2025, revised 7th February 2026, [full text](/assets/uploads/2026/11/CBDC-solution-looking-for-a-problem-2026-Salmony.pdf)
+
 Open [Letter](https://drive.google.com/file/d/1mwz_26LmkWiEo8m1uIZ1K_yeCTgUNvil/view) by ETTPA on ERPF: “Guaranteeing Payment Sovereignty Through Open Banking —  
 Why Europe Must Act Now”, 22 Sept 2025  
 [LinkedIn](https://www.linkedin.com/posts/etppa_etppa-open-letter-guaranteeing-payment-sovereignty-activity-7375953244717510656-AlKc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)
@@ -37,7 +42,7 @@ Why Europe Must Act Now”, 22 Sept 2025
 
 “Can the Digital Euro be made attractive to all key stakeholders ?”, in [Journal of Digital Banking](https://www.henrystewartpublications.com/jdb) Vol. 9, No 3 pp238-258, Henry Stewart Publications, Winter 2024-25,  
 [Fuller text](https://www.researchgate.net/publication/386010814_Can_the_Digital_Euro_be_made_attractive_to_all_key_stakeholders) available at ResearchGate  
-Both texts available [here](https://payments-innovation.com/jdb-cbdc)
+Both texts available [here](/publications/#digital-euro)
 
 [“Making the case for the offline CBDC”](https://cbdc.onlineexpo.com/blog/2024-july-1/making-the-case-for-the-offline-cbdc/) in The Digital Currency Journal, July 2024
 
@@ -48,6 +53,7 @@ Both texts available [here](https://payments-innovation.com/jdb-cbdc)
 [“Do we really need another lira, dollar, euro, pound or yuan? A critical reflection on CBDC”](https://fintechistanbul.org/en/2023/02/09/do-we-really-need-another-lira-dollar-euro-pound-or-yuan-a-critical-reflection-on-cbdc-part-1/) published by FinTech Istanbul, also in [Turkish](https://fintechistanbul.org/2023/02/20/gercekten-yeni-bir-lira-dolar-euro-sterlin-veya-yuana-ihtiyacimiz-var-mi-cbdc-uzerine-kritik-bir-yaklasim-1/), [full text](/assets/uploads/2023/02/FTI-CBDC-Salmony.pdf) here
 
 “Do we need another dollar, euro, pound or yuan? How to create the right ecosystem for a successful central bank digital currency” in special edition on “Next Steps for Digital Currencies” of the [Journal of Payments Strategy & Systems, JPSS](https://www.ingentaconnect.com/contentone/hsp/jpss/2023/00000017/00000001/art00002), Henry Stewart Publications, March 2023  
+Extended version “Do we need another Dollar, Euro, Pound, Yuan, … ? The business and policy rationale for a successful CBDC ecosystem”, [full text](/assets/uploads/2026/11/CBDC-policy-rationale-extended-2023-Salmony.pdf)  
 Cited by David Birch referring to “the respected payments expert Michael Salmony … who is, as you would expect, totally correct” in [text on ABBA](https://dgwbirch.substack.com/p/abba-and-cbdc-the-swedish-connection) and  [Forbes](https://www.linkedin.com/posts/dgwbirch_national-digital-id-is-a-foundation-for-cbdc-activity-7057056818270752769-dLqB/?utm_source=share&utm_medium=member_ios)
 
 ETPPA [Open Finance Manifesto](https://www.etppa.org/openfinancemanifesto) presented to Heads of Units of DG FISMA  
@@ -81,6 +87,8 @@ Republished in [Northeypoint](https://northeypoint.substack.com/p/where-money-co
 Comment on [Bundesbank Discussion Paper on CBDC](https://www.linkedin.com/posts/activity-7200431881534812160-R8EU?utm_source=share&utm_medium=member_desktop) – Disintermdiating Banks, fast and slow
 
 ## 2022
+
+“SSI and Banking”, paper on self-sovereign identity and what it means for banks, December 2022, [full text](/assets/uploads/2026/11/SSI-and-Banking-2022-Salmony.pdf)
 
 [“Neo-Banks – will they overthrow traditional banks ?”](https://fintechistanbul.org/en/2022/01/31/neo-banks-will-they-overthrow-traditional-banks/) published by FinTech Istanbul, [full text](/assets/uploads/2022/02/Neo-banks-Salmony.pdf) here  
 [promoted](https://www.linkedin.com/posts/fintechistanbul_dr-michael-salmony-yazd%C4%B1-neo-bankalar-activity-6899269036950007808-m0xu/) in Turkish and translated in [Turkish](https://fintechistanbul.org/2022/02/15/neo-bankalar-geleneksel-bankalarin-pabucunu-dama-mi-atacak/)

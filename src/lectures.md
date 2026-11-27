@@ -10,11 +10,11 @@ The following shows some of the invitations – only accepted a selection …
 
 <nav aria-label="Jump to year" class="years">
 
-[2027](#y2027) [2026](#y2026) [2025](#y2025) [2024](#y2024) [2023](#y2023) [2022](#y2022) [2021](#y2021) [2020](#y2020) [2019](#y2019) [2018](#y2018) [2017](#y2017) [2016](#y2016) [2015](#y2015) [2014](#y2014) [2013](#y2013) [2012](#y2012) [2011](#y2011) [2010](#y2010)
+[2027](#y2027) [2026](#y2026) [2025](#y2025) [2024](#y2024) [2023](#y2023) [2022](#y2022) [2021](#y2021) [2020](#y2020) [2019](#y2019) [2018](#y2018) [2017](#y2017) [2016](#y2016) [2015](#y2015) [2014](#y2014) [2013](#y2013) [2012](#y2012) [2011](#y2011) [2010](#y2010) [Older lectures](/lectures/older-lectures/)
 
 </nav>
 
-What I generally talked about the last 15 years:
+What I generally talked about over the last 15 years:
 
 <div class="wordcloud" role="img" aria-label="Topics Dr Michael Salmony talks about"><span class="wc3">Open Finance</span> <span class="wc4">Regulation</span> <span class="wc2">Wallets</span> <span class="wc3">Future of Finance</span> <span class="wc1">Financial Inclusion</span> <span class="wc3">Digital Money</span> <span class="wc4">CBDC</span> <span class="wc3">Blockchain</span> <span class="wc2">Networking</span> <span class="wc2">Digital Euro</span> <span class="wc2">Embedded Finance</span> <span class="wc1">Digital Assets</span> <span class="wc4">Mobile Payments</span> <span class="wc6">Banking</span> <span class="wc1">Media</span> <span class="wc1">Internet</span> <span class="wc3">Data</span> <span class="wc2">Telecoms</span> <span class="wc3">Tokenisation</span> <span class="wc3">Cards</span> <span class="wc2">Neo-Banks</span> <span class="wc3">Digital Transformation</span> <span class="wc6">Payments</span> <span class="wc3">Security</span> <span class="wc2">e-Commerce</span> <span class="wc3">Cash</span> <span class="wc4">Digital Identity</span> <span class="wc2">e-Invoicing</span> <span class="wc3">Instant Payments</span> <span class="wc2">Stablecoins</span> <span class="wc2">B2B</span> <span class="wc5">Innovation</span> <span class="wc2">SEPA</span> <span class="wc2">Tokenised Money</span> <span class="wc1">Crypto</span> <span class="wc3">AI</span> <span class="wc4">PSD2</span> <span class="wc2">Platforms</span> <span class="wc4">FinTech</span> <span class="wc4">Open Banking</span> <span class="wc3">PSD3</span> <span class="wc4">Central Banks</span> <span class="wc3">API Economy</span></div>
 
@@ -2531,5 +2531,3 @@ Keynote+Panel: “The next wave of payment innovation” [MEFTEC](http://www.mef
 **23.3.10, 21.9.10 and 8.12.10**
 
 “Innovationen und Neuentwicklungen im Zahlungsverkehr” at Seminar Zahlungsverkehr A-Z und ZV update of IFF International Faculty of Finance, [IIR ZV Seminar](http://www.iir.de/produkt.aspx?pnr=P2500263&lang=DE&fid=2&tid=5) with Deutsche Bank and Commerzbank, Wiesbaden
-
-Older lectures can be found [here](/lectures/older-lectures/)

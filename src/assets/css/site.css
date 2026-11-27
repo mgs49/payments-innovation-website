@@ -236,3 +236,16 @@ strong, b { font-weight: 600; }
 .logo-wall { grid-auto-flow: row dense; }
 .logo-wall li.wide { grid-column: span 2; }
 .logo-wall li.wide img { max-height: 3.4rem; }
+
+/* Key publications page */
+.pubs { display: grid; gap: 1rem; margin: 0.5rem 0 2.5rem; }
+.pub { background: var(--mist); border-left: 3px solid var(--accent); padding: 1rem 1.2rem; }
+.pub h3 { margin: 0 0 0.3rem; font-size: 1.2rem; line-height: 1.35; font-weight: 400; }
+.pub h3 a { text-decoration: none; }
+.pub h3 a:hover { text-decoration: underline; text-decoration-color: var(--accent); }
+.pub p { margin: 0.3rem 0 0; }
+.pub .pub-where { color: var(--soft); font-size: 0.98rem; }
+.pub-links { margin: 0.5rem 0 0; padding-left: 1.1rem; }
+.pub-feature { display: flex; gap: 1.2rem; align-items: flex-start; }
+.pub-feature img { flex: 0 0 auto; width: 160px; height: auto; }
+@media (max-width: 600px) { .pub-feature { flex-direction: column; } }

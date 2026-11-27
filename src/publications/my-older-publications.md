@@ -4,8 +4,8 @@ layout: page.njk
 permalink: "/publications/my-older-publications/"
 templateEngineOverride: md
 parent:
-  url: "/publications/"
-  title: "Publications"
+  url: "/publications/all/"
+  title: "All publications"
 ---
 
 Some of those who have [cited me](http://citeseerx.ist.psu.edu/search?q=author%3Asalmony&submit=Search&ic=1&sort=cite&t=doc) (relevant in top journal even [25 years later](http://link.springer.com/article/10.1007/s00779-013-0701-z)).

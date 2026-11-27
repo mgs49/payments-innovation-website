@@ -22,5 +22,9 @@
   {
     "from": "/lectures/older-lectures/abstrakt-meines-aktuellen-standardvortrags/",
     "to": "/lectures/older-lectures/"
+  },
+  {
+    "from": "/jdb-cbdc/",
+    "to": "/publications/#digital-euro"
   }
 ]
