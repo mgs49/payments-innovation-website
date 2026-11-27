@@ -3,12 +3,13 @@ title: Clients and references
 layout: page.njk
 wide: true
 permalink: /clients/
-description: "Sample clients, policy work, expert networks, cooperation partners and media partners of Dr Michael Salmony and Payments Innovation Consulting."
+description: "Sample clients, policy work, teaching, expert networks, cooperation partners and media partners of Dr Michael Salmony and Payments Innovation Consulting."
 ---
 <p>All 5-star references (available on request).</p>
 {%- set sections = [
   ["clients", "Sample clients"],
   ["policy", "Sample policy work"],
+  ["teaching", "Sample teaching"],
   ["experts", "Sample expert networks"],
   ["partners", "Sample cooperation partners"],
   ["media", "Sample media and communication partners"]
@@ -17,7 +18,7 @@ description: "Sample clients, policy work, expert networks, cooperation partners
 <h2>{{ s[1] }}</h2>
 <ul class="logo-wall">
 {%- for c in clients[s[0]] %}
-  <li{% if c.wide %} class="wide"{% endif %}>{% if c.url %}<a href="{{ c.url }}">{% endif %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% if c.url %}</a>{% endif %}</li>
+  <li class="{% if c.wide %}wide{% endif %}{% if c.notes %} has-notes{% endif %}">{% if c.url %}<a href="{{ c.url }}">{% endif %}{% if c.logo %}<img src="{{ c.logo }}" alt="{{ c.name }}" loading="lazy">{% else %}<span class="logo-text">{{ c.name }}</span>{% endif %}{% if c.url %}</a>{% endif %}{% if c.notes %}<span class="logo-notes">{% for n in c.notes %}<span>{{ n }}</span>{% endfor %}</span>{% endif %}</li>
 {%- endfor %}
 </ul>
 {%- endfor %}

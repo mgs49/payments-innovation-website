@@ -121,12 +121,6 @@
       "wide": true
     },
     {
-      "name": "Gakushuin University",
-      "logo": "/assets/work/clients/gakushuin-university.png",
-      "url": "https://www.univ.gakushuin.ac.jp/en/",
-      "wide": true
-    },
-    {
       "name": "Trust in Digital Life",
       "logo": "/assets/work/clients/trust-in-digital-life.png",
       "url": "https://trustindigitallife.eu/"
@@ -201,16 +195,6 @@
       "name": "Metamorph",
       "logo": "/assets/work/clients/metamorph.png",
       "url": null
-    },
-    {
-      "name": "Saïd Business School, University of Oxford",
-      "logo": "/assets/work/clients/sa-d-business-school-university-of-oxfor.png",
-      "url": null
-    },
-    {
-      "name": "Euro Banking Association (EBA) Academy",
-      "logo": "/assets/work/clients/euro-banking-association.png",
-      "url": "https://www.abe-eba.eu/training-education/eba-academy-payments-training/"
     },
     {
       "name": "Digitinary",
@@ -316,6 +300,67 @@
       "logo": "/assets/work/clients/bangko-sentral-ng-pilipinas.png",
       "url": null,
       "wide": true
+    }
+  ],
+  "teaching": [
+    {
+      "name": "Saïd Business School, University of Oxford",
+      "logo": "/assets/work/clients/sa-d-business-school-university-of-oxfor.png",
+      "url": "https://www.sbs.ox.ac.uk/",
+      "wide": true,
+      "notes": [
+        "AI in Fintech and Open Banking",
+        "Bank Governance Programme on “Tokenised Finance”"
+      ]
+    },
+    {
+      "name": "Euro Banking Association (EBA) Academy",
+      "logo": "/assets/work/clients/euro-banking-association.png",
+      "url": "https://www.abe-eba.eu/training-education/eba-academy-payments-training/",
+      "notes": [
+        "Tokenisation of Money"
+      ]
+    },
+    {
+      "name": "Gakushuin University",
+      "logo": "/assets/work/clients/gakushuin-university.png",
+      "url": "https://www.univ.gakushuin.ac.jp/en/",
+      "wide": true,
+      "notes": [
+        "Research Institute of Economics and Management"
+      ]
+    },
+    {
+      "name": "Istanbul University",
+      "logo": null,
+      "url": "https://www.istanbul.edu.tr/en/",
+      "notes": [
+        "Fintech and the API Economy"
+      ]
+    },
+    {
+      "name": "Swinburne University of Technology",
+      "logo": null,
+      "url": "https://www.swinburne.edu.au/",
+      "notes": [
+        "Master of Financial Technologies, Melbourne"
+      ]
+    },
+    {
+      "name": "Universität Freiburg",
+      "logo": null,
+      "url": "https://uni-freiburg.de/en/",
+      "notes": [
+        "Institut für Informatik und Gesellschaft"
+      ]
+    },
+    {
+      "name": "Vienna",
+      "logo": null,
+      "url": null,
+      "notes": [
+        "Lecture series, Economic and Technical University"
+      ]
     }
   ],
   "experts": [
