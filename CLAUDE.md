@@ -12,6 +12,7 @@ This is the professional website of Dr Michael Salmony (payments-innovation.com)
 - The board positions on `src/boards.md` follow his file "Boards Salmony". Keep the two in step.
 - Only LinkedIn. He does not use X, Twitter or Facebook; do not add links to them.
 - Impressum: by his decision it shows the business name and VAT ID with "address and e-mail to follow". Do not add his address, e-mail or phone number unless he asks. Never publish his personal tax identification number.
+- Publications (his rule, 27th November 2026): list only work that was actually published (journals, books, articles, blogs and interviews that appeared somewhere). His folders also hold notes, drafts, working papers and other people's texts; those stay off the site. Fuller or extended versions of a published paper may be offered on the site beside the published version, but never as separate entries on ResearchGate, where only properly published research belongs.
 - Client logos: add or remove only on his instruction; some engagements are confidential.
 - No trackers, analytics, cookie banners, external fonts or embedded social-media widgets.
 

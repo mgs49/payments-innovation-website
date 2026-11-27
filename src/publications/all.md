@@ -34,7 +34,7 @@ Article on book at [The Paypers](https://thepaypers.com/crypto-web3-and-cbdc/exp
 
 ## 2025
 
-“CBDC – A solution looking for a problem?”, paper, 13th September 2025, revised 7th February 2026, [full text](/assets/uploads/2026/11/CBDC-solution-looking-for-a-problem-2026-Salmony.pdf)
+“CBDC – A solution looking for a problem?”, paper, 13th September 2025, revised 7th February 2026, published as a chapter of the [Springer book](https://link.springer.com/book/10.1007/978-3-032-22946-5) (July 2026), [paper text](/assets/uploads/2026/11/CBDC-solution-looking-for-a-problem-2026-Salmony.pdf)
 
 Open [Letter](https://drive.google.com/file/d/1mwz_26LmkWiEo8m1uIZ1K_yeCTgUNvil/view) by ETTPA on ERPF: “Guaranteeing Payment Sovereignty Through Open Banking —  
 Why Europe Must Act Now”, 22 Sept 2025  
@@ -89,8 +89,6 @@ Republished in [Northeypoint](https://northeypoint.substack.com/p/where-money-co
 Comment on [Bundesbank Discussion Paper on CBDC](https://www.linkedin.com/posts/activity-7200431881534812160-R8EU?utm_source=share&utm_medium=member_desktop) – Disintermdiating Banks, fast and slow
 
 ## 2022
-
-“SSI and Banking”, paper on self-sovereign identity and what it means for banks, December 2022, [full text](/assets/uploads/2026/11/SSI-and-Banking-2022-Salmony.pdf)
 
 [“Neo-Banks – will they overthrow traditional banks ?”](https://fintechistanbul.org/en/2022/01/31/neo-banks-will-they-overthrow-traditional-banks/) published by FinTech Istanbul, [full text](/assets/uploads/2022/02/Neo-banks-Salmony.pdf) here  
 [promoted](https://www.linkedin.com/posts/fintechistanbul_dr-michael-salmony-yazd%C4%B1-neo-bankalar-activity-6899269036950007808-m0xu/) in Turkish and translated in [Turkish](https://fintechistanbul.org/2022/02/15/neo-bankalar-geleneksel-bankalarin-pabucunu-dama-mi-atacak/)
