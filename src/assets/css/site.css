@@ -131,13 +131,21 @@ strong, b { font-weight: 600; }
 .prose h2.year, .prose h3.year { font-size: 2rem; margin-top: 3.2rem; padding-top: 0.8rem; border-top: 1px solid var(--line); }
 .prose h2.year, .prose h3.year { border-top: 3px solid var(--accent); display: inline-block; padding-right: 2rem; }
 
-/* Word cloud on the older lectures page */
-.tagcloud { line-height: 1.9; }
-.tagcloud span { margin-right: 0.5rem; white-space: nowrap; }
-.tagcloud .t0 { font-size: 0.8rem; } .tagcloud .t1 { font-size: 0.9rem; } .tagcloud .t2 { font-size: 1rem; }
-.tagcloud .t3 { font-size: 1.15rem; } .tagcloud .t4 { font-size: 1.3rem; } .tagcloud .t5 { font-size: 1.5rem; }
-.tagcloud .t6 { font-size: 1.7rem; } .tagcloud .t7 { font-size: 1.9rem; } .tagcloud .t8 { font-size: 2.1rem; }
-.tagcloud .t9 { font-size: 2.3rem; } .tagcloud .t10 { font-size: 2.6rem; }
+/* Word cloud of lecture topics (Lectures and Older lectures pages): live text, size by how often a topic comes up */
+.wordcloud { text-align: center; line-height: 1.25; padding: 1.2rem 1rem; margin: 0.5rem 0 2rem;
+  background: var(--mist); border-top: 3px solid var(--accent); }
+.wordcloud span { display: inline-block; margin: 0.15rem 0.55rem; white-space: nowrap; color: var(--ink); }
+.wordcloud .wc1 { font-size: 0.9rem; color: var(--soft); } .wordcloud .wc2 { font-size: 1.05rem; color: var(--soft); }
+.wordcloud .wc3 { font-size: 1.3rem; } .wordcloud .wc4 { font-size: 1.6rem; }
+.wordcloud .wc5 { font-size: 2rem; font-weight: 400; } .wordcloud .wc6 { font-size: 2.5rem; font-weight: 400; }
+
+/* "Back to top" button on long pages: appears once the reader has scrolled down */
+.to-top { position: fixed; right: 1.2rem; bottom: 1.2rem; z-index: 50; padding: 0.45rem 0.9rem;
+  background: var(--ink); color: #fff; font-family: var(--ui-font); font-size: 0.95rem; text-decoration: none;
+  border-bottom: 3px solid var(--accent); opacity: 0; pointer-events: none; transition: opacity 0.2s; }
+.to-top.show { opacity: 0.92; pointer-events: auto; }
+.to-top:hover { opacity: 1; text-decoration: none; color: #fff; }
+@media print { .to-top { display: none; } }
 
 /* Lists of pages (stories index, private index) */
 .index-list { list-style: none; padding: 0 !important; margin: 0 0 2rem; }

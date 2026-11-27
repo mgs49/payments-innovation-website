@@ -22,7 +22,7 @@
 <link rel="stylesheet" href="/assets/css/site.css">
 <link rel="stylesheet" href="/assets/css/alt.css">
 </head>
-<body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
+<body id="top"{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header">
   <div class="wrap header-row">
@@ -58,7 +58,8 @@
 document.querySelectorAll(".mail").forEach(function (e) {
   var r = function (t) { return t.split("").reverse().join(""); };
   var a = r(e.getAttribute("data-u")) + "@" + r(e.getAttribute("data-d"));
-  var l = document.createElement("a"); l.href = "mailto:" + a; l.textContent = a;
+  var s = e.getAttribute("data-subject");
+  var l = document.createElement("a"); l.href = "mailto:" + a + (s ? "?subject=" + encodeURIComponent(s) : ""); l.textContent = a;
   e.replaceWith(l);
 });
 </script>
@@ -74,6 +75,16 @@ document.addEventListener("click", function (e) {
   f.allowFullscreen = true;
   a.parentNode.replaceChild(f, a);
 });
+</script>
+<a href="#top" class="to-top" id="to-top">&uarr; Top</a>
+<script>
+/* "Top" button: shown after scrolling down, scrolls back to the top of the page. */
+(function () {
+  var b = document.getElementById("to-top");
+  function f() { b.classList.toggle("show", window.scrollY > 800); }
+  window.addEventListener("scroll", f, { passive: true }); f();
+  b.addEventListener("click", function (ev) { ev.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+})();
 </script>
 </body>
 </html>

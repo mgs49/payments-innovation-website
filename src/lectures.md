@@ -6,13 +6,18 @@ templateEngineOverride: md
 ---
 
 The following shows some of the invitations – only accepted a selection …  
-Older lectures can found [here](/lectures/older-lectures/)
+Older lectures can be found [here](/lectures/older-lectures/)
+
 
 <nav aria-label="Jump to year" class="years">
 
 [2027](#y2027) [2026](#y2026) [2025](#y2025) [2024](#y2024) [2023](#y2023) [2022](#y2022) [2021](#y2021) [2020](#y2020) [2019](#y2019) [2018](#y2018) [2017](#y2017) [2016](#y2016) [2015](#y2015) [2014](#y2014) [2013](#y2013) [2012](#y2012) [2011](#y2011) [2010](#y2010)
 
 </nav>
+
+What I talk about:
+
+<div class="wordcloud" role="img" aria-label="Topics Dr Michael Salmony talks about"><span class="wc3">Open Finance</span> <span class="wc4">Regulation</span> <span class="wc2">Wallets</span> <span class="wc3">Future of Finance</span> <span class="wc1">Financial Inclusion</span> <span class="wc3">Digital Money</span> <span class="wc4">CBDC</span> <span class="wc3">Blockchain</span> <span class="wc2">Networking</span> <span class="wc2">Digital Euro</span> <span class="wc2">Embedded Finance</span> <span class="wc1">Digital Assets</span> <span class="wc4">Mobile Payments</span> <span class="wc6">Banking</span> <span class="wc1">Media</span> <span class="wc1">Internet</span> <span class="wc3">Data</span> <span class="wc2">Telecoms</span> <span class="wc3">Tokenisation</span> <span class="wc3">Cards</span> <span class="wc2">Neo-Banks</span> <span class="wc3">Digital Transformation</span> <span class="wc6">Payments</span> <span class="wc3">Security</span> <span class="wc2">e-Commerce</span> <span class="wc3">Cash</span> <span class="wc4">Digital Identity</span> <span class="wc2">e-Invoicing</span> <span class="wc3">Instant Payments</span> <span class="wc2">Stablecoins</span> <span class="wc2">B2B</span> <span class="wc5">Innovation</span> <span class="wc2">SEPA</span> <span class="wc2">Tokenised Money</span> <span class="wc1">Crypto</span> <span class="wc3">AI</span> <span class="wc4">PSD2</span> <span class="wc2">Platforms</span> <span class="wc4">FinTech</span> <span class="wc4">Open Banking</span> <span class="wc3">PSD3</span> <span class="wc4">Central Banks</span> <span class="wc3">API Economy</span></div>
 
 ## 2027
 
@@ -43,8 +48,8 @@ Lead trainer on Tokenised Money at [EBA Academy](https://www.abe-eba.eu/training
 Presentation of book at panel “Tokenisation of Money: From Fiat Currencies to Stablecoins” at [Currency Research Central Bank Payments Conference](https://currencyresearch.com/the-central-bank-payments-conference/), Istanbul  
 <img src="/assets/uploads/2025/12/Book-mockup-title-200x300.png" loading="lazy" width="200" height="300">
 
-**12-14.5.26  
-** [CB&DC Conference](https://www.cbdc-conference.com/), Kuala Lumpur  
+**12-14.5.26**  
+[CB&DC Conference](https://www.cbdc-conference.com/), Kuala Lumpur  
 <img src="/assets/uploads/2026/05/CBDC-Conference-Banner-Speaker-Announcement-KL-2026-M.Salmony-I-will-speak-251x300.jpg" loading="lazy" width="251" height="300">
 
 **21.4.26**  
@@ -90,18 +95,17 @@ Open Banking and Blockchain at Mastercard with Saudi bank, London
 **15.9..26**  
 Lead trainer on [Tokenised Money](https://www.eventbrite.com/e/new-eba-academy-module-on-the-tokenisation-of-money-and-digital-assets-tickets-1986199669679) at [EBA Academy](https://www.abe-eba.eu/training-education/eba-academy-payments-training/), Paris
 
-**15-16.9.26  
-** Payment Leaders’ Summit, an invite-only, highly curated, senior-level summit bringing together Heads of Payments, Digital, Innovation, Product, and Compliance from leading banks, financial institutions, merchants, and FinTechs, Amsterdam
+**15-16.9.26**  
+Payment Leaders’ Summit, an invite-only, highly curated, senior-level summit bringing together Heads of Payments, Digital, Innovation, Product, and Compliance from leading banks, financial institutions, merchants, and FinTechs, Amsterdam
 
 **17.9.26**  
 Keynote “What they don’t tell you about Tokenised Money” at [Financial Innovation Forum Payments & RegTech](https://www.qubevents.com/financial-innovation-forum), London  
 <img src="/assets/uploads/2026/09/London-speakers-lineup_1200x630-1024x538.jpg" loading="lazy" width="700" height="368">
 
-**27-29.9.26  
-** Book peesentation at Academy and Moderation of plenary panel on Tokenisation with three central banks (DNB, BuBa, BdF), Qivalis, DZ BANK/CBMT at [CB&DC Conference](https://www.cbdc-conference.com/), Amsterdam  
-**  
-7-8.10.26  
-** Speaker of “Blockchain, Tokenized Assets, Stablecoins & CBDCs: The Future of Digital Finance” Panel and moderator of Panel on [“The Digital Money Revolution: Digital Assets, Blockchain, Tokenization, Stablecoins, CBDCs & CBMTs](https://www.linkedin.com/posts/t-douminlian-2396a315a_fintechweek2026-digitalfinance-digitalassets-share-7501159325793705984-1moW/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)” at totally chaotic [Frankfurt FinTech Week](https://eufintechweek.com/)  
+**27-29.9.26**  
+Book peesentation at Academy and Moderation of plenary panel on Tokenisation with three central banks (DNB, BuBa, BdF), Qivalis, DZ BANK/CBMT at [CB&DC Conference](https://www.cbdc-conference.com/), Amsterdam  
+**7-8.10.26**  
+Speaker of “Blockchain, Tokenized Assets, Stablecoins & CBDCs: The Future of Digital Finance” Panel and moderator of Panel on [“The Digital Money Revolution: Digital Assets, Blockchain, Tokenization, Stablecoins, CBDCs & CBMTs](https://www.linkedin.com/posts/t-douminlian-2396a315a_fintechweek2026-digitalfinance-digitalassets-share-7501159325793705984-1moW/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)” at totally chaotic [Frankfurt FinTech Week](https://eufintechweek.com/)  
 <img src="/assets/uploads/2026/09/1788415746827-300x240.jpeg" loading="lazy" width="423" height="338">
 
 **27-28.10.26**  
@@ -110,21 +114,20 @@ Moderator of panel at [MoneyLIVE Nordic Banking 2026](https://moneylive-insights
 **19.11.26**  
 Keynote speaker for the fourth plenary meeting of the [central bank at the Foro di Pago Naciona](https://www.cbaruba.org/foro-di-pago-nacional/)l (FPN) on “How Artificial Intelligence (AI) is Transforming Digital (Payment) Experiences.”, Aruba
 
-**7.12.26  
-** Invited as keynote speaker at the Annual Conference of the Banking Supervision Department at the Bank of Israel bringing together senior representatives from across the financial ecosystem, including the Governor of the Bank of Israel, CEOs of banks and financial institutions, regulators, policymakers, and other key stakeholders. Invited due to my insights on innovation and extensive international experience in payments innovation, open banking, digital transformation, and the future of financial services to showcase potential implications for banking, payments, and financial services which could provide tremendous value to their audience. Tel Aviv.
+**7.12.26**  
+Invited as keynote speaker at the Annual Conference of the Banking Supervision Department at the Bank of Israel bringing together senior representatives from across the financial ecosystem, including the Governor of the Bank of Israel, CEOs of banks and financial institutions, regulators, policymakers, and other key stakeholders. Invited due to my insights on innovation and extensive international experience in payments innovation, open banking, digital transformation, and the future of financial services to showcase potential implications for banking, payments, and financial services which could provide tremendous value to their audience. Tel Aviv.
 
 ## 2025
 
-**24.1.25  
-** “Industrial Policy & Leapfrog” at CEPS-ECRI Think Tank  
-**  
-17-21.2.25  
-** Chair of [Digital Assets](https://www.linkedin.com/posts/activity-7293774106724888576-q9ay?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) panel with hat Bank of Japan, Head D€ at Bundesbank, Director Global Digital Finance, IMF at Central Bank Payments Conference and Global Payments Summit, Currency Research, Paris  
+**24.1.25**  
+“Industrial Policy & Leapfrog” at CEPS-ECRI Think Tank  
+**17-21.2.25**  
+Chair of [Digital Assets](https://www.linkedin.com/posts/activity-7293774106724888576-q9ay?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) panel with hat Bank of Japan, Head D€ at Bundesbank, Director Global Digital Finance, IMF at Central Bank Payments Conference and Global Payments Summit, Currency Research, Paris  
 <img src="/assets/uploads/2025/02/cr.jpg" loading="lazy" width="270" height="270">  
 [Interview](https://www.linkedin.com/posts/payments-innovation-technology-currency-research_pitexchange-paymentsinnovation-technology-activity-7293550494608691200-YECd/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) podcast with CR
 
-**26.2.25  
-** Keynote: “Moving Beyond B2C Fintech To B2B Fintech – Is This A Bright New Future For The Fintech Industry & Will It Be Transformative For The Banking Industry?”, [Finovate Europe](https://informaconnect.com/finovateeurope/agenda/3/), London  
+**26.2.25**  
+Keynote: “Moving Beyond B2C Fintech To B2B Fintech – Is This A Bright New Future For The Fintech Industry & Will It Be Transformative For The Banking Industry?”, [Finovate Europe](https://informaconnect.com/finovateeurope/agenda/3/), London  
 [Linkedin](https://www.linkedin.com/posts/activity-7271409445048352768-x5XR?utm_source=share&utm_medium=member_desktop)  
 Featured as “Three Quick-Fire [Keynotes at FinovateEurope You Won’t Want to Miss](https://finovate.com/three-quick-fire-keynotes-at-finovateeurope-you-wont-want-to-miss/)”  
 <img src="/assets/uploads/2025/02/finovate.jpg" loading="lazy" width="295" height="128">  
@@ -133,25 +136,23 @@ Graduate Class Lecture on “Open Banking and API Economy” at Istanbul Univers
 
 **19.3.25**  
 Guest speaker on “CBDC, Leapfrog and Industrial Policy” at the payments committee of EuroCommerce, the principal European organisation representing the retail and wholesale sector with national associations in 28 countries  
-**  
-31.3.25**  
+**31.3.25**  
 Talk on CBDC at the “[Digital Currencies & Smart Payments Working Group](https://www.abe-eba.eu/thought-leadership-innovation/digital-currencies-smart-payments-working-group/)” of the Euro Banking Association  
-**  
-27.3.25  
-** Panellist on [Digital Euro Conference](https://digital-euro-conference.de/en/) Frankfurt at roundtable discussion “Rethinking CBDCs: Risks, Repercussions, and Alternatives”, a platform where CBDC skeptics can openly voice their perspectives, discuss potential pitfalls, and explore viable alternatives to central bank digital currencies  
+**27.3.25**  
+Panellist on [Digital Euro Conference](https://digital-euro-conference.de/en/) Frankfurt at roundtable discussion “Rethinking CBDCs: Risks, Repercussions, and Alternatives”, a platform where CBDC skeptics can openly voice their perspectives, discuss potential pitfalls, and explore viable alternatives to central bank digital currencies  
 <img src="/assets/uploads/2025/02/DEC25-Speaker-Card-Michael-Salmony-smaller-300x169.jpg" loading="lazy" width="300" height="169">
 
 **3.4.25**  
 Pannelist with Worldline and The Paypers in CoP
 
-**7.4.25  
-** Pannelist at Blockchain event with Giesecke+Devrient, Frankfurt School and TUM, Munich
+**7.4.25**  
+Pannelist at Blockchain event with Giesecke+Devrient, Frankfurt School and TUM, Munich
 
-**8-9.4.25  
-** Training with Jordanian Central Bank and Palestine Telecom, on Neo-Banks, Amman
+**8-9.4.25**  
+Training with Jordanian Central Bank and Palestine Telecom, on Neo-Banks, Amman
 
-**28.4.25  
-** Chair of  [Instant Payments](https://kinfos.events/ips/) Event, Frankfurt  
+**28.4.25**  
+Chair of  [Instant Payments](https://kinfos.events/ips/) Event, Frankfurt  
 <img src="/assets/uploads/2025/03/inst-241x300.jpg" loading="lazy" width="241" height="300">
 
 **6.5.25**  
@@ -169,8 +170,7 @@ Excellence in Digital Banking 4.0, Istanbul, Turkey
 **12.6.25**  
 Panel on Making European Payments Great Again at the [EuroCommerce Payments Day,](https://www.eurocommerce.eu/events/payments-day/) with Head of SIBS, Head of EPC, Head of EPI, Rulebook Head DigitalEuro, Brussels  
 My very popular [LinkedIn post](https://www.linkedin.com/posts/activity-7339253666131918848-X4CW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) on the highlights  
-**  
-24.6.25**  
+**24.6.25**  
 [Webinar](https://www.linkedin.com/posts/valerie-nowak-7270192_join-dr-michael-salmony-and-i-on-june-24th-activity-7341201005579051009-YqkU/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) with Mastercard EVP EMEA&AP Head Open Finance on “Unlocking new opportunities with Open Finance in Europe”  
 <img src="/assets/uploads/2025/06/MC-webinar-Unlocking-new-business-opportunities-300x169.png" loading="lazy" width="300" height="169">  
 and [more](https://www.linkedin.com/posts/payments-cards-and-mobile_openbanking-activity-7386687866707419136-rV6A/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) and more [LinkedIns](https://www.linkedin.com/posts/payments-cards-and-mobile_join-us-for-an-engaging-and-insightful-webinar-activity-7341030672473501696-7vHd/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) from Mastercard  
@@ -181,8 +181,8 @@ supported by video clips with Valerie me
 – [Mastercard](https://www.linkedin.com/posts/mastercard-open-finance_openbanking-mastercard-mastercardopenfinance-activity-7383441424878571520-Heb1/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) & [Payments Cards & Mobile](https://www.linkedin.com/posts/payments-cards-and-mobile_openbanking-activity-7381599243058380800-LGJr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) videos with [my comment](https://www.linkedin.com/posts/activity-7381978544702332928-E3tg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) on on OB/API-ification is like electricity, B2B is key  
 – Mastercard & [Payments Cards & Mobile](https://www.linkedin.com/posts/payments-cards-and-mobile_openbanking-openfinance-psd2-activity-7384196386789007360-lHyd/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU) videos with [my comment](https://www.linkedin.com/feed/update/urn:li:ugcPost:7386661647475580929/) on FIDA and unlocking data
 
-**26.6.25  
-** Lunchtime talk on debunking Blockchain “”Digital Finance in the real world: exploring hopes and failures from Blockchain to CBDC” at Oxford Business School  
+**26.6.25**  
+Lunchtime talk on debunking Blockchain “”Digital Finance in the real world: exploring hopes and failures from Blockchain to CBDC” at Oxford Business School  
 <img src="/assets/uploads/2025/06/Michael-Salmony-at-Said-300x169.png" loading="lazy" width="300" height="169">
 
 **1-3.7.25**  
@@ -1726,8 +1726,7 @@ citing Salmony in [Asia Retail](http://retailasiaonline.com/wp-content/uploads/2
 
 Moderator of Public [Hearing](https://web.archive.org/web/20160327225045/http://ec.europa.eu:80/finance/events/2016/0302-retail-financial-services/docs/programme_en.pdf) on “How can we make the most of the opportunities presented by innovation?” for the European Commission’s Green Paper on Retail Financial Services
 
-**  
-17.2.16**
+**17.2.16**
 
 “mP2P – wirklich kein Bedarf und kein Business case?”  
 Zahlungsverkehrs-Symposium des FPN Frankfurt Payments Network, Frankfurt
@@ -2299,8 +2298,7 @@ Zukunft von Mobile Payments Commerzbank Mittelstandsbank und weitere Führungskr
 International Payments Summit [IPS](http://www.informaglobalevents.com/event/International-Payments-Summit), London  
 • The Future of Money “Is it now time to get rid of cash?” with President Russian e-Money association  
 • Keynote opening speech (for CEO) “Reconsidering the traditional way of working in the payments market”  
-**  
-18.4.12** “Infrastructure Convergence and Innovation” Expert Session “Are we becoming Over-Infrastructured?” at [11th International EPCA Summit](http://transactives.com/onpayments/epcasummit/Event.aspx)“Rethinking Transactions: Fostering Europe’s Digital Agenda” with EU Commissioner Neelie Kroes, Rita Wezenbeek (Head of DG Competition Unit, Payment Systems) etc, Rome
+**18.4.12** “Infrastructure Convergence and Innovation” Expert Session “Are we becoming Over-Infrastructured?” at [11th International EPCA Summit](http://transactives.com/onpayments/epcasummit/Event.aspx)“Rethinking Transactions: Fostering Europe’s Digital Agenda” with EU Commissioner Neelie Kroes, Rita Wezenbeek (Head of DG Competition Unit, Payment Systems) etc, Rome
 
 **26.-27.4.12**
 
