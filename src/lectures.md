@@ -6,7 +6,6 @@ templateEngineOverride: md
 ---
 
 The following shows some of the invitations – only accepted a selection …  
-Older lectures can be found [here](/lectures/older-lectures/)
 
 
 <nav aria-label="Jump to year" class="years">
@@ -15,7 +14,7 @@ Older lectures can be found [here](/lectures/older-lectures/)
 
 </nav>
 
-What I talk about:
+What I generally talked about the last 15 years:
 
 <div class="wordcloud" role="img" aria-label="Topics Dr Michael Salmony talks about"><span class="wc3">Open Finance</span> <span class="wc4">Regulation</span> <span class="wc2">Wallets</span> <span class="wc3">Future of Finance</span> <span class="wc1">Financial Inclusion</span> <span class="wc3">Digital Money</span> <span class="wc4">CBDC</span> <span class="wc3">Blockchain</span> <span class="wc2">Networking</span> <span class="wc2">Digital Euro</span> <span class="wc2">Embedded Finance</span> <span class="wc1">Digital Assets</span> <span class="wc4">Mobile Payments</span> <span class="wc6">Banking</span> <span class="wc1">Media</span> <span class="wc1">Internet</span> <span class="wc3">Data</span> <span class="wc2">Telecoms</span> <span class="wc3">Tokenisation</span> <span class="wc3">Cards</span> <span class="wc2">Neo-Banks</span> <span class="wc3">Digital Transformation</span> <span class="wc6">Payments</span> <span class="wc3">Security</span> <span class="wc2">e-Commerce</span> <span class="wc3">Cash</span> <span class="wc4">Digital Identity</span> <span class="wc2">e-Invoicing</span> <span class="wc3">Instant Payments</span> <span class="wc2">Stablecoins</span> <span class="wc2">B2B</span> <span class="wc5">Innovation</span> <span class="wc2">SEPA</span> <span class="wc2">Tokenised Money</span> <span class="wc1">Crypto</span> <span class="wc3">AI</span> <span class="wc4">PSD2</span> <span class="wc2">Platforms</span> <span class="wc4">FinTech</span> <span class="wc4">Open Banking</span> <span class="wc3">PSD3</span> <span class="wc4">Central Banks</span> <span class="wc3">API Economy</span></div>
 
@@ -103,7 +102,7 @@ Keynote “What they don’t tell you about Tokenised Money” at [Financial Inn
 <img src="/assets/uploads/2026/09/London-speakers-lineup_1200x630-1024x538.jpg" loading="lazy" width="700" height="368">
 
 **27-29.9.26**  
-Book peesentation at Academy and Moderation of plenary panel on Tokenisation with three central banks (DNB, BuBa, BdF), Qivalis, DZ BANK/CBMT at [CB&DC Conference](https://www.cbdc-conference.com/), Amsterdam  
+Book presentation at Academy and Moderation of plenary panel on Tokenisation with three central banks (DNB, BuBa, BdF), Qivalis, DZ BANK/CBMT at [CB&DC Conference](https://www.cbdc-conference.com/), Amsterdam  
 **7-8.10.26**  
 Speaker of “Blockchain, Tokenized Assets, Stablecoins & CBDCs: The Future of Digital Finance” Panel and moderator of Panel on [“The Digital Money Revolution: Digital Assets, Blockchain, Tokenization, Stablecoins, CBDCs & CBMTs](https://www.linkedin.com/posts/t-douminlian-2396a315a_fintechweek2026-digitalfinance-digitalassets-share-7501159325793705984-1moW/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)” at totally chaotic [Frankfurt FinTech Week](https://eufintechweek.com/)  
 <img src="/assets/uploads/2026/09/1788415746827-300x240.jpeg" loading="lazy" width="423" height="338">
@@ -143,10 +142,10 @@ Panellist on [Digital Euro Conference](https://digital-euro-conference.de/en/) F
 <img src="/assets/uploads/2025/02/DEC25-Speaker-Card-Michael-Salmony-smaller-300x169.jpg" loading="lazy" width="300" height="169">
 
 **3.4.25**  
-Pannelist with Worldline and The Paypers in CoP
+Panellist with Worldline and The Paypers in CoP
 
 **7.4.25**  
-Pannelist at Blockchain event with Giesecke+Devrient, Frankfurt School and TUM, Munich
+Panellist at Blockchain event with Giesecke+Devrient, Frankfurt School and TUM, Munich
 
 **8-9.4.25**  
 Training with Jordanian Central Bank and Palestine Telecom, on Neo-Banks, Amman
@@ -346,7 +345,7 @@ Promotion [article](https://fintechistanbul.org/2024/04/22/fintech-istanbul-ekib
 Currency Research – Digital Currency and Central Bank AI conferences, London  
 Moderator on “Privacy, Security, Interoperability, Offline: Have We Made Progress?”  
 Moderator on “Digital Currency and Asset Regulation and Compliance”  
-Pannelist on “AI Financial and Cyber Crime: Exploring the Risks and Mitigations”
+Panellist on “AI Financial and Cyber Crime: Exploring the Risks and Mitigations”
 
 **1.10.24**
 
@@ -450,7 +449,7 @@ Finextra/P27 day, Sweden
 
 **20.4.23**
 
-Invited as speaker/pannelist/chair to [45th International Banking Conference](https://baceeconference.com/45th-bacee-banking-conference/), Budapest
+Invited as speaker/panellist/chair to [45th International Banking Conference](https://baceeconference.com/45th-bacee-banking-conference/), Budapest
 
 **26.4.23**
 
@@ -502,7 +501,7 @@ Panellist on “Open Banking – Did it deliver what was promised? ” at [Centr
 
 **28-30.6.23**
 
-Pannelist on “Why CBDCs if there are already stablecoins or private label digital currencies and fiat currency solutions?” at [Global Payments Summit](https://events.currencyresearch.com/event/bc5f9584-4c11-472c-baae-338638c6daef/summary), Cape Town
+Panellist on “Why CBDCs if there are already stablecoins or private label digital currencies and fiat currency solutions?” at [Global Payments Summit](https://events.currencyresearch.com/event/bc5f9584-4c11-472c-baae-338638c6daef/summary), Cape Town
 
 **29-30.6.23**
 
@@ -539,7 +538,7 @@ Pro-Debater as “an internationally recognized rockstar when it comes to digita
 
 **27-28.9.23**
 
-Speaker and Pannellist at [15th NextGen Payments & RegTech](https://www.qubevents.com/15th-npf-usa) Forum, Austin, Texas, USA
+Speaker and Panellist at [15th NextGen Payments & RegTech](https://www.qubevents.com/15th-npf-usa) Forum, Austin, Texas, USA
 
 **13.10.23**
 
@@ -2477,7 +2476,7 @@ Keynote, Moderation and Management Equens Innovations Sounding Board, Palazzo Al
 
 ## 2010
 
-**2**1.1.10
+**21.1.10**
 
 “eSEPA – der Turbo für den Zahlungsverkehr mit Internet und Mobile” Leitung Fachforum am Eröffnungstag der [Omnicard 2010](https://web.archive.org/web/20101101110216/http://www.omnicard.de:80/index.php?m=284), by a long way the most significant conference of its kind in Europe, Berlin
 
@@ -2532,3 +2531,5 @@ Keynote+Panel: “The next wave of payment innovation” [MEFTEC](http://www.mef
 **23.3.10, 21.9.10 and 8.12.10**
 
 “Innovationen und Neuentwicklungen im Zahlungsverkehr” at Seminar Zahlungsverkehr A-Z und ZV update of IFF International Faculty of Finance, [IIR ZV Seminar](http://www.iir.de/produkt.aspx?pnr=P2500263&lang=DE&fid=2&tid=5) with Deutsche Bank and Commerzbank, Wiesbaden
+
+Older lectures can be found [here](/lectures/older-lectures/)

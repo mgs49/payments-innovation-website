@@ -157,11 +157,11 @@ promoted on [Linkedin](https://www.linkedin.com/posts/paul-amery-3484383_breakin
 **“Digital ID Story” ([Samarbejde om verdens bedste ID-løsning](/assets/uploads/2019/03/DenmarkID.pdf)**)  
 published in Børsen (Danish), the most important business media in Denmark, 26 January 2019
 
-**An open approach gives federated digital identity by banks a strong boost  
-** equensWorldline blog for Money2020 and tweet promotions naming Salmony as [most influential speaker](https://twitter.com/MichelMissud/status/1149586911150784513)[<img src="/assets/uploads/2019/07/open-boost-to-id-300x168.jpg" class="centre" loading="lazy" width="300" height="168">](/assets/uploads/2019/07/open-boost-to-id.jpg)Video interview with equensWorldline Board Member Alessandro Baroni on [“Identity is bigger than payments”](https://www.youtube.com/watch?v=IYqw2frRd-M&feature=youtu.be)
+**An open approach gives federated digital identity by banks a strong boost**  
+equensWorldline blog for Money2020 and tweet promotions naming Salmony as [most influential speaker](https://twitter.com/MichelMissud/status/1149586911150784513)[<img src="/assets/uploads/2019/07/open-boost-to-id-300x168.jpg" class="centre" loading="lazy" width="300" height="168">](/assets/uploads/2019/07/open-boost-to-id.jpg)Video interview with equensWorldline Board Member Alessandro Baroni on [“Identity is bigger than payments”](https://www.youtube.com/watch?v=IYqw2frRd-M&feature=youtu.be)
 
-**[“Banks taking back control”](/assets/uploads/2019/03/Banks-taking-back-control-Salmony.pdf)  
-** published in [JPSS](https://www.henrystewartpublications.com/jpss) for publication in [Journal of Payments Strategy & Systems Volume 13 Number 1, March 2019](/assets/uploads/2019/03/Banks-taking-back-control-Salmony-JPSS.pdf)  
+**[“Banks taking back control”](/assets/uploads/2019/03/Banks-taking-back-control-Salmony.pdf)**  
+published in [JPSS](https://www.henrystewartpublications.com/jpss) for publication in [Journal of Payments Strategy & Systems Volume 13 Number 1, March 2019](/assets/uploads/2019/03/Banks-taking-back-control-Salmony-JPSS.pdf)  
 published in EPC European Payments Council as Insight under [“Banks Regaining Initiative”](https://www.europeanpaymentscouncil.eu/news-insights/banks-regaining-initiative), March 2019  
 and  promoted  with  lots  of  [tweets](https://twitter.com/EPC_SEPA/status/1112648404503588864?s=20):[<img src="/assets/uploads/2019/04/epc-tweets.png" class="centre" loading="lazy" width="1516" height="256">](/assets/uploads/2019/04/epc-tweets.png)also published by [equensWorldline](https://equensworldline.com/en/home/blog/2019/april-19/20190415-it-is-time-for-banks-to-take-back-control.html) as blog  
 content essence republished by equensWorldline [CEO](https://equensworldline.com/en/home/blog/2019/june-19/20190618-europe-can-reform-their-payments-industry-by-unlocking-the-full-potential-of-open-banking-and-instant-payments.html) and [Head of Payments Products](https://equensworldline.com/content/equensworldline/en/home/blog/2019/june-19/20190618-banks-can-take-back-control-if-they-use-psd2-and-instant-payments-in-the-right-way.html) as blogs and interview at [SIBOS](https://equensworldline.com/content/dam/equensworldline/videos/sibos-michael-steinbach-ceo-of-equensworldline.mp3?utm_medium=newsletter&utm_source=directMail&utm_campaign=2019+09+26+sibos)  
@@ -171,8 +171,8 @@ Used as key theme at equensWorldline Client User Group 7th November, Barcelona
 Used in EACB and EBF and BVN/Currence strategy workshops 14th March, 8th April and 11th July 2019  
 Promoted by CEO at [EBAday and Finextra](https://www.finextra.com/videoarticle/2139/taking-back-control-of-european-payments), July 2019
 
-**“PSD2 is the catalyst for the platform economy in financial services” ([“PSD2 is katalysator voor platformeconomie in financieel verkeer”](/assets/uploads/2019/03/EY-Klantinterview-PSD2-Salmony.pdf))  
-** Interview in “EYe on Finance” (Dutch) distributed to 3000 senior managers and SB members in the Financial Services industry, June 2019  
+**“PSD2 is the catalyst for the platform economy in financial services” ([“PSD2 is katalysator voor platformeconomie in financieel verkeer”](/assets/uploads/2019/03/EY-Klantinterview-PSD2-Salmony.pdf))**  
+Interview in “EYe on Finance” (Dutch) distributed to 3000 senior managers and SB members in the Financial Services industry, June 2019  
 to be reused as eWL blog (English)
 
 [“Run aufs Konto: Die wilden Ideen der Finanzbranche”](https://etailment.de/news/stories/payment-psd2-open-banking-kontodaten-22181#)  
@@ -209,8 +209,8 @@ Interview [Handelsjournal](https://web.archive.org/web/20191213013653/https://ha
 
 ## 2018
 
-**“Identity is Broken”  
-** [Mobey Forum](https://www.mobeyforum.org/identity-is-broken/) blog July 2018  
+**“Identity is Broken”**  
+[Mobey Forum](https://www.mobeyforum.org/identity-is-broken/) blog July 2018  
 promoted on [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6423524117982646272) and [Twitter](https://twitter.com/MobeyForum/status/1017756891877785600)
 
 **“Rethinking Digital Identity”**  
@@ -243,8 +243,8 @@ re-published in [Italian](https://www.bitmat.it/blog/news/87688/le-banche-posson
 published by [PPI Consultancy](/assets/uploads/2019/01/PPISalmonyeID2018.pdf) and promoted at Business Breakfast
 
 **Beheer van digitale identiteit kan veiliger en handiger (Digital identity management can be more secure  
-and more convenient – Public vs Private Identity Provision)  
-** in [Atos’ GOV Magazine](/assets/uploads/2019/01/GOVAtoseID.pdf), with 7.300 printed copies and digital targeted towards Dutch public care/wellfare market
+and more convenient – Public vs Private Identity Provision)**  
+in [Atos’ GOV Magazine](/assets/uploads/2019/01/GOVAtoseID.pdf), with 7.300 printed copies and digital targeted towards Dutch public care/wellfare market
 
 Interview in **[FinTech Times](https://thefintechtimes.com/)** on future of Fintech, financial inclusion etc
 
@@ -280,8 +280,8 @@ article written including Salmony contributions pre and [post](http://payment
 
 ## 2016
 
-**“Pan-European Mobile Peer-to-Peer Payment – and beyond”  
-** closing [paper](/assets/uploads/2019/01/European-mP2P-salmony-JDB.pdf) in inaungural edition of [Journal of Digital Banking](http://www.henrystewartpublications.com/jdb), Volume One, Number One, Summer 2016, ISSN 2397-060X, pp85-93, Henry Stewart publications  
+**“Pan-European Mobile Peer-to-Peer Payment – and beyond”**  
+closing [paper](/assets/uploads/2019/01/European-mP2P-salmony-JDB.pdf) in inaungural edition of [Journal of Digital Banking](http://www.henrystewartpublications.com/jdb), Volume One, Number One, Summer 2016, ISSN 2397-060X, pp85-93, Henry Stewart publications  
 [cited](http://scholar.google.de/scholar_url?url=https://www.igi-global.com/chapter/mobile-payment-and-its-social-impact/204714&hl=en&sa=X&scisig=AAGBfm3zA58newZDK0gRuFhkoxKcENL4ZA&nossl=1&oi=scholaralrt) in “Mobile Payment and Its Social Impact” by Liguo Yu (Indiana University South Bend, USA) and Liping Sun (Harbin University of Science and Technology, China) – Mobile Applications and Solutions for Social Inclusion, 2018
 
 **[“The Future Use of Instant Payments – from Infrastructure to Novel Applications“](/assets/uploads/2019/01/use-of-instant-payments-salmony.pdf)** in [“Digital Payments – Revolution im Zahlungsverkehr – Geschäftsmodelle, Prozesse und Daten”](http://www.frankfurt-school-verlag.de/programm/digital_payments.html#stop) (the first professional book on Digital Payments) with ECB etc, ISBN 978-3-95647-073-8, Sept 2016, pp57-82  
@@ -426,14 +426,10 @@ Cited in “Apple – Pay, Towards the Acceptance of German Customers” in[Asia
 ## 2010
 
 **“Elektronische Rechnungsabwicklung in Europa: Gegenwart & Zukunft”** Michael Salmony & Bo Harald, Chairman European Commission Expert Group on eInvoicing [BIT](http://bitreport.com/) Band 10, Heft 3, Dez 2009 “Banking and Technology” des ibi Research an der Uni Regensburg und FIT European Research Centres for Finance and IT also in: [“Elektronische Rechnungsabwicklung – einfach, effizient, sicher. Teil I: Rahmenbedingungen und MarktüberblickEinführung”](https://web.archive.org/web/20210924180942/http://www.teil1.elektronische-rechnungsabwicklung.de/) (ISBN 978-3-940416-21-6) S. 14-20 Herausgegeben von ibi Research an der Universität Regensburg in Kooperation mit dem Netzwerk Elektronischer Geschäftsverkehr. Gefördert durch das Deutsche Bundesministerium für Wirtschaft und Technologie also as: **White Paper** Equens 2010  
-**  
-“Cash is King”** (see 2009) translated in Italian Employee Magazine  
-**  
-Expert Interview** by LBBW on [Mobile NFC Payments](/assets/uploads/2019/01/NFCInterview.rtf)  
-**  
-“E-SEPA: Online Banking e-Payments – the search for interoperability, e-Mandates – just beginning, e-Invoicing – highest return”**  in Equens’ EQ Magazine 2010 (pp30-32)  
-**  
-“Dial ‘S’ for SEPA”** quoted comment on Mobile Payments and SEPA in [FX&MM magazine](http://www.fx-mm.com/), 16.8.2010  
+**“Cash is King”** (see 2009) translated in Italian Employee Magazine  
+**Expert Interview** by LBBW on [Mobile NFC Payments](/assets/uploads/2019/01/NFCInterview.rtf)  
+**“E-SEPA: Online Banking e-Payments – the search for interoperability, e-Mandates – just beginning, e-Invoicing – highest return”**  in Equens’ EQ Magazine 2010 (pp30-32)  
+**“Dial ‘S’ for SEPA”** quoted comment on Mobile Payments and SEPA in [FX&MM magazine](http://www.fx-mm.com/), 16.8.2010  
 **“Anpassen oder Aussterben”** (D edition) **“Aanpassen of Uitsterven”** (NL edition) in Equens Express Vol 1 No 2 2010
 
 see [older publications](/publications/my-older-publications/), my patent, my thesis, diplomas I have supervised, where I have been cited etc.
