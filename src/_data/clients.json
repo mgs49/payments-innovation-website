@@ -141,11 +141,6 @@
       "url": null
     },
     {
-      "name": "Guidance Guard",
-      "logo": "/assets/work/clients/guidance-guard.png",
-      "url": null
-    },
-    {
       "name": "Mobey Forum",
       "logo": "/assets/work/clients/mobey-forum.png",
       "url": null,
@@ -330,6 +325,18 @@
       ]
     },
     {
+      "name": "Guidance Guard",
+      "logo": "/assets/work/clients/guidance-guard.png",
+      "url": null,
+      "notes": [
+        "Professional training, Middle East"
+      ],
+      "country": [
+        "jo",
+        "Jordan"
+      ]
+    },
+    {
       "name": "Gakushuin University",
       "logo": "/assets/work/clients/gakushuin-university.png",
       "url": "https://www.univ.gakushuin.ac.jp/en/",
@@ -344,7 +351,7 @@
     },
     {
       "name": "Istanbul University",
-      "logo": null,
+      "logo": "/assets/work/clients/istanbul-university.png",
       "url": "https://www.istanbul.edu.tr/en/",
       "notes": [
         "Fintech and the API Economy",
@@ -353,11 +360,12 @@
       "country": [
         "tr",
         "Turkey"
-      ]
+      ],
+      "showname": true
     },
     {
       "name": "Özyeğin University",
-      "logo": null,
+      "logo": "/assets/work/clients/ozyegin-university.png",
       "url": "https://www.ozyegin.edu.tr/en",
       "notes": [
         "Graduate Financial Engineering Program"
@@ -369,7 +377,7 @@
     },
     {
       "name": "Sabancı Business School",
-      "logo": null,
+      "logo": "/assets/work/clients/sabanci-university.png",
       "url": "https://sbs.sabanciuniv.edu/en",
       "notes": [
         "Master in Finance Programme"
@@ -381,7 +389,7 @@
     },
     {
       "name": "Swinburne University of Technology",
-      "logo": null,
+      "logo": "/assets/work/clients/swinburne.png",
       "url": "https://www.swinburne.edu.au/",
       "notes": [
         "Master of Financial Technologies, Melbourne"
@@ -393,7 +401,7 @@
     },
     {
       "name": "University of Warwick",
-      "logo": null,
+      "logo": "/assets/work/clients/warwick.png",
       "url": "https://warwick.ac.uk/",
       "notes": [
         "Fintech Week"
@@ -405,7 +413,7 @@
     },
     {
       "name": "Universität Freiburg",
-      "logo": null,
+      "logo": "/assets/work/clients/universitaet-freiburg.png",
       "url": "https://uni-freiburg.de/en/",
       "notes": [
         "Institut für Informatik und Gesellschaft"
@@ -417,7 +425,7 @@
     },
     {
       "name": "Goethe-Universität Frankfurt",
-      "logo": null,
+      "logo": "/assets/work/clients/goethe-universitaet-frankfurt.png",
       "url": "https://www.goethe-university-frankfurt.de/en",
       "notes": [
         "Economics and Business"
@@ -429,7 +437,7 @@
     },
     {
       "name": "Philipps-Universität Marburg",
-      "logo": null,
+      "logo": "/assets/work/clients/universitaet-marburg.png",
       "url": "https://www.uni-marburg.de/en",
       "notes": [
         "Information Management"
@@ -440,8 +448,20 @@
       ]
     },
     {
+      "name": "International School of Management (ISM)",
+      "logo": "/assets/work/clients/ism-international-school-of-management.png",
+      "url": "https://ism.de/",
+      "notes": [
+        "Advisory Board for MBA and Masters studies"
+      ],
+      "country": [
+        "de",
+        "Germany"
+      ]
+    },
+    {
       "name": "TU Wien",
-      "logo": null,
+      "logo": "/assets/work/clients/tu-wien.png",
       "url": "https://www.tuwien.at/en/",
       "notes": [
         "Lecture series on networking"
@@ -453,7 +473,7 @@
     },
     {
       "name": "Universität St. Gallen",
-      "logo": null,
+      "logo": "/assets/work/clients/universitaet-st-gallen.png",
       "url": "https://www.unisg.ch/en/",
       "notes": [
         "Financial market theory"
@@ -461,6 +481,18 @@
       "country": [
         "ch",
         "Switzerland"
+      ]
+    },
+    {
+      "name": "Research and Innovation Foundation, Cyprus",
+      "logo": "/assets/work/clients/research-innovation-foundation-cyprus.png",
+      "url": "https://www.research.org.cy/en/",
+      "notes": [
+        "Evaluator for the national research funding agency"
+      ],
+      "country": [
+        "cy",
+        "Cyprus"
       ]
     }
   ],

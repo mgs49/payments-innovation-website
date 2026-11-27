@@ -262,3 +262,4 @@ strong, b { font-weight: 600; }
 .prose .logo-wall a, .alt .prose .logo-wall a { text-decoration: none; background-image: none; border-bottom: 0; box-shadow: none; }
 .logo-country { display: flex; align-items: center; justify-content: center; gap: 0.35rem; font-size: 0.78rem; color: var(--soft); }
 .logo-wall .logo-country img { width: 20px; height: 15px; max-height: none; border: 1px solid var(--line); }
+.logo-wall li.has-notes a { flex-direction: column; gap: 0.3rem; }
