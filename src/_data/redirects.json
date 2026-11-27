@@ -9,11 +9,11 @@
   },
   {
     "from": "/b2b-events/",
-    "to": "/events/"
+    "to": "/events/#b2b"
   },
   {
     "from": "/open-banking/",
-    "to": "/events/#masterclass"
+    "to": "/events/#open-banking"
   },
   {
     "from": "/consulting/",

@@ -7,6 +7,8 @@ templateEngineOverride: md
 
 Appearances in T.V, Radio, Podcasts and other media, This section is not including the [lectures](/lectures/) that were recorded or broadcast.
 
+Selected awards and nominations are listed under [public announcements](/announcements/).
+
 ------------------------------------------------------------------------
 
 ### Portrait Michael Salmony

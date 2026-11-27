@@ -5,7 +5,7 @@ permalink: "/boards/"
 templateEngineOverride: md
 ---
 
-Board positions, advisory boards, committees etc.
+Non-executive board positions, advisory boards, committees etc.
 
 ## Board positions
 
@@ -54,6 +54,8 @@ Board positions, advisory boards, committees etc.
 - Member of the Bank-IT advisory board for Handelsblatt, Germany
 
 ### Honours
+
+See also the selected [awards and nominations](/announcements/).
 
 - Freeman of the Worshipful Company of International Bankers
 - Fellow of the Royal Society for Arts, Manufactures and Commerce FRSA
