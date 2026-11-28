@@ -186,7 +186,7 @@ Live Webinar invitation by e-finance&paymentslaw&policy Cecile Park Publishing o
 
 [Video interview](https://www.youtube.com/watch?v=VVgnG0Uw-uI&feature=youtu.be) at Future of Payments, Amsterdam 2017. and [another](https://www.youtube.com/watch?v=lWi_7ZVDbd8): “PSD2 will change the world and unleash third party creativity in banking – interview Michael Salmony” with [blog](http://zelfsturing.it/psd2-will-change-the-world-and-unleash-third-party-creativity-banking-and-payments/) about my talk and scripted video interview
 
-Video of GSMA [High Level round table](https://www.youtube.com/watch?v=DHBvTCjdpuI) on FinTech, European Internet Forum, Brussels 2017  
+Video of GSMA High Level round table on FinTech, European Internet Forum, Brussels 2017  
 Invited by The Telegraph’s Director of Programming for a filmed thought leadership interview on “The Digital Transformation” on Blockchain not for Payments, Sept 2018
 
 Podcast with figo in [PaymentAndBanking](https://paymentandbanking.com/psd2-open-banking-und-was-kommt-danach-fintech-podcast-221/) on „Open Banking – looking beyond PSD2″  
@@ -236,7 +236,7 @@ Interview on book at [Fintech Decoded](https://www.youtube.com/@FinstepAsia) wit
 [LinkedIn](https://www.linkedin.com/posts/mirela-c-33781741_banking-tokenization-stablecoins-ugcPost-7472273535336542208-Q0ro/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)
 
 Subset of interview on book with [Finternet](https://www.linkedin.com/posts/dr-michael-salmony-on-his-new-book-published-ugcPost-7470025727174787072-XfaZ/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)  
-Full version of interview on [Tokenisation](https://www.youtube.com/watch?v=mahRic01BWA) with Finternet
+Full version of interview on Tokenisation with Finternet
 
 [Interview](https://fintechistanbul.org/2026/09/01/soylesi-michael-salmony-ile-tokenizasyon-ve-central-bank-payments-conference-2026-hakkinda/) at CR Istanbul about Tokenisation & book by Fintech Istanbul
 

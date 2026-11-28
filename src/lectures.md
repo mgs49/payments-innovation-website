@@ -1487,7 +1487,7 @@ and Panel “Identity management as potential business opportunity / business en
 **26-28.9.18**
 
 Inovation through Regulation – not a contradiction!?  
-Keynote, Mentor and Jury at equensWorldline Hackathon “The Future of Payments”, Paris – see [video](https://www.youtube.com/watch?v=NvqfigoiyFk&feature=youtu.be)
+Keynote, Mentor and Jury at equensWorldline Hackathon “The Future of Payments”, Paris – see video
 
 **26.9.18**
 
@@ -1698,7 +1698,7 @@ by personal invitation of the Executive Board of ECB and the Governor of the Ban
 
 Mobile/Fintech invitation-only breakfast on “the role of Mobile in the FinTech revolution”  
 by invitation of GSMA at their Brussels office near the European Parliament, with Member of Cabinet for Financial Stability, Financial Services and Capital Markets Union, European Commission, Head of Unit on Startups and Innovation DG CONNECT, DG FISMA, Member of Council of European Union and further business stakeholders and key regulatory stakeholders from the European institutions moderated by a Member of the European Parliament, Brussels  
-with video interview in European Internet Forum published by [GSMA](https://www.youtube.com/watch?v=DHBvTCjdpuI)
+with video interview in European Internet Forum published by GSMA
 
 **5.12.17**
 
@@ -2080,7 +2080,7 @@ Vortrag vor BVR EPC E-M-Payments ad hoc team, Berlin
 
 PSDII & Access to the Account Expert Session  
 with European Commission (DG Comp, DG Markt), ECB etc at [EPCA Payment Summit](http://www.transactives.com/onpayments/epcasummit/Program.aspx), Brussels, Belgium  
-Quoted twice in [video](https://www.youtube.com/watch?v=fBYWw8vnHnY&feature=youtu.be) interviews
+Quoted twice in video interviews
 
 **13.-14.3.14**
 
