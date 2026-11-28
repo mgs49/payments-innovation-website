@@ -9,11 +9,11 @@
   },
   {
     "from": "/b2b-events/",
-    "to": "/training/#b2b"
+    "to": "/programmes/#b2b"
   },
   {
     "from": "/open-banking/",
-    "to": "/training/#open-banking"
+    "to": "/programmes/#open-banking"
   },
   {
     "from": "/consulting/",
@@ -29,6 +29,10 @@
   },
   {
     "from": "/events/",
-    "to": "/training/"
+    "to": "/programmes/"
+  },
+  {
+    "from": "/training/",
+    "to": "/programmes/"
   }
 ]

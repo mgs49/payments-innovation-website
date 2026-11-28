@@ -6,7 +6,7 @@
     { "label": "Lectures", "url": "/lectures/" },
     { "label": "Publications", "url": "/publications/" },
     { "label": "Media", "url": "/media/" },
-    { "label": "Training", "url": "/training/" },
+    { "label": "Programmes", "url": "/programmes/" },
     { "label": "Contact", "url": "/contact/" }
   ]
 }
