@@ -1,7 +1,7 @@
 ---
-title: "Media"
+title: "Videos"
 layout: page.njk
-permalink: "/media/"
+permalink: "/videos/"
 templateEngineOverride: md
 ---
 

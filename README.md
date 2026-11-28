@@ -24,7 +24,7 @@ Claude edits the file, saves it to GitHub, and the live site updates by itself a
 | Boards | `src/boards.md` |
 | Lectures, older lectures | `src/lectures.md`, `src/lectures/` |
 | Publications, older publications | `src/publications.md`, `src/publications/` |
-| Media, with the videos | `src/media.md`, videos in `src/assets/video/` |
+| Videos (formerly Media) | `src/videos.md`, videos in `src/assets/video/` |
 | Programmes (masterclasses, China study tour, Transaction Innovation Forum) | `src/programmes.njk`, files in `src/assets/events/` |
 | Announcements (awards and nominations) | `src/_data/announcements.json` |
 | Clients and partners | `src/_data/clients.json`, logos in `src/assets/work/clients/` |

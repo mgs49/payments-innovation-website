@@ -5,7 +5,7 @@
     { "label": "Boards", "url": "/boards/" },
     { "label": "Lectures", "url": "/lectures/" },
     { "label": "Publications", "url": "/publications/" },
-    { "label": "Media", "url": "/media/" },
+    { "label": "Videos", "url": "/videos/" },
     { "label": "Programmes", "url": "/programmes/" },
     { "label": "Contact", "url": "/contact/" }
   ]
