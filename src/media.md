@@ -9,6 +9,8 @@ Appearances in T.V, Radio, Podcasts and other media, This section is not includi
 
 Selected awards and nominations are listed under [public announcements](/announcements/).
 
+More recordings are on his [YouTube channel](https://www.youtube.com/@salmony), sorted into [keynotes and talks](https://www.youtube.com/playlist?list=PLcToBWatVOI0), [interviews and webinars](https://www.youtube.com/playlist?list=PLHXe-d_SQbEc), [APC HardTalks and round tables](https://www.youtube.com/playlist?list=PLWzzH23nzgyo) and [short clips](https://www.youtube.com/playlist?list=PLVpdj-44jvXQ).
+
 ------------------------------------------------------------------------
 
 ### Portrait Michael Salmony
@@ -64,6 +66,24 @@ Chair of executive banking panel on “Technology - a threat and an opportunity?
 Talk at New Scientist Live, the science festival with an audience of 40,000, London, October 2019 (recording by Worldline)
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=_-38Q_FAN0Q" data-yt="_-38Q_FAN0Q" title="“The End of Money”, New Scientist Live 2019"><img src="/assets/video/yt/nsl-2019-end-of-money-full.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: “The End of Money”, New Scientist Live 2019</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### CBDC and Digital Currencies, Payments Nordics, June 2022
+
+Closing speech on “CBDC and Digital Currencies” at Payments Nordics, 28th June 2022, where he also chaired the event
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=OXW94WJ3RbM" data-yt="OXW94WJ3RbM" title="CBDC and Digital Currencies, Payments Nordics 2022"><img src="/assets/video/yt/payments-nordics-cbdc-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: CBDC and Digital Currencies, Payments Nordics 2022</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### The European data market - regulation and incentives, OpenX, 2022
+
+Interview for OpenX / OpenFuture on the European data market, its regulation and the incentives for sharing data
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=JnrXUnwEBSY" data-yt="JnrXUnwEBSY" title="The European data market, OpenX 2022"><img src="/assets/video/yt/openx-european-data-market-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: The European data market, OpenX 2022</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### Open Banking in mainland Europe, Saïd Business School, Oxford, 2021
+
+Why and how mainland Europe implemented Open Banking, what sets it apart from other jurisdictions and where it is heading, recorded for the Oxford AI in Fintech and Open Banking Programme, August 2021
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=SWXjFIKI7sk" data-yt="SWXjFIKI7sk" title="Open Banking in mainland Europe, Oxford 2021"><img src="/assets/video/yt/oxford-open-banking-europe-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Open Banking in mainland Europe, Oxford 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
 
 ### Interview on PSD2, Amsterdam 2017
 
@@ -227,4 +247,4 @@ Host of [The Payments Trilogue](https://www.youtube.com/@ThePaymentsTrilogue) p
 
 Host of the ETPPA video interview series [“Everything FinTech”](https://www.youtube.com/@etppa_channel) on YouTube, with guests from the ECB, the World Bank, EPI, the Berlin Group, Tink, Trustly, Form3 and others
 
-Member of the Asia Payments Connect (APC) Global Expert Council: host of the [APC HardTalks](https://asiapaymentsconnect.com/interviews-blogs/) and moderator of APC expert round tables, 2020-21, with guests such as the CEO of Jumio, Bo Harald, SAS, Ekata and Paul Brisk, on Open Banking, digital identity, data governance, CBDC and ISO 20022
+Member of the Asia Payments Connect (APC) Global Expert Council: host of the APC HardTalks and moderator of APC expert round tables, 2020-21 ([recordings on YouTube](https://www.youtube.com/playlist?list=PLWzzH23nzgyo), [APC site](https://asiapaymentsconnect.com/interviews-blogs/)), with guests such as the CEO of Jumio, Bo Harald, SAS, Ekata and Paul Brisk, on Open Banking, digital identity, data governance, CBDC and ISO 20022

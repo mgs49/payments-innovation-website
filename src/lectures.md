@@ -783,7 +783,7 @@ Opening day keynote TED talk on “From Finance-TPPs (Fintechs) to Everything-TP
 
   
 See [recording](https://web.archive.org/web/20230321070516/https://openfuture.world/view/from-finance-tpps-to-everything-tpps/) of talk here  
-See [interview on EU Data Market](https://www.youtube.com/watch?v=fii940tS7RI&ab_channel=OpenFutureWorld) here as [promoted](https://web.archive.org/web/20230326043355/https://openfuture.world/view/the-european-data-market-regulation-and-incentives/) by OpenX
+See [interview on EU Data Market](https://www.youtube.com/watch?v=JnrXUnwEBSY) here as [promoted](https://web.archive.org/web/20230326043355/https://openfuture.world/view/the-european-data-market-regulation-and-incentives/) by OpenX
 
 </p>
 
