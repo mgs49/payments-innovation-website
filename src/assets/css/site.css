@@ -288,3 +288,8 @@ strong, b { font-weight: 600; }
 .clips-vertical { grid-template-columns: repeat(auto-fill, minmax(9rem, 12rem)); }
 .clips:not(.clips-vertical) .video-own { aspect-ratio: 16 / 9; object-fit: contain; }
 @media (max-width: 40rem) { .gallery-small { grid-template-columns: repeat(2, 1fr); gap: 0.8rem; } .clips-vertical { grid-template-columns: repeat(2, 1fr); } }
+.follow { display: flex; flex-wrap: wrap; gap: 0.6rem; margin: 0 0 1.2rem; max-width: 100% !important; }
+.follow a { display: inline-flex; width: 2.75rem; height: 2.75rem; align-items: center; justify-content: center; background: var(--navy, #1f3864); border-radius: 0.25rem; }
+.follow a:hover, .follow a:focus-visible { background: var(--gold, #f5b400); }
+.follow svg { width: 1.5rem; height: 1.5rem; fill: #fff; }
+.prose .follow a { text-decoration: none; border: 0; }
