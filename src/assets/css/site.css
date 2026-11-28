@@ -274,3 +274,17 @@ strong, b { font-weight: 600; }
 .logo-wall li.has-notes .logo-notes { margin-top: 0.55rem; }
 .logo-wall li.has-notes .logo-name + * { margin-top: 0; }
 .logo-wall-next { margin-top: -0.5rem !important; }
+/* Media page galleries (29th November 2026) */
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr)); gap: 1.2rem 1.2rem; max-width: 100% !important; margin-bottom: 2rem; }
+.gallery figure { margin: 0; }
+.gallery .video { margin-bottom: 0; }
+.gallery figcaption { font-size: 0.9rem; line-height: 1.35; margin-top: 0.35rem; }
+.gallery .video-own { aspect-ratio: 16 / 9; object-fit: contain; }
+.gallery-small { grid-template-columns: repeat(auto-fill, minmax(10.5rem, 1fr)); gap: 1rem; }
+.gallery-small figcaption { font-size: 0.82rem; }
+.gallery .yt-play { width: 3rem; height: 2.1rem; margin: -1.05rem 0 0 -1.5rem; }
+.gallery .yt-play::after { transform: scale(0.75); }
+.gallery .yt-note { font-size: 0.7rem; padding: 0.1rem 0.45rem; }
+.clips-vertical { grid-template-columns: repeat(auto-fill, minmax(9rem, 12rem)); }
+.clips:not(.clips-vertical) .video-own { aspect-ratio: 16 / 9; object-fit: contain; }
+@media (max-width: 40rem) { .gallery-small { grid-template-columns: repeat(2, 1fr); gap: 0.8rem; } .clips-vertical { grid-template-columns: repeat(2, 1fr); } }

@@ -9,23 +9,23 @@ Appearances in T.V, Radio, Podcasts and other media, This section is not includi
 
 <nav aria-label="Jump to section" class="years">
 
-[Keynotes and talks](#keynotes) [Interviews and webinars](#interviews) [APC HardTalks and round tables](#apc) [Short clips](#clips) [Press, radio, TV and podcasts](#press)
+[Highlights](#highlights) [Keynotes and talks](#keynotes) [Interviews and webinars](#interviews) [APC HardTalks and round tables](#apc) [Short clips](#clips) [Press, radio, TV and podcasts](#press)
 
 </nav>
 
+<h2 id="highlights">Highlights</h2>
+
+<div class="gallery">
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=AE0BXH5KdOM" data-yt="AE0BXH5KdOM" title="European Parliament hearing, March 2016"><img src="/assets/video/european-parliament-hearing-2016.jpg" alt="" loading="lazy" width="640" height="360"><span class="yt-play">Play: European Parliament hearing, March 2016</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>European Parliament hearing, March 2016</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=bh9RFnCpVNE" data-yt="bh9RFnCpVNE" title="Salmony at ECB Conference 2017"><img src="/assets/video/salmony-ecb-conference-2017.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Salmony at ECB Conference 2017</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Salmony at ECB Conference 2017</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/portrait-michael-salmony.jpg" width="1280" height="720"><source src="/assets/video/portrait-michael-salmony.mp4" type="video/mp4"></video><figcaption>Portrait of Michael Salmony, Equens, 2014</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=_-38Q_FAN0Q" data-yt="_-38Q_FAN0Q" title="“The End of Money”, New Scientist Live 2019"><img src="/assets/video/yt/nsl-2019-end-of-money-full.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: “The End of Money”, New Scientist Live 2019</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>“The End of Money” at New Scientist Live, London, October 2019</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=_DoOGix1m94" data-yt="_DoOGix1m94" title="Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021"><img src="/assets/video/yt/mastercard-open-banking-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=CvpcvQlUF6s" data-yt="CvpcvQlUF6s" title="Technology panel at the EPC 20th Anniversary event, June 2022"><img src="/assets/video/yt/epc-20th-anniversary-panel-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Technology panel at the EPC 20th Anniversary event, June 2022</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Technology panel at the EPC 20th Anniversary event, June 2022</figcaption></figure>
+<figure id="istanbul-b2b-keynote"><div class="video yt"><a href="https://www.youtube.com/watch?v=6XFpVBKw7Mc" data-yt="6XFpVBKw7Mc" title="Keynote at the FinTech Istanbul B2B Connect Summit 2023"><img src="/assets/video/yt/fintech-istanbul-keynote-2023.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Keynote at the FinTech Istanbul B2B Connect Summit 2023</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Keynote at the FinTech Istanbul B2B Connect Summit, October 2023</figcaption></figure>
+</div>
+
 <h2 id="keynotes">Keynotes and talks</h2>
-
-<h3 id="istanbul-b2b-keynote">Keynote at the FinTech Istanbul B2B Connect Summit, October 2023</h3>
-
-Keynote at the FinTech Istanbul B2B Connect Summit, Istanbul, 13th October 2023 ([report by FinTech Istanbul](https://fintechistanbul.org/en/2023/10/02/financial-technology-world-is-coming-together-at-fintech-istanbul-b2b-connect-summit/))
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=6XFpVBKw7Mc" data-yt="6XFpVBKw7Mc" title="Keynote at the FinTech Istanbul B2B Connect Summit 2023"><img src="/assets/video/yt/fintech-istanbul-keynote-2023.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Keynote at the FinTech Istanbul B2B Connect Summit 2023</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### Technology panel at the EPC 20th Anniversary event, June 2022
-
-Chair of executive banking panel on “Technology - a threat and an opportunity?” with Google, Nexi, Banco Santander and BEUC at the European Payments Council’s 20th Anniversary event, Brussels
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=CvpcvQlUF6s" data-yt="CvpcvQlUF6s" title="Technology panel at the EPC 20th Anniversary event, June 2022"><img src="/assets/video/yt/epc-20th-anniversary-panel-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Technology panel at the EPC 20th Anniversary event, June 2022</span><span class="yt-note">Plays from YouTube</span></a></div>
 
 ### CBDC and Digital Currencies, Payments Nordics, June 2022
 
@@ -33,31 +33,11 @@ Closing speech on “CBDC and Digital Currencies” at Payments Nordics, 28th Ju
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=OXW94WJ3RbM" data-yt="OXW94WJ3RbM" title="CBDC and Digital Currencies, Payments Nordics 2022"><img src="/assets/video/yt/payments-nordics-cbdc-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: CBDC and Digital Currencies, Payments Nordics 2022</span><span class="yt-note">Plays from YouTube</span></a></div>
 
-### Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=_DoOGix1m94" data-yt="_DoOGix1m94" title="Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021"><img src="/assets/video/yt/mastercard-open-banking-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
-
 ### CBDC at BizzPay 9.0 Payments Forum, May 2021
 
 “CBDC – will the “mouton à cinq pattes” fly?”, BizzPay 9.0 Payments Forum, The Hague, 28th May 2021
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=iVl8K5Wfz-A" data-yt="iVl8K5Wfz-A" title="CBDC at BizzPay 9.0 Payments Forum, May 2021"><img src="/assets/video/yt/bizzpay-cbdc-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: CBDC at BizzPay 9.0 Payments Forum, May 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### “The End of Money” at New Scientist Live, London, October 2019
-
-Talk at New Scientist Live, the science festival with an audience of 40,000, London, October 2019 (recording by Worldline)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=_-38Q_FAN0Q" data-yt="_-38Q_FAN0Q" title="“The End of Money”, New Scientist Live 2019"><img src="/assets/video/yt/nsl-2019-end-of-money-full.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: “The End of Money”, New Scientist Live 2019</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### Salmony at ECB Conference 2017
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=bh9RFnCpVNE" data-yt="bh9RFnCpVNE" title="Salmony at ECB Conference 2017"><img src="/assets/video/salmony-ecb-conference-2017.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Salmony at ECB Conference 2017</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### European Parliament hearing, March 2016
-
-Salmony as Chair of Public Hearing on “How can we make the most of the opportunities presented by innovation?” for the European Commission’s Green Paper on Retail Financial Services with Lord Hill and 500 invited members at European Parliament March 2016
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=AE0BXH5KdOM" data-yt="AE0BXH5KdOM" title="European Parliament hearing, March 2016"><img src="/assets/video/european-parliament-hearing-2016.jpg" alt="" loading="lazy" width="640" height="360"><span class="yt-play">Play: European Parliament hearing, March 2016</span><span class="yt-note">Plays from YouTube</span></a></div>
 
 <h2 id="interviews">Interviews and webinars</h2>
 
@@ -95,53 +75,22 @@ Panel on the European Payments Initiative (EPI) with its CEO Martina Weimert and
 
 <video class="video-own" controls preload="none" poster="/assets/video/salmony-interview-amsterdam-2017.jpg" width="1280" height="720"><source src="/assets/video/salmony-interview-amsterdam-2017.mp4" type="video/mp4"></video>
 
-### Portrait of Michael Salmony, Equens, 2014
-
-<video class="video-own" controls preload="none" poster="/assets/video/portrait-michael-salmony.jpg" width="1280" height="720"><source src="/assets/video/portrait-michael-salmony.mp4" type="video/mp4"></video>
-
 <h2 id="apc">APC HardTalks and round tables</h2>
 
 As member of the Asia Payments Connect (APC) Global Expert Council, Michael Salmony hosted the APC HardTalks and moderated APC panels and expert round tables in 2020-21 ([APC site](https://asiapaymentsconnect.com/interviews-blogs/)).
 
-### APC HardTalk - Digital Identity: interconnecting many solutions or start anew? With Robert Prigge, CEO of Jumio, 2020 (7 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=gYuy131hnVw" data-yt="gYuy131hnVw" title="APC HardTalk with Robert Prigge, Jumio"><img src="/assets/video/yt/apc-hardtalk-prigge-jumio-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Robert Prigge, Jumio</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC HardTalk - Open Banking: regulator or market driven? With Paul Brisk, 2020 (13 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=UBP9O0uhKvc" data-yt="UBP9O0uhKvc" title="APC HardTalk with Paul Brisk"><img src="/assets/video/yt/apc-hardtalk-brisk-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Paul Brisk</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC HardTalk - Data governance, the magic wand for data wizards? With Kalliopi Spyridaki, SAS, 2020 (7 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=16TJX9gSaTU" data-yt="16TJX9gSaTU" title="APC HardTalk with Kalliopi Spyridaki, SAS"><img src="/assets/video/yt/apc-hardtalk-spyridaki-sas-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Kalliopi Spyridaki, SAS</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC HardTalk - What could be the role of banks in the digital economy? With Bo Harald, 2020 (6 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=yKuIKBDP3Fg" data-yt="yKuIKBDP3Fg" title="APC HardTalk with Bo Harald"><img src="/assets/video/yt/apc-hardtalk-harald-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Bo Harald</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC HardTalk with Tom Donlea, GM APAC of Ekata, 2021 (5 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=UvYQgIfNSM0" data-yt="UvYQgIfNSM0" title="APC HardTalk with Tom Donlea, Ekata"><img src="/assets/video/yt/apc-hardtalk-ekata-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Tom Donlea, Ekata</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC panel - Open Banking: has the pandemic accelerated adoption? 2021 (54 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=7RI7vhkGb-I" data-yt="7RI7vhkGb-I" title="APC panel on Open Banking and the pandemic"><img src="/assets/video/yt/apc-panel-pandemic-open-banking-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC panel on Open Banking and the pandemic</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC round table - The success of (and competition to) the 4-corner model in payments, 2021 (62 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=lsUFhbezjtI" data-yt="lsUFhbezjtI" title="APC round table on the 4-corner model"><img src="/assets/video/yt/apc-round-table-4-corner-model-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on the 4-corner model</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC round table - ISO 20022, 2021 (58 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=EBcgfSXJW3k" data-yt="EBcgfSXJW3k" title="APC round table on ISO 20022"><img src="/assets/video/yt/apc-round-table-iso-20022-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on ISO 20022</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC round table - Data Governance: the key to compete in a digitised financial services market, 2021 (80 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=OgJxzSleSSA" data-yt="OgJxzSleSSA" title="APC round table on data governance"><img src="/assets/video/yt/apc-round-table-data-governance-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on data governance</span><span class="yt-note">Plays from YouTube</span></a></div>
-
-### APC round table - CBDC: Why do we need another Euro, another Dollar? 2021 (71 minutes)
-
-<div class="video yt"><a href="https://www.youtube.com/watch?v=h3cj6njd5oM" data-yt="h3cj6njd5oM" title="APC round table on CBDC"><img src="/assets/video/yt/apc-round-table-cbdc-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on CBDC</span><span class="yt-note">Plays from YouTube</span></a></div>
+<div class="gallery gallery-small">
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=gYuy131hnVw" data-yt="gYuy131hnVw" title="APC HardTalk with Robert Prigge, Jumio"><img src="/assets/video/yt/apc-hardtalk-prigge-jumio-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Robert Prigge, Jumio</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>HardTalk: digital identity - Robert Prigge, Jumio (2020, 7 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=UBP9O0uhKvc" data-yt="UBP9O0uhKvc" title="APC HardTalk with Paul Brisk"><img src="/assets/video/yt/apc-hardtalk-brisk-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Paul Brisk</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>HardTalk: Open Banking, regulator or market driven? - Paul Brisk (2020, 13 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=16TJX9gSaTU" data-yt="16TJX9gSaTU" title="APC HardTalk with Kalliopi Spyridaki, SAS"><img src="/assets/video/yt/apc-hardtalk-spyridaki-sas-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Kalliopi Spyridaki, SAS</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>HardTalk: data governance - Kalliopi Spyridaki, SAS (2020, 7 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=yKuIKBDP3Fg" data-yt="yKuIKBDP3Fg" title="APC HardTalk with Bo Harald"><img src="/assets/video/yt/apc-hardtalk-harald-2020.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Bo Harald</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>HardTalk: the role of banks in the digital economy - Bo Harald (2020, 6 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=UvYQgIfNSM0" data-yt="UvYQgIfNSM0" title="APC HardTalk with Tom Donlea, Ekata"><img src="/assets/video/yt/apc-hardtalk-ekata-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC HardTalk with Tom Donlea, Ekata</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>HardTalk with Tom Donlea, Ekata (2021, 5 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=7RI7vhkGb-I" data-yt="7RI7vhkGb-I" title="APC panel on Open Banking and the pandemic"><img src="/assets/video/yt/apc-panel-pandemic-open-banking-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC panel on Open Banking and the pandemic</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Panel: has the pandemic accelerated Open Banking? (2021, 54 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=lsUFhbezjtI" data-yt="lsUFhbezjtI" title="APC round table on the 4-corner model"><img src="/assets/video/yt/apc-round-table-4-corner-model-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on the 4-corner model</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Round table: the 4-corner model in payments (2021, 62 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=EBcgfSXJW3k" data-yt="EBcgfSXJW3k" title="APC round table on ISO 20022"><img src="/assets/video/yt/apc-round-table-iso-20022-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on ISO 20022</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Round table: ISO 20022 (2021, 58 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=OgJxzSleSSA" data-yt="OgJxzSleSSA" title="APC round table on data governance"><img src="/assets/video/yt/apc-round-table-data-governance-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on data governance</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Round table: data governance (2021, 80 min)</figcaption></figure>
+<figure><div class="video yt"><a href="https://www.youtube.com/watch?v=h3cj6njd5oM" data-yt="h3cj6njd5oM" title="APC round table on CBDC"><img src="/assets/video/yt/apc-round-table-cbdc-2021.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: APC round table on CBDC</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Round table: CBDC - another euro, another dollar? (2021, 71 min)</figcaption></figure>
+</div>
 
 <h2 id="clips">Short clips</h2>
 
@@ -150,17 +99,20 @@ As member of the Asia Payments Connect (APC) Global Expert Council, Michael Salm
 <figure><video class="video-own" controls preload="none" poster="/assets/video/said-2024-ai-and-payments.jpg" width="640" height="360"><source src="/assets/video/said-2024-ai-and-payments.mp4" type="video/mp4"></video><figcaption>AI and payments - Saïd Business School, University of Oxford, 2024</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/said-2024-hackers-and-ai.jpg" width="640" height="360"><source src="/assets/video/said-2024-hackers-and-ai.mp4" type="video/mp4"></video><figcaption>Hackers and AI - Saïd Business School, University of Oxford, 2024</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/open-banking-teaser-turkey-2023.jpg" width="1280" height="720"><source src="/assets/video/open-banking-teaser-turkey-2023.mp4" type="video/mp4"></video><figcaption>Open Banking teaser for Turkey, 2023</figcaption></figure>
-<figure><video class="video-own" controls preload="none" poster="/assets/video/unlocking-data-2023.jpg" width="406" height="720"><source src="/assets/video/unlocking-data-2023.mp4" type="video/mp4"></video><figcaption>Unlocking data, 2023</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/payment-innovations-meet-e-invoicing-dubai-2023.jpg" width="1280" height="720"><source src="/assets/video/payment-innovations-meet-e-invoicing-dubai-2023.mp4" type="video/mp4"></video><figcaption>“Payment Innovations meet E-Invoicing”, preview of the closing speech at the E-Invoicing Exchange Summit, Dubai, February 2023</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/amsterdam-2022-video-talk.jpg" width="1280" height="720"><source src="/assets/video/amsterdam-2022-video-talk.mp4" type="video/mp4"></video><figcaption>Video talk for the Amsterdam Banking Forum, November 2022 (3 minutes)</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/cbdc-teaser-istanbul-tech-week-2022.jpg" width="1280" height="720"><source src="/assets/video/cbdc-teaser-istanbul-tech-week-2022.mp4" type="video/mp4"></video><figcaption>“CBDC - the future of money”, teaser for Istanbul Tech Week 2022</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/digital-finance-paycell-2022-teaser-1.jpg" width="1080" height="720"><source src="/assets/video/digital-finance-paycell-2022-teaser-1.mp4" type="video/mp4"></video><figcaption>Digital Finance seminar with Paycell/Turkcell, teaser 1, 2022</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/digital-finance-paycell-2022-teaser-2.jpg" width="1080" height="720"><source src="/assets/video/digital-finance-paycell-2022-teaser-2.mp4" type="video/mp4"></video><figcaption>Digital Finance seminar with Paycell/Turkcell, teaser 2, 2022</figcaption></figure>
-<figure><video class="video-own" controls preload="none" poster="/assets/video/apidays-2021-teaser.jpg" width="406" height="720"><source src="/assets/video/apidays-2021-teaser.mp4" type="video/mp4"></video><figcaption>Teaser for APIdays Helsinki 2021 on the surprising benefits of Open Banking</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/knife-money-to-digital-new-scientist-live-2019.jpg" width="640" height="480"><source src="/assets/video/knife-money-to-digital-new-scientist-live-2019.mp4" type="video/mp4"></video><figcaption>From knife money to digital, teaser for New Scientist Live 2019</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/end-of-money-new-scientist-live-2019.jpg" width="640" height="480"><source src="/assets/video/end-of-money-new-scientist-live-2019.mp4" type="video/mp4"></video><figcaption>“The End of Money”, teaser for New Scientist Live 2019</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/open-finance-game-changer-mena-2022.jpg" width="1280" height="720"><source src="/assets/video/open-finance-game-changer-mena-2022.mp4" type="video/mp4"></video><figcaption>“Open finance – a game-changer for the financial services industry”, MENA Open Finance Innovation Forum 2022</figcaption></figure>
 <figure><div class="video yt"><a href="https://www.youtube.com/watch?v=p_JtILY4NJ8" data-yt="p_JtILY4NJ8" title="“The End of Money”, New Scientist Live 2019 (1 minute)"><img src="/assets/video/yt/nsl-2019-end-of-money-clip.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: “The End of Money”, New Scientist Live 2019 (1 minute)</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>“The End of Money”, New Scientist Live 2019 (1 minute)</figcaption></figure>
+</div>
+
+<div class="clips clips-vertical">
+<figure><video class="video-own" controls preload="none" poster="/assets/video/unlocking-data-2023.jpg" width="406" height="720"><source src="/assets/video/unlocking-data-2023.mp4" type="video/mp4"></video><figcaption>Unlocking data, 2023</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/apidays-2021-teaser.jpg" width="406" height="720"><source src="/assets/video/apidays-2021-teaser.mp4" type="video/mp4"></video><figcaption>Teaser for APIdays Helsinki 2021 on the surprising benefits of Open Banking</figcaption></figure>
 </div>
 
 <h2 id="press">Press, radio, TV and podcasts</h2>
