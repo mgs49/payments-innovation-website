@@ -235,8 +235,7 @@ Interview on book at [Fintech Decoded](https://www.youtube.com/@FinstepAsia) wit
 [Article](https://thepaypers.com/crypto-web3-and-cbdc/interviews/stablecoins-cbdcs-and-tokenised-deposits-the-new-playbook-for-financial-institutions) and [Webinar](https://www.youtube.com/watch?v=RN1HiZnfbBc&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fthepaypers.com%2F) with co-editors on the book at The Paypers  
 [LinkedIn](https://www.linkedin.com/posts/mirela-c-33781741_banking-tokenization-stablecoins-ugcPost-7472273535336542208-Q0ro/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)
 
-Subset of interview on book with [Finternet](https://www.linkedin.com/posts/dr-michael-salmony-on-his-new-book-published-ugcPost-7470025727174787072-XfaZ/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)  
-Full version of interview on Tokenisation with Finternet
+Subset of interview on book with [Finternet](https://www.linkedin.com/posts/dr-michael-salmony-on-his-new-book-published-ugcPost-7470025727174787072-XfaZ/?utm_source=share&utm_medium=member_ios&rcm=ACoAAACtqB4BWhjRNUzjWjzD423gigMJLhHB5AU)
 
 [Interview](https://fintechistanbul.org/2026/09/01/soylesi-michael-salmony-ile-tokenizasyon-ve-central-bank-payments-conference-2026-hakkinda/) at CR Istanbul about Tokenisation & book by Fintech Istanbul
 
