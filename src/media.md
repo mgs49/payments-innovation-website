@@ -21,7 +21,7 @@ Interviewed at Saïd Business School, University of Oxford, on Open Banking, Ope
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=fAfjzIb-D_M" data-yt="fAfjzIb-D_M" title="Interview at Saïd Business School, Oxford, 2024"><img src="/assets/video/yt/said-oxford-interview-2024.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Interview at Saïd Business School, Oxford, 2024</span><span class="yt-note">Plays from YouTube</span></a></div>
 
-### Keynote at the FinTech Istanbul B2B Connect Summit, October 2023
+<h3 id="istanbul-b2b-keynote">Keynote at the FinTech Istanbul B2B Connect Summit, October 2023</h3>
 
 Keynote at the FinTech Istanbul B2B Connect Summit, Istanbul, 13th October 2023 ([report by FinTech Istanbul](https://fintechistanbul.org/en/2023/10/02/financial-technology-world-is-coming-together-at-fintech-istanbul-b2b-connect-summit/))
 

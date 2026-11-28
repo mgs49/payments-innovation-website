@@ -9,11 +9,11 @@
   },
   {
     "from": "/b2b-events/",
-    "to": "/events/#b2b"
+    "to": "/training/#b2b"
   },
   {
     "from": "/open-banking/",
-    "to": "/events/#open-banking"
+    "to": "/training/#open-banking"
   },
   {
     "from": "/consulting/",
@@ -26,5 +26,9 @@
   {
     "from": "/jdb-cbdc/",
     "to": "/publications/#digital-euro"
+  },
+  {
+    "from": "/events/",
+    "to": "/training/"
   }
 ]
