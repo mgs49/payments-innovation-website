@@ -9,7 +9,7 @@ Appearances in T.V, Radio, Podcasts and other media, This section is not includi
 
 <nav aria-label="Jump to section" class="years">
 
-[Sample highlights](#highlights) [Sample keynotes and talks](#keynotes) [Sample interviews and webinars](#interviews) [APC HardTalks and round tables](#apc) [ETPPA interviews](#etppa) [The Payments Trilogue](#tpt) [Short clips](#clips) [Further press, radio, TV and podcasts](#press)
+[Sample highlights](#highlights) [Sample talks, interviews and webinars](#talks) [APC HardTalks and round tables](#apc) [ETPPA interviews](#etppa) [The Payments Trilogue](#tpt) [Short clips](#clips) [Further press, radio, TV and podcasts](#press)
 
 </nav>
 
@@ -25,16 +25,11 @@ Appearances in T.V, Radio, Podcasts and other media, This section is not includi
 <figure id="istanbul-b2b-keynote"><div class="video yt"><a href="https://www.youtube.com/watch?v=6XFpVBKw7Mc" data-yt="6XFpVBKw7Mc" title="Keynote at the FinTech Istanbul B2B Connect Summit, October 2023"><img src="/assets/video/yt/fintech-istanbul-keynote-2023.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Keynote at the FinTech Istanbul B2B Connect Summit, October 2023</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Keynote at the FinTech Istanbul B2B Connect Summit, October 2023 (16 min)</figcaption></figure>
 </div>
 
-<h2 id="keynotes">Sample keynotes and talks</h2>
+<h2 id="talks">Sample talks, interviews and webinars</h2>
 
 <div class="gallery">
 <figure><div class="video yt"><a href="https://www.youtube.com/watch?v=OXW94WJ3RbM" data-yt="OXW94WJ3RbM" title="Closing speech on CBDC and Digital Currencies, Payments Nordics, June 2022"><img src="/assets/video/yt/payments-nordics-cbdc-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Closing speech on CBDC and Digital Currencies, Payments Nordics, June 2022</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Closing speech on CBDC and Digital Currencies, Payments Nordics, June 2022 (45 min)</figcaption></figure>
 <figure><div class="video yt"><a href="https://www.youtube.com/watch?v=iVl8K5Wfz-A" data-yt="iVl8K5Wfz-A" title="“CBDC - will the mouton à cinq pattes fly?”, BizzPay 9.0 Payments Forum, The Hague, May 2021"><img src="/assets/video/yt/bizzpay-cbdc-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: “CBDC - will the mouton à cinq pattes fly?”, BizzPay 9.0 Payments Forum, The Hague, May 2021</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>“CBDC - will the mouton à cinq pattes fly?”, BizzPay 9.0 Payments Forum, The Hague, May 2021 (36 min)</figcaption></figure>
-</div>
-
-<h2 id="interviews">Sample interviews and webinars</h2>
-
-<div class="gallery">
 <figure><div class="video yt"><a href="https://www.youtube.com/watch?v=fAfjzIb-D_M" data-yt="fAfjzIb-D_M" title="Interview at Saïd Business School, University of Oxford, on Open Banking, Open Finance and AI, 2024"><img src="/assets/video/yt/said-oxford-interview-2024.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Interview at Saïd Business School, University of Oxford, on Open Banking, Open Finance and AI, 2024</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>Interview at Saïd Business School, University of Oxford, on Open Banking, Open Finance and AI, 2024 (5 min)</figcaption></figure>
 <figure><div class="video yt"><a href="https://www.youtube.com/watch?v=WLu5VbCPvws" data-yt="WLu5VbCPvws" title="“Open Banking for B2B: Maximising data for corporates”, Finextra webinar with Isabel/Ponto and BNY Mellon, December 2023"><img src="/assets/video/yt/finextra-ponto-open-banking-b2b-2023.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: “Open Banking for B2B: Maximising data for corporates”, Finextra webinar with Isabel/Ponto and BNY Mellon, December 2023</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>“Open Banking for B2B: Maximising data for corporates”, Finextra webinar with Isabel/Ponto and BNY Mellon, December 2023 (62 min)</figcaption></figure>
 <figure><div class="video yt"><a href="https://www.youtube.com/watch?v=JnrXUnwEBSY" data-yt="JnrXUnwEBSY" title="The European data market - regulation and incentives, interview for OpenX, 2022"><img src="/assets/video/yt/openx-european-data-market-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: The European data market - regulation and incentives, interview for OpenX, 2022</span><span class="yt-note">Plays from YouTube</span></a></div><figcaption>The European data market - regulation and incentives, interview for OpenX, 2022 (6 min)</figcaption></figure>
