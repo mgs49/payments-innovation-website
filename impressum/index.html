@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="en-GB" class="alt">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Impressum - Payments Innovation Consulting</title>
+
+
+
+<link rel="icon" href="/payments-innovation-website/assets/img/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Payments Innovation Consulting">
+<meta property="og:title" content="Impressum - Payments Innovation Consulting">
+<meta property="og:description" content="Payments Innovation Consulting, Dr Michael Salmony: regulation and technology-driven digital finance innovation - Payments, FinTech, Digital and Tokenised Money, Open Finance and AI in financial services.">
+<meta property="og:url" content="https://payments-innovation.com/impressum/">
+<meta property="og:image" content="https://payments-innovation.com/assets/img/link-preview.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Payments Innovation Consulting - Regulation and technology-driven digital finance innovation">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="/payments-innovation-website/assets/css/site.css">
+<link rel="stylesheet" href="/payments-innovation-website/assets/css/alt.css">
+</head>
+<body id="top">
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-row">
+    <a class="brand" href="/payments-innovation-website/">
+      <span class="brand-name">Payments Innovation Consulting</span>
+      <span class="brand-tag">Dr Michael Salmony</span>
+    </a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="/payments-innovation-website/profile/">Profile</a></li>
+        <li><a href="/payments-innovation-website/clients/">Clients</a></li>
+        <li><a href="/payments-innovation-website/boards/">Boards</a></li>
+        <li><a href="/payments-innovation-website/lectures/">Lectures</a></li>
+        <li><a href="/payments-innovation-website/publications/">Publications</a></li>
+        <li><a href="/payments-innovation-website/videos/">Videos</a></li>
+        <li><a href="/payments-innovation-website/programmes/">Programmes</a></li>
+        <li><a href="/payments-innovation-website/contact/">Contact</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+<article class="page has-head">
+  <header class="page-head">
+    <div class="wrap">
+      <h1>Impressum</h1><p class="lede">Legal notice</p>
+    </div>
+  </header>
+  <div class="wrap">
+    <div class="prose">
+<p>Information according to § 5 DDG (German Digital Services Act)</p>
+<p><strong>Payments Innovation Consulting</strong><br>
+Dr Michael Salmony<br>
+Germany and London</p>
+<p><strong>Contact</strong><br>
+E-mail: <span class="mail" data-subject="Contact via the PIC homepage" data-u="eciffo" data-d="gnitlusnoc.noitavonnistnemyap">office (at) paymentsinnovation (dot) consulting</span></p>
+<p><strong>VAT identification number</strong> according to § 27a of the German VAT Act (Umsatzsteuergesetz)<br>
+DE316962182</p>
+<p><strong>Responsible for the content</strong><br>
+Dr Michael Salmony (address as above)</p>
+<h2>Liability for content and links</h2>
+<p>The content of this site has been prepared with care. No liability is accepted for its accuracy, completeness or currency. This site contains links to external websites over whose content we have no influence; the respective provider is always responsible for the content of linked pages.</p>
+<h2>Copyright</h2>
+<p>Texts, images and documents on this site may not be reproduced without permission. Logos shown on the clients page are the property of their respective owners.</p>
+
+    </div>
+  </div>
+</article>
+
+</main>
+<footer class="site-footer">
+  <div class="wrap footer-row">
+    <p>Payments Innovation Consulting</p>
+    <ul>
+      <li><a href="https://www.linkedin.com/in/salmony" rel="me noopener" target="_blank">LinkedIn</a></li>
+      <li><a href="/payments-innovation-website/contact/">Contact</a></li>
+      <li><a href="/payments-innovation-website/impressum/">Impressum</a></li>
+      <li><a href="/payments-innovation-website/privacy-policy/">Privacy policy</a></li>
+    </ul>
+  </div>
+</footer>
+<script>
+/* E-mail addresses are put together in the browser, so that address-collecting robots reading the page source do not find them. */
+document.querySelectorAll(".mail").forEach(function (e) {
+  var r = function (t) { return t.split("").reverse().join(""); };
+  var a = r(e.getAttribute("data-u")) + "@" + r(e.getAttribute("data-d"));
+  var s = e.getAttribute("data-subject");
+  var l = document.createElement("a"); l.href = "mailto:" + a + (s ? "?subject=" + encodeURIComponent(s) : ""); l.textContent = a;
+  e.replaceWith(l);
+});
+</script>
+<script>
+/* YouTube videos: a still picture until the visitor presses play; only then is the player loaded. */
+document.addEventListener("click", function (e) {
+  var a = e.target.closest && e.target.closest("a[data-yt]"); if (!a) return;
+  e.preventDefault();
+  var f = document.createElement("iframe");
+  f.src = "https://www.youtube-nocookie.com/embed/" + a.getAttribute("data-yt") + "?autoplay=1";
+  f.title = a.getAttribute("title") || "Video";
+  f.allow = "autoplay; encrypted-media; picture-in-picture; fullscreen";
+  f.allowFullscreen = true;
+  a.parentNode.replaceChild(f, a);
+});
+</script>
+<a href="#top" class="to-top" id="to-top">&uarr; Top</a>
+<script>
+/* "Top" button: shown after scrolling down, scrolls back to the top of the page. */
+(function () {
+  var b = document.getElementById("to-top");
+  function f() { b.classList.toggle("show", window.scrollY > 800); }
+  window.addEventListener("scroll", f, { passive: true }); f();
+  b.addEventListener("click", function (ev) { ev.preventDefault(); window.scrollTo({ top: 0, behavior: "smooth" }); });
+})();
+</script>
+</body>
+</html>
