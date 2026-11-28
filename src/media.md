@@ -59,6 +59,12 @@ Chair of executive banking panel on “Technology - a threat and an opportunity?
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=iVl8K5Wfz-A" data-yt="iVl8K5Wfz-A" title="CBDC at BizzPay 9.0 Payments Forum, May 2021"><img src="/assets/video/yt/bizzpay-cbdc-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: CBDC at BizzPay 9.0 Payments Forum, May 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
 
+### “The End of Money” at New Scientist Live, London, October 2019
+
+Talk at New Scientist Live, the science festival with an audience of 40,000, London, October 2019 (recording by Worldline)
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=_-38Q_FAN0Q" data-yt="_-38Q_FAN0Q" title="“The End of Money”, New Scientist Live 2019"><img src="/assets/video/yt/nsl-2019-end-of-money-full.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: “The End of Money”, New Scientist Live 2019</span><span class="yt-note">Plays from YouTube</span></a></div>
+
 ### Interview on PSD2, Amsterdam 2017
 
 <video class="video-own" controls preload="none" poster="/assets/video/salmony-interview-amsterdam-2017.jpg" width="1280" height="720"><source src="/assets/video/salmony-interview-amsterdam-2017.mp4" type="video/mp4"></video>
@@ -72,6 +78,7 @@ Chair of executive banking panel on “Technology - a threat and an opportunity?
 <figure><video class="video-own" controls preload="none" poster="/assets/video/open-banking-teaser-turkey-2023.jpg" width="1280" height="720"><source src="/assets/video/open-banking-teaser-turkey-2023.mp4" type="video/mp4"></video><figcaption>Open Banking teaser for Turkey, 2023</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/unlocking-data-2023.jpg" width="406" height="720"><source src="/assets/video/unlocking-data-2023.mp4" type="video/mp4"></video><figcaption>Unlocking data, 2023</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/payment-innovations-meet-e-invoicing-dubai-2023.jpg" width="1280" height="720"><source src="/assets/video/payment-innovations-meet-e-invoicing-dubai-2023.mp4" type="video/mp4"></video><figcaption>“Payment Innovations meet E-Invoicing”, preview of the closing speech at the E-Invoicing Exchange Summit, Dubai, February 2023</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/amsterdam-2022-video-talk.jpg" width="1280" height="720"><source src="/assets/video/amsterdam-2022-video-talk.mp4" type="video/mp4"></video><figcaption>Video talk for Amsterdam, November 2022 (3 minutes)</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/cbdc-teaser-istanbul-tech-week-2022.jpg" width="1280" height="720"><source src="/assets/video/cbdc-teaser-istanbul-tech-week-2022.mp4" type="video/mp4"></video><figcaption>“CBDC - the future of money”, teaser for Istanbul Tech Week 2022</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/digital-finance-paycell-2022-teaser-1.jpg" width="1080" height="720"><source src="/assets/video/digital-finance-paycell-2022-teaser-1.mp4" type="video/mp4"></video><figcaption>Digital Finance seminar with Paycell/Turkcell, teaser 1, 2022</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/digital-finance-paycell-2022-teaser-2.jpg" width="1080" height="720"><source src="/assets/video/digital-finance-paycell-2022-teaser-2.mp4" type="video/mp4"></video><figcaption>Digital Finance seminar with Paycell/Turkcell, teaser 2, 2022</figcaption></figure>
