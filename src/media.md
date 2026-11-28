@@ -43,9 +43,21 @@ Chair of executive banking panel on “Technology - a threat and an opportunity?
 
 <div class="video yt"><a href="https://www.youtube.com/watch?v=CvpcvQlUF6s" data-yt="CvpcvQlUF6s" title="Technology panel at the EPC 20th Anniversary event, June 2022"><img src="/assets/video/yt/epc-20th-anniversary-panel-2022.jpg" alt="" loading="lazy" width="960" height="540"><span class="yt-play">Play: Technology panel at the EPC 20th Anniversary event, June 2022</span><span class="yt-note">Plays from YouTube</span></a></div>
 
-### Fireside chat on Open Banking, Mastercard LAC Innovation Forum, 2021
+### Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021
 
-<div class="video yt"><a href="https://www.youtube.com/watch?v=_DoOGix1m94" data-yt="_DoOGix1m94" title="Fireside chat on Open Banking, Mastercard LAC Innovation Forum, 2021"><img src="/assets/video/yt/mastercard-open-banking-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: Fireside chat on Open Banking, Mastercard LAC Innovation Forum, 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
+<div class="video yt"><a href="https://www.youtube.com/watch?v=_DoOGix1m94" data-yt="_DoOGix1m94" title="Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021"><img src="/assets/video/yt/mastercard-open-banking-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: Fireside chat on Open Banking, Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### Panel on Open Banking for B2B, Finextra webinar, December 2023
+
+“Open Banking for B2B: Maximising data for corporates”, Finextra webinar organised by Isabel/Ponto with BNY Mellon, 12th December 2023
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=WLu5VbCPvws" data-yt="WLu5VbCPvws" title="Open Banking for B2B, Finextra webinar, December 2023"><img src="/assets/video/yt/finextra-ponto-open-banking-b2b-2023.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: Open Banking for B2B, Finextra webinar, December 2023</span><span class="yt-note">Plays from YouTube</span></a></div>
+
+### CBDC at BizzPay 9.0 Payments Forum, May 2021
+
+“CBDC – will the “mouton à cinq pattes” fly?”, BizzPay 9.0 Payments Forum, The Hague, 28th May 2021
+
+<div class="video yt"><a href="https://www.youtube.com/watch?v=iVl8K5Wfz-A" data-yt="iVl8K5Wfz-A" title="CBDC at BizzPay 9.0 Payments Forum, May 2021"><img src="/assets/video/yt/bizzpay-cbdc-2021.jpg" alt="" loading="lazy" width="480" height="270"><span class="yt-play">Play: CBDC at BizzPay 9.0 Payments Forum, May 2021</span><span class="yt-note">Plays from YouTube</span></a></div>
 
 ### Interview on PSD2, Amsterdam 2017
 
@@ -54,6 +66,17 @@ Chair of executive banking panel on “Technology - a threat and an opportunity?
 ### Short clips
 
 <div class="clips">
+<figure><video class="video-own" controls preload="none" poster="/assets/video/said-2024-open-banking-like-iphone.jpg" width="1280" height="720"><source src="/assets/video/said-2024-open-banking-like-iphone.mp4" type="video/mp4"></video><figcaption>Open Banking is like the iPhone - Saïd Business School, University of Oxford, 2024</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/said-2024-ai-and-payments.jpg" width="640" height="360"><source src="/assets/video/said-2024-ai-and-payments.mp4" type="video/mp4"></video><figcaption>AI and payments - Saïd Business School, University of Oxford, 2024</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/said-2024-hackers-and-ai.jpg" width="640" height="360"><source src="/assets/video/said-2024-hackers-and-ai.mp4" type="video/mp4"></video><figcaption>Hackers and AI - Saïd Business School, University of Oxford, 2024</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/open-banking-teaser-turkey-2023.jpg" width="1280" height="720"><source src="/assets/video/open-banking-teaser-turkey-2023.mp4" type="video/mp4"></video><figcaption>Open Banking teaser for Turkey, 2023</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/unlocking-data-2023.jpg" width="406" height="720"><source src="/assets/video/unlocking-data-2023.mp4" type="video/mp4"></video><figcaption>Unlocking data, 2023</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/payment-innovations-meet-e-invoicing-dubai-2023.jpg" width="1280" height="720"><source src="/assets/video/payment-innovations-meet-e-invoicing-dubai-2023.mp4" type="video/mp4"></video><figcaption>“Payment Innovations meet E-Invoicing”, preview of the closing speech at the E-Invoicing Exchange Summit, Dubai, February 2023</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/cbdc-teaser-istanbul-tech-week-2022.jpg" width="1280" height="720"><source src="/assets/video/cbdc-teaser-istanbul-tech-week-2022.mp4" type="video/mp4"></video><figcaption>“CBDC - the future of money”, teaser for Istanbul Tech Week 2022</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/digital-finance-paycell-2022-teaser-1.jpg" width="1080" height="720"><source src="/assets/video/digital-finance-paycell-2022-teaser-1.mp4" type="video/mp4"></video><figcaption>Digital Finance seminar with Paycell/Turkcell, teaser 1, 2022</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/digital-finance-paycell-2022-teaser-2.jpg" width="1080" height="720"><source src="/assets/video/digital-finance-paycell-2022-teaser-2.mp4" type="video/mp4"></video><figcaption>Digital Finance seminar with Paycell/Turkcell, teaser 2, 2022</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/apidays-2021-teaser.jpg" width="406" height="720"><source src="/assets/video/apidays-2021-teaser.mp4" type="video/mp4"></video><figcaption>Teaser for APIdays Helsinki 2021 on the surprising benefits of Open Banking</figcaption></figure>
+<figure><video class="video-own" controls preload="none" poster="/assets/video/knife-money-to-digital-new-scientist-live-2019.jpg" width="640" height="480"><source src="/assets/video/knife-money-to-digital-new-scientist-live-2019.mp4" type="video/mp4"></video><figcaption>From knife money to digital, teaser for New Scientist Live 2019</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/end-of-money-new-scientist-live-2019.jpg" width="640" height="480"><source src="/assets/video/end-of-money-new-scientist-live-2019.mp4" type="video/mp4"></video><figcaption>“The End of Money”, teaser for New Scientist Live 2019</figcaption></figure>
 <figure><video class="video-own" controls preload="none" poster="/assets/video/open-finance-game-changer-mena-2022.jpg" width="1280" height="720"><source src="/assets/video/open-finance-game-changer-mena-2022.mp4" type="video/mp4"></video><figcaption>“Open finance – a game-changer for the financial services industry”, MENA Open Finance Innovation Forum 2022</figcaption></figure>
 </div>

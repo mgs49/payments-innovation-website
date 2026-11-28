@@ -1005,7 +1005,7 @@ attendee posted [rave](https://www.linkedin.com/posts/weshassan_eu-digital-ident
 
 **29.11.21**
 
-Fireside chat on Open Banking at Mastercard LAC Innovation Forum, the region’s premier customer event/one of the most important industry events attracting the most influential group of payment industry leaders with 3200 international clients, with Executive Vice President Market Development “where you can share your vast knowledge of the global landscape”; other speakers include AS Roma Coach, CEO PepsiCo, psychologist and author Dan Ariely, primatologist Jane Goodall, Miami
+Fireside chat on Open Banking at the Mastercard LAC (Latin America and Caribbean) Innovation Forum RISE, Florida, the region’s premier customer event/one of the most important industry events attracting the most influential group of payment industry leaders with 3200 international clients, with Executive Vice President Market Development “where you can share your vast knowledge of the global landscape”; other speakers include AS Roma Coach, CEO PepsiCo, psychologist and author Dan Ariely, primatologist Jane Goodall, Miami
 
 > En todo el mundo, el cambio a la banca abierta es provocado por la regulación gubernamental o las fuerzas del mercado, pero ¿ha traído una mejor experiencia al consumidor? [@salmony](https://twitter.com/salmony?ref_src=twsrc%5Etfw) nos comparte sus ideas.  
 > [\#MastercardIF21](https://twitter.com/hashtag/MastercardIF21?src=hash&ref_src=twsrc%5Etfw) [\#Rise](https://twitter.com/hashtag/Rise?src=hash&ref_src=twsrc%5Etfw) [\#mediosdepago](https://twitter.com/hashtag/mediosdepago?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/pW0URxsMc8](https://t.co/pW0URxsMc8)
