@@ -217,3 +217,5 @@ Full version of interview on [Tokenisation](https://www.youtube.com/watch?v=mahR
 
 Host of [The Payments Trilogue](https://www.youtube.com/@ThePaymentsTrilogue) podcast series  
 <img src="/assets/uploads/2025/02/tri-254x300.jpg" loading="lazy" width="254" height="300">
+
+Host of the ETPPA video interview series [“Everything FinTech”](https://www.youtube.com/@etppa_channel) on YouTube, with guests from the ECB, the World Bank, EPI, the Berlin Group, Tink, Trustly, Form3 and others
